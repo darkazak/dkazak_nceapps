@@ -1,0 +1,1334 @@
+{
+    "8000": {
+        "label": "SLR Body",
+        "pricing-matrix": {
+            "trade-percent": "50",
+            "purchase-percent": "40",
+            "cosmetic": {
+                "relevant": true,
+                "tuner": ".01",
+                "mint": "1.31",
+                "nearmint": "1.01",
+                "excellent": "1",
+                "verygood": ".99",
+                "average": ".98",
+                "fair": ".90",
+                "poor": ".89"
+            },
+            "optical": {
+                "relevant": false,
+                "tuner": "0",
+                "mint": "0",
+                "nearmint": "0",
+                "excellent": "0",
+                "verygood": "0",
+                "average": "0",
+                "fair": "0",
+                "poor": "0"
+            },
+            "mechanical": {
+                "relevant": true,
+                "tuner": ".1",
+                "operational": "1",
+                "minordefect": ".7",
+                "majordefect": ".5",
+                "parts": ".2"
+            }
+        }
+    },
+    "8005": {
+        "label": "SLR AF Lens",
+        "pricing-matrix": {
+            "trade-percent": "40",
+            "purchase-percent": "30",
+            "cosmetic": {
+                "relevant": true,
+                "tuner": ".01",
+                "mint": "1.1",
+                "nearmint": "1.05",
+                "excellent": "1",
+                "verygood": ".98",
+                "average": ".92",
+                "fair": ".89",
+                "poor": ".85"
+            },
+            "optical": {
+                "relevant": true,
+                "tuner": ".01",
+                "mint": "1.1",
+                "nearmint": "1.05",
+                "excellent": "1",
+                "verygood": ".98",
+                "average": ".92",
+                "fair": ".89",
+                "poor": ".85"
+            },
+            "mechanical": {
+                "relevant": true,
+                "tuner": ".1",
+                "operational": "1",
+                "minordefect": ".7",
+                "majordefect": ".5",
+                "parts": ".2"
+            }
+        }
+    },
+    "8035": {
+        "label": "Point & Shoot Digital Camera",
+        "pricing-matrix": {
+            "trade-percent": "40",
+            "purchase-percent": "30",
+            "cosmetic": {
+                "relevant": true,
+                "tuner": ".01",
+                "mint": "1.1",
+                "nearmint": "1.05",
+                "excellent": "1",
+                "verygood": ".98",
+                "average": ".92",
+                "fair": ".89",
+                "poor": ".85"
+            },
+            "optical": {
+                "relevant": true,
+                "tuner": ".01",
+                "mint": "1.1",
+                "nearmint": "1.05",
+                "excellent": "1",
+                "verygood": ".98",
+                "average": ".92",
+                "fair": ".89",
+                "poor": ".85"
+            },
+            "mechanical": {
+                "relevant": true,
+                "tuner": ".1",
+                "operational": "1",
+                "minordefect": ".7",
+                "majordefect": ".5",
+                "parts": ".2"
+            }
+        }
+    },
+    "8070": {
+        "label": "Amateur Flash",
+        "pricing-matrix": {
+            "trade-percent": "46",
+            "purchase-percent": "37",
+            "cosmetic": {
+                "relevant": true,
+                "tuner": ".01",
+                "mint": "1.1",
+                "nearmint": "1.05",
+                "excellent": "1",
+                "verygood": ".98",
+                "average": ".92",
+                "fair": ".89",
+                "poor": ".85"
+            },
+            "optical": {
+                "relevant": false,
+                "tuner": "0",
+                "mint": "0",
+                "nearmint": "0",
+                "excellent": "0",
+                "verygood": "0",
+                "average": "0",
+                "fair": "0",
+                "poor": "0"
+            },
+            "mechanical": {
+                "relevant": true,
+                "tuner": ".1",
+                "operational": "1",
+                "minordefect": ".7",
+                "majordefect": ".5",
+                "parts": ".2"
+            }
+        }
+    },
+    "8080": {
+        "label": "SLR Digital Body",
+        "pricing-matrix": {
+            "trade-percent": "40",
+            "purchase-percent": "30",
+            "cosmetic": {
+                "relevant": true,
+                "tuner": ".01",
+                "mint": "1.1",
+                "nearmint": "1.05",
+                "excellent": "1",
+                "verygood": ".98",
+                "average": ".92",
+                "fair": ".89",
+                "poor": ".85"
+            },
+            "optical": {
+                "relevant": false,
+                "tuner": "0",
+                "mint": "0",
+                "nearmint": "0",
+                "excellent": "0",
+                "verygood": "0",
+                "average": "0",
+                "fair": "0",
+                "poor": "0"
+            },
+            "mechanical": {
+                "relevant": true,
+                "tuner": ".1",
+                "operational": "1",
+                "minordefect": ".7",
+                "majordefect": ".5",
+                "parts": ".2"
+            }
+        }
+    },
+    "8082": {
+        "label": "DL (NEX-M4/3-Mirrorless)",
+        "pricing-matrix": {
+            "trade-percent": "50",
+            "purchase-percent": "41",
+            "cosmetic": {
+                "relevant": true,
+                "tuner": ".01",
+                "mint": "1.1",
+                "nearmint": "1.05",
+                "excellent": "1",
+                "verygood": ".98",
+                "average": ".92",
+                "fair": ".89",
+                "poor": ".85"
+            },
+            "optical": {
+                "relevant": false,
+                "tuner": "0",
+                "mint": "0",
+                "nearmint": "0",
+                "excellent": "0",
+                "verygood": "0",
+                "average": "0",
+                "fair": "0",
+                "poor": "0"
+            },
+            "mechanical": {
+                "relevant": true,
+                "tuner": ".1",
+                "operational": "1",
+                "minordefect": ".7",
+                "majordefect": ".5",
+                "parts": ".2"
+            }
+        }
+    },
+    "8010": {
+        "label": "Point & Shoot Film Camera",
+        "pricing-matrix": {
+            "trade-percent": "45",
+            "purchase-percent": "35",
+            "cosmetic": {
+                "relevant": true,
+                "tuner": ".01",
+                "mint": "1.31",
+                "nearmint": "1.01",
+                "excellent": "1",
+                "verygood": ".99",
+                "average": ".98",
+                "fair": ".90",
+                "poor": ".89"
+            },
+            "optical": {
+                "relevant": true,
+                "tuner": "0",
+                "mint": "0",
+                "nearmint": "0",
+                "excellent": "0",
+                "verygood": "0",
+                "average": "0",
+                "fair": "0",
+                "poor": "0"
+            },
+            "mechanical": {
+                "relevant": true,
+                "tuner": ".1",
+                "operational": "1",
+                "minordefect": ".7",
+                "majordefect": ".5",
+                "parts": ".2"
+            }
+        }
+    },
+    "8015": {
+        "label": "Rangefinder Body",
+        "pricing-matrix": {
+            "trade-percent": "45",
+            "purchase-percent": "35",
+            "cosmetic": {
+                "relevant": true,
+                "tuner": ".01",
+                "mint": "1.31",
+                "nearmint": "1.01",
+                "excellent": "1",
+                "verygood": ".99",
+                "average": ".98",
+                "fair": ".90",
+                "poor": ".89"
+            },
+            "optical": {
+                "relevant": false,
+                "tuner": "0",
+                "mint": "0",
+                "nearmint": "0",
+                "excellent": "0",
+                "verygood": "0",
+                "average": "0",
+                "fair": "0",
+                "poor": "0"
+            },
+            "mechanical": {
+                "relevant": true,
+                "tuner": ".1",
+                "operational": "1",
+                "minordefect": ".7",
+                "majordefect": ".5",
+                "parts": ".2"
+            }
+        }
+    },
+    "8025": {
+        "label": "Medium Format Body",
+        "pricing-matrix": {
+            "trade-percent": "49",
+            "purchase-percent": "39",
+            "cosmetic": {
+                "relevant": true,
+                "tuner": ".01",
+                "mint": "1.31",
+                "nearmint": "1.01",
+                "excellent": "1",
+                "verygood": ".99",
+                "average": ".98",
+                "fair": ".90",
+                "poor": ".89"
+            },
+            "optical": {
+                "relevant": false,
+                "tuner": "0",
+                "mint": "0",
+                "nearmint": "0",
+                "excellent": "0",
+                "verygood": "0",
+                "average": "0",
+                "fair": "0",
+                "poor": "0"
+            },
+            "mechanical": {
+                "relevant": true,
+                "tuner": ".1",
+                "operational": "1",
+                "minordefect": ".7",
+                "majordefect": ".5",
+                "parts": ".2"
+            }
+        }
+    },
+    "8055": {
+        "label": "Large Format Camera",
+        "pricing-matrix": {
+            "trade-percent": "45",
+            "purchase-percent": "35",
+            "cosmetic": {
+                "relevant": true,
+                "tuner": ".01",
+                "mint": "1.31",
+                "nearmint": "1.01",
+                "excellent": "1",
+                "verygood": ".99",
+                "average": ".98",
+                "fair": ".90",
+                "poor": ".89"
+            },
+            "optical": {
+                "relevant": false,
+                "tuner": "0",
+                "mint": "0",
+                "nearmint": "0",
+                "excellent": "0",
+                "verygood": "0",
+                "average": "0",
+                "fair": "0",
+                "poor": "0"
+            },
+            "mechanical": {
+                "relevant": true,
+                "tuner": ".1",
+                "operational": "1",
+                "minordefect": ".7",
+                "majordefect": ".5",
+                "parts": ".2"
+            }
+        }
+    },
+    "8110": {
+        "label": "Camcorder",
+        "pricing-matrix": {
+            "trade-percent": "45",
+            "purchase-percent": "35",
+            "cosmetic": {
+                "relevant": true,
+                "tuner": ".01",
+                "mint": "1.31",
+                "nearmint": "1.01",
+                "excellent": "1",
+                "verygood": ".99",
+                "average": ".98",
+                "fair": ".90",
+                "poor": ".89"
+            },
+            "optical": {
+                "relevant": true,
+                "tuner": "0",
+                "mint": "0",
+                "nearmint": "0",
+                "excellent": "0",
+                "verygood": "0",
+                "average": "0",
+                "fair": "0",
+                "poor": "0"
+            },
+            "mechanical": {
+                "relevant": true,
+                "tuner": ".1",
+                "operational": "1",
+                "minordefect": ".7",
+                "majordefect": ".5",
+                "parts": ".2"
+            }
+        }
+    },
+    "8006": {
+        "label": "SLR MF Lens",
+        "pricing-matrix": {
+            "trade-percent": "41",
+            "purchase-percent": "32",
+            "cosmetic": {
+                "relevant": true,
+                "tuner": ".01",
+                "mint": "1.31",
+                "nearmint": "1.01",
+                "excellent": "1",
+                "verygood": ".99",
+                "average": ".98",
+                "fair": ".90",
+                "poor": ".89"
+            },
+            "optical": {
+                "relevant": true,
+                "tuner": ".01",
+                "mint": "1.1",
+                "nearmint": "1.05",
+                "excellent": "1",
+                "verygood": ".98",
+                "average": ".92",
+                "fair": ".89",
+                "poor": ".85"
+            },
+            "mechanical": {
+                "relevant": true,
+                "tuner": ".1",
+                "operational": "1",
+                "minordefect": ".7",
+                "majordefect": ".5",
+                "parts": ".2"
+            }
+        }
+    },
+    "8007": {
+        "label": "DL Mirrorless Lens",
+        "pricing-matrix": {
+            "trade-percent": "57",
+            "purchase-percent": "47",
+            "cosmetic": {
+                "relevant": true,
+                "tuner": ".01",
+                "mint": "1.31",
+                "nearmint": "1.01",
+                "excellent": "1",
+                "verygood": ".99",
+                "average": ".98",
+                "fair": ".90",
+                "poor": ".89"
+            },
+            "optical": {
+                "relevant": true,
+                "tuner": ".01",
+                "mint": "1.1",
+                "nearmint": "1.05",
+                "excellent": "1",
+                "verygood": ".98",
+                "average": ".92",
+                "fair": ".89",
+                "poor": ".85"
+            },
+            "mechanical": {
+                "relevant": true,
+                "tuner": ".1",
+                "operational": "1",
+                "minordefect": ".7",
+                "majordefect": ".5",
+                "parts": ".2"
+            }
+        }
+    },
+    "8020": {
+        "label": "Rangefinder Lens",
+        "pricing-matrix": {
+            "trade-percent": "45",
+            "purchase-percent": "35",
+            "cosmetic": {
+                "relevant": true,
+                "tuner": ".01",
+                "mint": "1.31",
+                "nearmint": "1.01",
+                "excellent": "1",
+                "verygood": ".99",
+                "average": ".98",
+                "fair": ".90",
+                "poor": ".89"
+            },
+            "optical": {
+                "relevant": true,
+                "tuner": ".01",
+                "mint": "1.1",
+                "nearmint": "1.05",
+                "excellent": "1",
+                "verygood": ".98",
+                "average": ".92",
+                "fair": ".89",
+                "poor": ".85"
+            },
+            "mechanical": {
+                "relevant": true,
+                "tuner": ".1",
+                "operational": "1",
+                "minordefect": ".7",
+                "majordefect": ".5",
+                "parts": ".2"
+            }
+        }
+    },
+    "8030": {
+        "label": "Medium Format Lens",
+        "pricing-matrix": {
+            "trade-percent": "45",
+            "purchase-percent": "35",
+            "cosmetic": {
+                "relevant": true,
+                "tuner": ".01",
+                "mint": "1.31",
+                "nearmint": "1.01",
+                "excellent": "1",
+                "verygood": ".99",
+                "average": ".98",
+                "fair": ".90",
+                "poor": ".89"
+            },
+            "optical": {
+                "relevant": true,
+                "tuner": ".01",
+                "mint": "1.1",
+                "nearmint": "1.05",
+                "excellent": "1",
+                "verygood": ".98",
+                "average": ".92",
+                "fair": ".89",
+                "poor": ".85"
+            },
+            "mechanical": {
+                "relevant": true,
+                "tuner": ".1",
+                "operational": "1",
+                "minordefect": ".7",
+                "majordefect": ".5",
+                "parts": ".2"
+            }
+        }
+    },
+    "8060": {
+        "label": "Large Format Lens",
+        "pricing-matrix": {
+            "trade-percent": "45",
+            "purchase-percent": "35",
+            "cosmetic": {
+                "relevant": true,
+                "tuner": ".01",
+                "mint": "1.31",
+                "nearmint": "1.01",
+                "excellent": "1",
+                "verygood": ".99",
+                "average": ".98",
+                "fair": ".90",
+                "poor": ".89"
+            },
+            "optical": {
+                "relevant": true,
+                "tuner": ".01",
+                "mint": "1.1",
+                "nearmint": "1.05",
+                "excellent": "1",
+                "verygood": ".98",
+                "average": ".92",
+                "fair": ".89",
+                "poor": ".85"
+            },
+            "mechanical": {
+                "relevant": true,
+                "tuner": ".1",
+                "operational": "1",
+                "minordefect": ".7",
+                "majordefect": ".5",
+                "parts": ".2"
+            }
+        }
+    },
+    "8040": {
+        "label": "Photo Accessory",
+        "pricing-matrix": {
+            "trade-percent": "46",
+            "purchase-percent": "37",
+            "cosmetic": {
+                "relevant": true,
+                "tuner": ".01",
+                "mint": "1.31",
+                "nearmint": "1.01",
+                "excellent": "1",
+                "verygood": ".99",
+                "average": ".98",
+                "fair": ".90",
+                "poor": ".89"
+            },
+            "optical": {
+                "relevant": false,
+                "tuner": "0",
+                "mint": "0",
+                "nearmint": "0",
+                "excellent": "0",
+                "verygood": "0",
+                "average": "0",
+                "fair": "0",
+                "poor": "0"
+            },
+            "mechanical": {
+                "relevant": true,
+                "tuner": ".1",
+                "operational": "1",
+                "minordefect": ".7",
+                "majordefect": ".5",
+                "parts": ".2"
+            }
+        }
+    },
+    "8045": {
+        "label": "Medium Format Back",
+        "pricing-matrix": {
+            "trade-percent": "45",
+            "purchase-percent": "35",
+            "cosmetic": {
+                "relevant": true,
+                "tuner": ".01",
+                "mint": "1.31",
+                "nearmint": "1.01",
+                "excellent": "1",
+                "verygood": ".99",
+                "average": ".98",
+                "fair": ".90",
+                "poor": ".89"
+            },
+            "optical": {
+                "relevant": false,
+                "tuner": "0",
+                "mint": "0",
+                "nearmint": "0",
+                "excellent": "0",
+                "verygood": "0",
+                "average": "0",
+                "fair": "0",
+                "poor": "0"
+            },
+            "mechanical": {
+                "relevant": true,
+                "tuner": ".1",
+                "operational": "1",
+                "minordefect": ".7",
+                "majordefect": ".5",
+                "parts": ".2"
+            }
+        }
+    },
+    "8047": {
+        "label": "Medium Format Prism",
+        "pricing-matrix": {
+            "trade-percent": "45",
+            "purchase-percent": "35",
+            "cosmetic": {
+                "relevant": true,
+                "tuner": ".01",
+                "mint": "1.31",
+                "nearmint": "1.01",
+                "excellent": "1",
+                "verygood": ".99",
+                "average": ".98",
+                "fair": ".90",
+                "poor": ".89"
+            },
+            "optical": {
+                "relevant": false,
+                "tuner": "0",
+                "mint": "0",
+                "nearmint": "0",
+                "excellent": "0",
+                "verygood": "0",
+                "average": "0",
+                "fair": "0",
+                "poor": "0"
+            },
+            "mechanical": {
+                "relevant": true,
+                "tuner": ".1",
+                "operational": "1",
+                "minordefect": ".7",
+                "majordefect": ".5",
+                "parts": ".2"
+            }
+        }
+    },
+    "8050": {
+        "label": "Medium Format Accessory",
+        "pricing-matrix": {
+            "trade-percent": "45",
+            "purchase-percent": "35",
+            "cosmetic": {
+                "relevant": true,
+                "tuner": ".01",
+                "mint": "1.31",
+                "nearmint": "1.01",
+                "excellent": "1",
+                "verygood": ".99",
+                "average": ".98",
+                "fair": ".90",
+                "poor": ".89"
+            },
+            "optical": {
+                "relevant": false,
+                "tuner": "0",
+                "mint": "0",
+                "nearmint": "0",
+                "excellent": "0",
+                "verygood": "0",
+                "average": "0",
+                "fair": "0",
+                "poor": "0"
+            },
+            "mechanical": {
+                "relevant": true,
+                "tuner": ".1",
+                "operational": "1",
+                "minordefect": ".7",
+                "majordefect": ".5",
+                "parts": ".2"
+            }
+        }
+    },
+    "8065": {
+        "label": "Large Format Accessory",
+        "pricing-matrix": {
+            "trade-percent": "45",
+            "purchase-percent": "35",
+            "cosmetic": {
+                "relevant": true,
+                "tuner": ".01",
+                "mint": "1.31",
+                "nearmint": "1.01",
+                "excellent": "1",
+                "verygood": ".99",
+                "average": ".98",
+                "fair": ".90",
+                "poor": ".89"
+            },
+            "optical": {
+                "relevant": false,
+                "tuner": "0",
+                "mint": "0",
+                "nearmint": "0",
+                "excellent": "0",
+                "verygood": "0",
+                "average": "0",
+                "fair": "0",
+                "poor": "0"
+            },
+            "mechanical": {
+                "relevant": true,
+                "tuner": ".1",
+                "operational": "1",
+                "minordefect": ".7",
+                "majordefect": ".5",
+                "parts": ".2"
+            }
+        }
+    },
+    "8085": {
+        "label": "Tripod or Accessory",
+        "pricing-matrix": {
+            "trade-percent": "45",
+            "purchase-percent": "35",
+            "cosmetic": {
+                "relevant": true,
+                "tuner": ".01",
+                "mint": "1.31",
+                "nearmint": "1.01",
+                "excellent": "1",
+                "verygood": ".99",
+                "average": ".98",
+                "fair": ".90",
+                "poor": ".89"
+            },
+            "optical": {
+                "relevant": false,
+                "tuner": "0",
+                "mint": "0",
+                "nearmint": "0",
+                "excellent": "0",
+                "verygood": "0",
+                "average": "0",
+                "fair": "0",
+                "poor": "0"
+            },
+            "mechanical": {
+                "relevant": true,
+                "tuner": ".1",
+                "operational": "1",
+                "minordefect": ".7",
+                "majordefect": ".5",
+                "parts": ".2"
+            }
+        }
+    },
+    "8090": {
+        "label": "Camera Case",
+        "pricing-matrix": {
+            "trade-percent": "47",
+            "purchase-percent": "37",
+            "cosmetic": {
+                "relevant": true,
+                "tuner": ".01",
+                "mint": "1.31",
+                "nearmint": "1.01",
+                "excellent": "1",
+                "verygood": ".99",
+                "average": ".98",
+                "fair": ".90",
+                "poor": ".89"
+            },
+            "optical": {
+                "relevant": false,
+                "tuner": "0",
+                "mint": "0",
+                "nearmint": "0",
+                "excellent": "0",
+                "verygood": "0",
+                "average": "0",
+                "fair": "0",
+                "poor": "0"
+            },
+            "mechanical": {
+                "relevant": true,
+                "tuner": ".1",
+                "operational": "1",
+                "minordefect": ".7",
+                "majordefect": ".5",
+                "parts": ".2"
+            }
+        }
+    },
+    "8075": {
+        "label": "Pro Lighting Equipment",
+        "pricing-matrix": {
+            "trade-percent": "45",
+            "purchase-percent": "35",
+            "cosmetic": {
+                "relevant": true,
+                "tuner": ".01",
+                "mint": "1.31",
+                "nearmint": "1.01",
+                "excellent": "1",
+                "verygood": ".99",
+                "average": ".98",
+                "fair": ".90",
+                "poor": ".89"
+            },
+            "optical": {
+                "relevant": false,
+                "tuner": "0",
+                "mint": "0",
+                "nearmint": "0",
+                "excellent": "0",
+                "verygood": "0",
+                "average": "0",
+                "fair": "0",
+                "poor": "0"
+            },
+            "mechanical": {
+                "relevant": true,
+                "tuner": ".1",
+                "operational": "1",
+                "minordefect": ".7",
+                "majordefect": ".5",
+                "parts": ".2"
+            }
+        }
+    },
+    "8077": {
+        "label": "Continuous Lighting Equipment",
+        "pricing-matrix": {
+            "trade-percent": "45",
+            "purchase-percent": "35",
+            "cosmetic": {
+                "relevant": true,
+                "tuner": ".01",
+                "mint": "1.31",
+                "nearmint": "1.01",
+                "excellent": "1",
+                "verygood": ".99",
+                "average": ".98",
+                "fair": ".90",
+                "poor": ".89"
+            },
+            "optical": {
+                "relevant": false,
+                "tuner": "0",
+                "mint": "0",
+                "nearmint": "0",
+                "excellent": "0",
+                "verygood": "0",
+                "average": "0",
+                "fair": "0",
+                "poor": "0"
+            },
+            "mechanical": {
+                "relevant": true,
+                "tuner": ".1",
+                "operational": "1",
+                "minordefect": ".7",
+                "majordefect": ".5",
+                "parts": ".2"
+            }
+        }
+    },
+    "8095": {
+        "label": "Light Meter",
+        "pricing-matrix": {
+            "trade-percent": "45",
+            "purchase-percent": "35",
+            "cosmetic": {
+                "relevant": true,
+                "tuner": ".01",
+                "mint": "1.31",
+                "nearmint": "1.01",
+                "excellent": "1",
+                "verygood": ".99",
+                "average": ".98",
+                "fair": ".90",
+                "poor": ".89"
+            },
+            "optical": {
+                "relevant": false,
+                "tuner": "0",
+                "mint": "0",
+                "nearmint": "0",
+                "excellent": "0",
+                "verygood": "0",
+                "average": "0",
+                "fair": "0",
+                "poor": "0"
+            },
+            "mechanical": {
+                "relevant": true,
+                "tuner": ".1",
+                "operational": "1",
+                "minordefect": ".7",
+                "majordefect": ".5",
+                "parts": ".2"
+            }
+        }
+    },
+    "8200": {
+        "label": "Binocular",
+        "pricing-matrix": {
+            "trade-percent": "47",
+            "purchase-percent": "37",
+            "cosmetic": {
+                "relevant": true,
+                "tuner": ".01",
+                "mint": "1.31",
+                "nearmint": "1.01",
+                "excellent": "1",
+                "verygood": ".99",
+                "average": ".98",
+                "fair": ".90",
+                "poor": ".89"
+            },
+            "optical": {
+                "relevant": true,
+                "tuner": ".01",
+                "mint": "1.1",
+                "nearmint": "1.05",
+                "excellent": "1",
+                "verygood": ".98",
+                "average": ".92",
+                "fair": ".89",
+                "poor": ".85"
+            },
+            "mechanical": {
+                "relevant": true,
+                "tuner": ".1",
+                "operational": "1",
+                "minordefect": ".7",
+                "majordefect": ".5",
+                "parts": ".2"
+            }
+        }
+    },
+    "8205": {
+        "label": "Spotting Scope",
+        "pricing-matrix": {
+            "trade-percent": "45",
+            "purchase-percent": "35",
+            "cosmetic": {
+                "relevant": true,
+                "tuner": ".01",
+                "mint": "1.31",
+                "nearmint": "1.01",
+                "excellent": "1",
+                "verygood": ".99",
+                "average": ".98",
+                "fair": ".90",
+                "poor": ".89"
+            },
+            "optical": {
+                "relevant": true,
+                "tuner": ".01",
+                "mint": "1.1",
+                "nearmint": "1.05",
+                "excellent": "1",
+                "verygood": ".98",
+                "average": ".92",
+                "fair": ".89",
+                "poor": ".85"
+            },
+            "mechanical": {
+                "relevant": true,
+                "tuner": ".1",
+                "operational": "1",
+                "minordefect": ".7",
+                "majordefect": ".5",
+                "parts": ".2"
+            }
+        }
+    },
+    "8210": {
+        "label": "Telescope",
+        "pricing-matrix": {
+            "trade-percent": "45",
+            "purchase-percent": "35",
+            "cosmetic": {
+                "relevant": true,
+                "tuner": ".01",
+                "mint": "1.31",
+                "nearmint": "1.01",
+                "excellent": "1",
+                "verygood": ".99",
+                "average": ".98",
+                "fair": ".90",
+                "poor": ".89"
+            },
+            "optical": {
+                "relevant": true,
+                "tuner": ".01",
+                "mint": "1.1",
+                "nearmint": "1.05",
+                "excellent": "1",
+                "verygood": ".98",
+                "average": ".92",
+                "fair": ".89",
+                "poor": ".85"
+            },
+            "mechanical": {
+                "relevant": true,
+                "tuner": ".1",
+                "operational": "1",
+                "minordefect": ".7",
+                "majordefect": ".5",
+                "parts": ".2"
+            }
+        }
+    },
+    "8215": {
+        "label": "Telescope Accessory",
+        "pricing-matrix": {
+            "trade-percent": "45",
+            "purchase-percent": "35",
+            "cosmetic": {
+                "relevant": true,
+                "tuner": ".01",
+                "mint": "1.31",
+                "nearmint": "1.01",
+                "excellent": "1",
+                "verygood": ".99",
+                "average": ".98",
+                "fair": ".90",
+                "poor": ".89"
+            },
+            "optical": {
+                "relevant": false,
+                "tuner": "0",
+                "mint": "0",
+                "nearmint": "0",
+                "excellent": "0",
+                "verygood": "0",
+                "average": "0",
+                "fair": "0",
+                "poor": "0"
+            },
+            "mechanical": {
+                "relevant": true,
+                "tuner": ".1",
+                "operational": "1",
+                "minordefect": ".7",
+                "majordefect": ".5",
+                "parts": ".2"
+            }
+        }
+    },
+    "8220": {
+        "label": "Spotting Scope Accessory",
+        "pricing-matrix": {
+            "trade-percent": "45",
+            "purchase-percent": "35",
+            "cosmetic": {
+                "relevant": true,
+                "tuner": ".01",
+                "mint": "1.31",
+                "nearmint": "1.01",
+                "excellent": "1",
+                "verygood": ".99",
+                "average": ".98",
+                "fair": ".90",
+                "poor": ".89"
+            },
+            "optical": {
+                "relevant": false,
+                "tuner": "0",
+                "mint": "0",
+                "nearmint": "0",
+                "excellent": "0",
+                "verygood": "0",
+                "average": "0",
+                "fair": "0",
+                "poor": "0"
+            },
+            "mechanical": {
+                "relevant": true,
+                "tuner": ".1",
+                "operational": "1",
+                "minordefect": ".7",
+                "majordefect": ".5",
+                "parts": ".2"
+            }
+        }
+    },
+    "8300": {
+        "label": "Darkroom Equipment or Supply",
+        "pricing-matrix": {
+            "trade-percent": "45",
+            "purchase-percent": "35",
+            "cosmetic": {
+                "relevant": true,
+                "tuner": ".01",
+                "mint": "1.31",
+                "nearmint": "1.01",
+                "excellent": "1",
+                "verygood": ".99",
+                "average": ".98",
+                "fair": ".90",
+                "poor": ".89"
+            },
+            "optical": {
+                "relevant": false,
+                "tuner": "0",
+                "mint": "0",
+                "nearmint": "0",
+                "excellent": "0",
+                "verygood": "0",
+                "average": "0",
+                "fair": "0",
+                "poor": "0"
+            },
+            "mechanical": {
+                "relevant": true,
+                "tuner": ".1",
+                "operational": "1",
+                "minordefect": ".7",
+                "majordefect": ".5",
+                "parts": ".2"
+            }
+        }
+    },
+    "8100": {
+        "label": "Audio Visual Equipment",
+        "pricing-matrix": {
+            "trade-percent": "47",
+            "purchase-percent": "37",
+            "cosmetic": {
+                "relevant": true,
+                "tuner": ".01",
+                "mint": "1.31",
+                "nearmint": "1.01",
+                "excellent": "1",
+                "verygood": ".99",
+                "average": ".98",
+                "fair": ".90",
+                "poor": ".89"
+            },
+            "optical": {
+                "relevant": false,
+                "tuner": "0",
+                "mint": "0",
+                "nearmint": "0",
+                "excellent": "0",
+                "verygood": "0",
+                "average": "0",
+                "fair": "0",
+                "poor": "0"
+            },
+            "mechanical": {
+                "relevant": true,
+                "tuner": ".1",
+                "operational": "1",
+                "minordefect": ".7",
+                "majordefect": ".5",
+                "parts": ".2"
+            }
+        }
+    },
+    "8105": {
+        "label": "VCR",
+        "pricing-matrix": {
+            "trade-percent": "45",
+            "purchase-percent": "35",
+            "cosmetic": {
+                "relevant": true,
+                "tuner": ".01",
+                "mint": "1.31",
+                "nearmint": "1.01",
+                "excellent": "1",
+                "verygood": ".99",
+                "average": ".98",
+                "fair": ".90",
+                "poor": ".89"
+            },
+            "optical": {
+                "relevant": false,
+                "tuner": "0",
+                "mint": "0",
+                "nearmint": "0",
+                "excellent": "0",
+                "verygood": "0",
+                "average": "0",
+                "fair": "0",
+                "poor": "0"
+            },
+            "mechanical": {
+                "relevant": true,
+                "tuner": ".1",
+                "operational": "1",
+                "minordefect": ".7",
+                "majordefect": ".5",
+                "parts": ".2"
+            }
+        }
+    },
+    "8115": {
+        "label": "Miscellaneous Video Equipment",
+        "pricing-matrix": {
+            "trade-percent": "45",
+            "purchase-percent": "35",
+            "cosmetic": {
+                "relevant": true,
+                "tuner": ".01",
+                "mint": "1.31",
+                "nearmint": "1.01",
+                "excellent": "1",
+                "verygood": ".99",
+                "average": ".98",
+                "fair": ".90",
+                "poor": ".89"
+            },
+            "optical": {
+                "relevant": false,
+                "tuner": "0",
+                "mint": "0",
+                "nearmint": "0",
+                "excellent": "0",
+                "verygood": "0",
+                "average": "0",
+                "fair": "0",
+                "poor": "0"
+            },
+            "mechanical": {
+                "relevant": true,
+                "tuner": ".1",
+                "operational": "1",
+                "minordefect": ".7",
+                "majordefect": ".5",
+                "parts": ".2"
+            }
+        }
+    },
+    "8400": {
+        "label": "Miscellaneous Equipment or Supply",
+        "pricing-matrix": {
+            "trade-percent": "49",
+            "purchase-percent": "39",
+            "cosmetic": {
+                "relevant": true,
+                "tuner": ".01",
+                "mint": "1.31",
+                "nearmint": "1.01",
+                "excellent": "1",
+                "verygood": ".99",
+                "average": ".98",
+                "fair": ".90",
+                "poor": ".89"
+            },
+            "optical": {
+                "relevant": false,
+                "tuner": "0",
+                "mint": "0",
+                "nearmint": "0",
+                "excellent": "0",
+                "verygood": "0",
+                "average": "0",
+                "fair": "0",
+                "poor": "0"
+            },
+            "mechanical": {
+                "relevant": false,
+                "tuner": ".1",
+                "operational": "1",
+                "minordefect": ".7",
+                "majordefect": ".5",
+                "parts": ".2"
+            }
+        }
+    }
+}

@@ -1,0 +1,7950 @@
+{
+    "base": {
+        "minors": [
+        ],
+        "minorsAll": false,
+        "familyInc": [
+        ],
+        "familyIncAll": false,
+        "familyExc": [
+        ],
+        "familyExcAll": false,
+        "nameLit": "nothing",
+        "nameInc": [
+        ],
+        "nameIncAll": false,
+        "nameExc": [
+        ],
+        "nameExcAll": false
+    },
+    "cameras": {
+        "minors": [
+            "8000",
+            "8010",
+            "8015",
+            "8025",
+            "8035",
+            "8035",
+            "8080",
+            "8082",
+            "8110"
+        ],
+        "minorsAll": false,
+        "familyInc": [
+        ],
+        "familyIncAll": false,
+        "familyExc": [
+        ],
+        "familyExcAll": false,
+        "nameLit": "",
+        "nameInc": [
+        ],
+        "nameIncAll": false,
+        "nameExc": [
+        ],
+        "nameExcAll": false
+    },
+    "slr-film": {
+        "minors": [
+            "8000"
+        ],
+        "minorsAll": true,
+        "familyInc": [
+        ],
+        "familyIncAll": true,
+        "familyExc": [
+        ],
+        "familyExcAll": true,
+        "nameLit": "",
+        "nameInc": [
+        ],
+        "nameIncAll": true,
+        "nameExc": [
+        ],
+        "nameExcAll": true
+    },
+    "slr-film-canon": {
+        "minors": [
+            "8000"
+        ],
+        "minorsAll": true,
+        "familyInc": [
+            "1CAN"
+        ],
+        "familyIncAll": true,
+        "familyExc": [
+        ],
+        "familyExcAll": true,
+        "nameLit": "",
+        "nameInc": [
+        ],
+        "nameIncAll": true,
+        "nameExc": [
+        ],
+        "nameExcAll": true
+    },
+    "slr-film-canon-eos": {
+        "minors": [
+            "8000"
+        ],
+        "minorsAll": true,
+        "familyInc": [
+            "1CAN"
+        ],
+        "familyIncAll": true,
+        "familyExc": [
+        ],
+        "familyExcAll": true,
+        "nameLit": "",
+        "nameInc": [
+            "EOS"
+        ],
+        "nameIncAll": true,
+        "nameExc": [
+        ],
+        "nameExcAll": true
+    },
+    "slr-film-canon-eos-rebel": {
+        "minors": [
+            "8000"
+        ],
+        "minorsAll": true,
+        "familyInc": [
+            "1CAN"
+        ],
+        "familyIncAll": true,
+        "familyExc": [
+        ],
+        "familyExcAll": true,
+        "nameLit": "",
+        "nameInc": [
+            "EOS",
+            "REBEL"
+        ],
+        "nameIncAll": true,
+        "nameExc": [
+        ],
+        "nameExcAll": true
+    },
+    "slr-film-canon-eos-other": {
+        "minors": [
+            "8000"
+        ],
+        "minorsAll": true,
+        "familyInc": [
+            "1CAN"
+        ],
+        "familyIncAll": true,
+        "familyExc": [
+        ],
+        "familyExcAll": true,
+        "nameLit": "",
+        "nameInc": [
+            "EOS"
+        ],
+        "nameIncAll": true,
+        "nameExc": [
+            "REBEL"
+        ],
+        "nameExcAll": true
+    },
+    "slr-film-canon-non-eos": {
+        "minors": [
+            "8000"
+        ],
+        "minorsAll": true,
+        "familyInc": [
+            "1CAN"
+        ],
+        "familyIncAll": true,
+        "familyExc": [
+        ],
+        "familyExcAll": true,
+        "nameLit": "",
+        "nameInc": [
+        ],
+        "nameIncAll": true,
+        "nameExc": [
+            "EOS"
+        ],
+        "nameExcAll": true
+    },
+    "slr-film-nikon": {
+        "minors": [
+            "8000"
+        ],
+        "minorsAll": true,
+        "familyInc": [
+            "1NIK"
+        ],
+        "familyIncAll": true,
+        "familyExc": [
+        ],
+        "familyExcAll": true,
+        "nameLit": "",
+        "nameInc": [
+        ],
+        "nameIncAll": true,
+        "nameExc": [
+        ],
+        "nameExcAll": true
+    },
+    "slr-film-nikon-f": {
+        "minors": [
+            "8000"
+        ],
+        "minorsAll": true,
+        "familyInc": [
+            "1NIK"
+        ],
+        "familyIncAll": true,
+        "familyExc": [
+        ],
+        "familyExcAll": true,
+        "nameLit": "",
+        "nameInc": [
+            "f "
+        ],
+        "nameIncAll": true,
+        "nameExc": [
+        ],
+        "nameExcAll": true
+    },
+    "slr-film-nikon-fm": {
+        "minors": [
+            "8000"
+        ],
+        "minorsAll": true,
+        "familyInc": [
+            "1NIK"
+        ],
+        "familyIncAll": true,
+        "familyExc": [
+        ],
+        "familyExcAll": true,
+        "nameLit": "",
+        "nameInc": [
+            "fm"
+        ],
+        "nameIncAll": true,
+        "nameExc": [
+        ],
+        "nameExcAll": true
+    },
+    "slr-film-nikon-fnum": {
+        "minors": [
+            "8000"
+        ],
+        "minorsAll": true,
+        "familyInc": [
+            "1NIK"
+        ],
+        "familyIncAll": true,
+        "familyExc": [
+        ],
+        "familyExcAll": true,
+        "nameLit": "",
+        "nameInc": [
+            "f-",
+            "f1",
+            "f2",
+            "f3",
+            "f4",
+            "f5",
+            "f6",
+            "f7",
+            "f8",
+            "f9"
+        ],
+        "nameIncAll": false,
+        "nameExc": [
+        ],
+        "nameExcAll": true
+    },
+    "slr-film-nikon-nikkormat": {
+        "minors": [
+            "8000"
+        ],
+        "minorsAll": true,
+        "familyInc": [
+            "1NIK"
+        ],
+        "familyIncAll": true,
+        "familyExc": [
+        ],
+        "familyExcAll": true,
+        "nameLit": "",
+        "nameInc": [
+            "nikkormat"
+        ],
+        "nameIncAll": false,
+        "nameExc": [
+        ],
+        "nameExcAll": true
+    },
+    "slr-film-nikon-n": {
+        "minors": [
+            "8000"
+        ],
+        "minorsAll": true,
+        "familyInc": [
+            "1NIK"
+        ],
+        "familyIncAll": true,
+        "familyExc": [
+        ],
+        "familyExcAll": true,
+        "nameLit": "",
+        "nameInc": [
+            " n"
+        ],
+        "nameIncAll": true,
+        "nameExc": [
+        ],
+        "nameExcAll": true
+    },
+    "slr-film-nikon-other": {
+        "minors": [
+            "8000"
+        ],
+        "minorsAll": true,
+        "familyInc": [
+            "1NIK"
+        ],
+        "familyIncAll": true,
+        "familyExc": [
+        ],
+        "familyExcAll": true,
+        "nameLit": "",
+        "nameInc": [
+        ],
+        "nameIncAll": true,
+        "nameExc": [
+            " n",
+            "nikkormat",
+            "fm",
+            "f ",
+            "f-",
+            "f1",
+            "f2",
+            "f3",
+            "f4",
+            "f5",
+            "f6",
+            "f7",
+            "f8",
+            "f9"
+        ],
+        "nameExcAll": false
+    },
+    "slr-film-olympus": {
+        "minors": [
+            "8000"
+        ],
+        "minorsAll": true,
+        "familyInc": [
+            "1OLY"
+        ],
+        "familyIncAll": true,
+        "familyExc": [
+        ],
+        "familyExcAll": true,
+        "nameLit": "",
+        "nameInc": [
+        ],
+        "nameIncAll": true,
+        "nameExc": [
+        ],
+        "nameExcAll": true
+    },
+    "slr-film-minolta": {
+        "minors": [
+            "8000"
+        ],
+        "minorsAll": true,
+        "familyInc": [
+            "1MIN"
+        ],
+        "familyIncAll": true,
+        "familyExc": [
+        ],
+        "familyExcAll": true,
+        "nameLit": "",
+        "nameInc": [
+        ],
+        "nameIncAll": true,
+        "nameExc": [
+        ],
+        "nameExcAll": true
+    },
+    "slr-film-lecia": {
+        "minors": [
+            "8000"
+        ],
+        "minorsAll": true,
+        "familyInc": [
+            "1LEI"
+        ],
+        "familyIncAll": true,
+        "familyExc": [
+        ],
+        "familyExcAll": true,
+        "nameLit": "",
+        "nameInc": [
+        ],
+        "nameIncAll": true,
+        "nameExc": [
+        ],
+        "nameExcAll": true
+    },
+    "slr-film-pentax": {
+        "minors": [
+            "8000"
+        ],
+        "minorsAll": true,
+        "familyInc": [
+            "1PEN"
+        ],
+        "familyIncAll": true,
+        "familyExc": [
+        ],
+        "familyExcAll": true,
+        "nameLit": "",
+        "nameInc": [
+        ],
+        "nameIncAll": true,
+        "nameExc": [
+        ],
+        "nameExcAll": true
+    },
+    "slr-film-other": {
+        "minors": [
+            "8000"
+        ],
+        "minorsAll": true,
+        "familyInc": [
+        ],
+        "familyIncAll": true,
+        "familyExc": [
+            "1CAN",
+            "1NIK",
+            "1OLY",
+            "1MIN",
+            "1LEI",
+            "1PEN"
+        ],
+        "familyExcAll": false,
+        "nameLit": "",
+        "nameInc": [
+        ],
+        "nameIncAll": true,
+        "nameExc": [
+        ],
+        "nameExcAll": true
+    },
+    "slr-digital": {
+        "minors": [
+            "8080"
+        ],
+        "minorsAll": true,
+        "familyInc": [
+        ],
+        "familyIncAll": true,
+        "familyExc": [
+        ],
+        "familyExcAll": true,
+        "nameLit": "",
+        "nameInc": [
+        ],
+        "nameIncAll": true,
+        "nameExc": [
+        ],
+        "nameExcAll": true
+    },
+    "slr-digital-canon": {
+        "minors": [
+            "8080"
+        ],
+        "minorsAll": true,
+        "familyInc": [
+            "1CAN"
+        ],
+        "familyIncAll": true,
+        "familyExc": [
+        ],
+        "familyExcAll": true,
+        "nameLit": "",
+        "nameInc": [
+        ],
+        "nameIncAll": true,
+        "nameExc": [
+        ],
+        "nameExcAll": true
+    },
+    "slr-digital-canon-standard": {
+        "minors": [
+            "8080"
+        ],
+        "minorsAll": true,
+        "familyInc": [
+            "1CAN"
+        ],
+        "familyIncAll": true,
+        "familyExc": [
+        ],
+        "familyExcAll": true,
+        "nameLit": "",
+        "nameInc": [
+        ],
+        "nameIncAll": true,
+        "nameExc": [
+            "rebel"
+        ],
+        "nameExcAll": true
+    },
+    "slr-digital-canon-rebel": {
+        "minors": [
+            "8080"
+        ],
+        "minorsAll": true,
+        "familyInc": [
+            "1CAN"
+        ],
+        "familyIncAll": true,
+        "familyExc": [
+        ],
+        "familyExcAll": true,
+        "nameLit": "",
+        "nameInc": [
+            "rebel"
+        ],
+        "nameIncAll": true,
+        "nameExc": [
+        ],
+        "nameExcAll": true
+    },
+    "slr-digital-nikon": {
+        "minors": [
+            "8080"
+        ],
+        "minorsAll": true,
+        "familyInc": [
+            "1NIK"
+        ],
+        "familyIncAll": true,
+        "familyExc": [
+        ],
+        "familyExcAll": true,
+        "nameLit": "",
+        "nameInc": [
+        ],
+        "nameIncAll": true,
+        "nameExc": [
+        ],
+        "nameExcAll": true
+    },
+    "slr-digital-nikon-dx-d2": {
+        "minors": [
+            "8080"
+        ],
+        "minorsAll": true,
+        "familyInc": [
+            "1NIK"
+        ],
+        "familyIncAll": true,
+        "familyExc": [
+        ],
+        "familyExcAll": true,
+        "nameLit": "",
+        "nameInc": [
+            " DF",
+    " D1",
+            " D2"
+        ],
+        "nameIncAll": false,
+        "nameExc": [
+        ],
+        "nameExcAll": true
+    },
+    "slr-digital-nikon-d3": {
+        "minors": [
+            "8080"
+        ],
+        "minorsAll": true,
+        "familyInc": [
+            "1NIK"
+        ],
+        "familyIncAll": true,
+        "familyExc": [
+        ],
+        "familyExcAll": true,
+        "nameLit": "",
+        "nameInc": [
+            "D3"
+        ],
+        "nameIncAll": false,
+        "nameExc": [
+        ],
+        "nameExcAll": true
+    },
+    "slr-digital-nikon-d4": {
+        "minors": [
+            "8080"
+        ],
+        "minorsAll": true,
+        "familyInc": [
+            "1NIK"
+        ],
+        "familyIncAll": true,
+        "familyExc": [
+        ],
+        "familyExcAll": true,
+        "nameLit": "",
+        "nameInc": [
+            "D4"
+        ],
+        "nameIncAll": true,
+        "nameExc": [
+        ],
+        "nameExcAll": true
+    },
+    "slr-digital-nikon-d5": {
+        "minors": [
+            "8080"
+        ],
+        "minorsAll": true,
+        "familyInc": [
+            "1NIK"
+        ],
+        "familyIncAll": true,
+        "familyExc": [
+        ],
+        "familyExcAll": true,
+        "nameLit": "",
+        "nameInc": [
+            "D5"
+        ],
+        "nameIncAll": true,
+        "nameExc": [
+        ],
+        "nameExcAll": true
+    },
+    "slr-digital-nikon-d6-d7": {
+        "minors": [
+            "8080"
+        ],
+        "minorsAll": true,
+        "familyInc": [
+            "1NIK"
+        ],
+        "familyIncAll": true,
+        "familyExc": [
+        ],
+        "familyExcAll": true,
+        "nameLit": "",
+        "nameInc": [
+            "D6",
+            "D7"
+        ],
+        "nameIncAll": false,
+        "nameExc": [
+        ],
+        "nameExcAll": true
+    },
+    "slr-digital-nikon-d8-d9": {
+        "minors": [
+            "8080"
+        ],
+        "minorsAll": true,
+        "familyInc": [
+            "1NIK"
+        ],
+        "familyIncAll": true,
+        "familyExc": [
+        ],
+        "familyExcAll": true,
+        "nameLit": "",
+        "nameInc": [
+            "D8",
+            "D9"
+        ],
+        "nameIncAll": false,
+        "nameExc": [
+        ],
+        "nameExcAll": true
+    },
+    "slr-digital-sony": {
+        "minors": [
+            "8080"
+        ],
+        "minorsAll": true,
+        "familyInc": [
+            "1SNY"
+        ],
+        "familyIncAll": true,
+        "familyExc": [
+        ],
+        "familyExcAll": true,
+        "nameLit": "",
+        "nameInc": [
+        ],
+        "nameIncAll": true,
+        "nameExc": [
+        ],
+        "nameExcAll": true
+    },
+    "slr-digital-other": {
+        "minors": [
+            "8080"
+        ],
+        "minorsAll": true,
+        "familyInc": [
+        ],
+        "familyIncAll": true,
+        "familyExc": [
+            "1CAN",
+            "1SNY",
+            "1NIK"
+        ],
+        "familyExcAll": false,
+        "nameLit": "",
+        "nameInc": [
+        ],
+        "nameIncAll": true,
+        "nameExc": [
+        ],
+        "nameExcAll": true
+    },
+    "rangefinder": {
+        "minors": [
+            "8015"
+        ],
+        "minorsAll": false,
+        "familyInc": [
+        ],
+        "familyIncAll": false,
+        "familyExc": [
+        ],
+        "familyExcAll": false,
+        "nameLit": "",
+        "nameInc": [
+        ],
+        "nameIncAll": false,
+        "nameExc": [
+        ],
+        "nameExcAll": false
+    },
+    "rangefinder-lecia": {
+        "minors": [
+            "8015"
+        ],
+        "minorsAll": true,
+        "familyInc": [
+            "1LEI"
+        ],
+        "familyIncAll": true,
+        "familyExc": [
+        ],
+        "familyExcAll": true,
+        "nameLit": "",
+        "nameInc": [
+        ],
+        "nameIncAll": true,
+        "nameExc": [
+        ],
+        "nameExcAll": true
+    },
+    "rangefinder-other": {
+        "minors": [
+            "8015"
+        ],
+        "minorsAll": true,
+        "familyInc": [
+        ],
+        "familyIncAll": true,
+        "familyExc": [
+            "1LEI"
+        ],
+        "familyExcAll": false,
+        "nameLit": "",
+        "nameInc": [
+        ],
+        "nameIncAll": true,
+        "nameExc": [
+        ],
+        "nameExcAll": true
+    },
+    "point-shoot": {
+        "minors": [
+            "8010",
+            "8035"
+        ],
+        "minorsAll": false,
+        "familyInc": [
+        ],
+        "familyIncAll": true,
+        "familyExc": [
+        ],
+        "familyExcAll": true,
+        "nameLit": "",
+        "nameInc": [
+        ],
+        "nameIncAll": true,
+        "nameExc": [
+        ],
+        "nameExcAll": true
+    },
+    "point-shoot-film": {
+        "minors": [
+            "8010"
+        ],
+        "minorsAll": true,
+        "familyInc": [
+        ],
+        "familyIncAll": true,
+        "familyExc": [
+        ],
+        "familyExcAll": true,
+        "nameLit": "",
+        "nameInc": [
+        ],
+        "nameIncAll": true,
+        "nameExc": [
+        ],
+        "nameExcAll": true
+    },
+    "point-shoot-film-canon": {
+        "minors": [
+            "8010"
+        ],
+        "minorsAll": true,
+        "familyInc": [
+            "1CAN"
+        ],
+        "familyIncAll": true,
+        "familyExc": [
+        ],
+        "familyExcAll": true,
+        "nameLit": "",
+        "nameInc": [
+        ],
+        "nameIncAll": true,
+        "nameExc": [
+        ],
+        "nameExcAll": true
+    },
+    "point-shoot-film-nikon": {
+        "minors": [
+            "8010"
+        ],
+        "minorsAll": true,
+        "familyInc": [
+            "1NIK"
+        ],
+        "familyIncAll": true,
+        "familyExc": [
+        ],
+        "familyExcAll": true,
+        "nameLit": "",
+        "nameInc": [
+        ],
+        "nameIncAll": true,
+        "nameExc": [
+        ],
+        "nameExcAll": true
+    },
+    "point-shoot-film-olympus": {
+        "minors": [
+            "8010"
+        ],
+        "minorsAll": true,
+        "familyInc": [
+            "1OLY"
+        ],
+        "familyIncAll": true,
+        "familyExc": [
+        ],
+        "familyExcAll": true,
+        "nameLit": "",
+        "nameInc": [
+        ],
+        "nameIncAll": true,
+        "nameExc": [
+        ],
+        "nameExcAll": true
+    },
+    "point-shoot-film-olympus-stylus": {
+        "minors": [
+            "8010"
+        ],
+        "minorsAll": true,
+        "familyInc": [
+            "1OLY"
+        ],
+        "familyIncAll": true,
+        "familyExc": [
+        ],
+        "familyExcAll": true,
+        "nameLit": "",
+        "nameInc": [
+            "stylus"
+        ],
+        "nameIncAll": true,
+        "nameExc": [
+        ],
+        "nameExcAll": true
+    },
+    "point-shoot-film-olympus-other": {
+        "minors": [
+            "8010"
+        ],
+        "minorsAll": true,
+        "familyInc": [
+            "1OLY"
+        ],
+        "familyIncAll": true,
+        "familyExc": [
+        ],
+        "familyExcAll": true,
+        "nameLit": "",
+        "nameInc": [
+        ],
+        "nameIncAll": true,
+        "nameExc": [
+            "stylus"
+        ],
+        "nameExcAll": true
+    },
+    "point-shoot-film-minolta": {
+        "minors": [
+            "8010"
+        ],
+        "minorsAll": true,
+        "familyInc": [
+            "1MIN"
+        ],
+        "familyIncAll": true,
+        "familyExc": [
+        ],
+        "familyExcAll": true,
+        "nameLit": "",
+        "nameInc": [
+        ],
+        "nameIncAll": true,
+        "nameExc": [
+        ],
+        "nameExcAll": true
+    },
+    "point-shoot-film-pentax": {
+        "minors": [
+            "8010"
+        ],
+        "minorsAll": true,
+        "familyInc": [
+            "1PEN"
+        ],
+        "familyIncAll": true,
+        "familyExc": [
+        ],
+        "familyExcAll": true,
+        "nameLit": "",
+        "nameInc": [
+        ],
+        "nameIncAll": true,
+        "nameExc": [
+        ],
+        "nameExcAll": true
+    },
+    "point-shoot-film-other": {
+        "minors": [
+            "8010"
+        ],
+        "minorsAll": true,
+        "familyInc": [
+        ],
+        "familyIncAll": true,
+        "familyExc": [
+            "1OLY",
+            "1CAN",
+            "1NIK",
+            "1MIN",
+            "1PEN"
+        ],
+        "familyExcAll": false,
+        "nameLit": "",
+        "nameInc": [
+        ],
+        "nameIncAll": true,
+        "nameExc": [
+        ],
+        "nameExcAll": true
+    },
+    "point-shoot-digital": {
+        "minors": [
+            "8035"
+        ],
+        "minorsAll": true,
+        "familyInc": [
+        ],
+        "familyIncAll": true,
+        "familyExc": [
+        ],
+        "familyExcAll": true,
+        "nameLit": "",
+        "nameInc": [
+        ],
+        "nameIncAll": true,
+        "nameExc": [
+        ],
+        "nameExcAll": true
+    },
+    "point-shoot-digital-canon": {
+        "minors": [
+            "8035"
+        ],
+        "minorsAll": true,
+        "familyInc": [
+            "1CAN"
+        ],
+        "familyIncAll": true,
+        "familyExc": [
+        ],
+        "familyExcAll": true,
+        "nameLit": "",
+        "nameInc": [
+        ],
+        "nameIncAll": true,
+        "nameExc": [
+        ],
+        "nameExcAll": true
+    },
+    "point-shoot-digital-canon-sd": {
+        "minors": [
+            "8035"
+        ],
+        "minorsAll": true,
+        "familyInc": [
+            "1CAN"
+        ],
+        "familyIncAll": true,
+        "familyExc": [
+        ],
+        "familyExcAll": true,
+        "nameLit": "",
+        "nameInc": [
+            "sd"
+        ],
+        "nameIncAll": true,
+        "nameExc": [
+        ],
+        "nameExcAll": true
+    },
+    "point-shoot-digital-canon-sx": {
+        "minors": [
+            "8035"
+        ],
+        "minorsAll": true,
+        "familyInc": [
+            "1CAN"
+        ],
+        "familyIncAll": true,
+        "familyExc": [
+        ],
+        "familyExcAll": true,
+        "nameLit": "",
+        "nameInc": [
+            "sx"
+        ],
+        "nameIncAll": true,
+        "nameExc": [
+        ],
+        "nameExcAll": true
+    },
+    "point-shoot-digital-canon-g": {
+        "minors": [
+            "8035"
+        ],
+        "minorsAll": true,
+        "familyInc": [
+            "1CAN"
+        ],
+        "familyIncAll": true,
+        "familyExc": [
+        ],
+        "familyExcAll": true,
+        "nameLit": "",
+        "nameInc": [
+            " g"
+        ],
+        "nameIncAll": true,
+        "nameExc": [
+        ],
+        "nameExcAll": true
+    },
+    "point-shoot-digital-canon-elph": {
+        "minors": [
+            "8035"
+        ],
+        "minorsAll": true,
+        "familyInc": [
+            "1CAN"
+        ],
+        "familyIncAll": true,
+        "familyExc": [
+        ],
+        "familyExcAll": true,
+        "nameLit": "",
+        "nameInc": [
+            "elph"
+        ],
+        "nameIncAll": true,
+        "nameExc": [
+        ],
+        "nameExcAll": true
+    },
+    "point-shoot-digital-canon-other": {
+        "minors": [
+            "8035"
+        ],
+        "minorsAll": true,
+        "familyInc": [
+            "1CAN"
+        ],
+        "familyIncAll": true,
+        "familyExc": [
+        ],
+        "familyExcAll": true,
+        "nameLit": "",
+        "nameInc": [
+        ],
+        "nameIncAll": true,
+        "nameExc": [
+            " g",
+            "sd",
+            "sx",
+            "elph"
+        ],
+        "nameExcAll": false
+    },
+    "point-shoot-digital-nikon": {
+        "minors": [
+            "8035"
+        ],
+        "minorsAll": true,
+        "familyInc": [
+            "1NIK"
+        ],
+        "familyIncAll": true,
+        "familyExc": [
+        ],
+        "familyExcAll": true,
+        "nameLit": "",
+        "nameInc": [
+        ],
+        "nameIncAll": true,
+        "nameExc": [
+        ],
+        "nameExcAll": true
+    },
+    "point-shoot-digital-nikon-p": {
+        "minors": [
+            "8035"
+        ],
+        "minorsAll": true,
+        "familyInc": [
+            "1NIK"
+        ],
+        "familyIncAll": true,
+        "familyExc": [
+        ],
+        "familyExcAll": true,
+        "nameLit": "",
+        "nameInc": [
+            " p"
+        ],
+        "nameIncAll": true,
+        "nameExc": [
+        ],
+        "nameExcAll": true
+    },
+    "point-shoot-digital-nikon-s": {
+        "minors": [
+            "8035"
+        ],
+        "minorsAll": true,
+        "familyInc": [
+            "1NIK"
+        ],
+        "familyIncAll": true,
+        "familyExc": [
+        ],
+        "familyExcAll": true,
+        "nameLit": "",
+        "nameInc": [
+            " s"
+        ],
+        "nameIncAll": true,
+        "nameExc": [
+        ],
+        "nameExcAll": true
+    },
+    "point-shoot-digital-nikon-other": {
+        "minors": [
+            "8035"
+        ],
+        "minorsAll": true,
+        "familyInc": [
+            "1NIK"
+        ],
+        "familyIncAll": true,
+        "familyExc": [
+        ],
+        "familyExcAll": true,
+        "nameLit": "",
+        "nameInc": [
+        ],
+        "nameIncAll": true,
+        "nameExc": [
+            " p",
+            " s"
+        ],
+        "nameExcAll": false
+    },
+    "point-shoot-digital-sony": {
+        "minors": [
+            "8035"
+        ],
+        "minorsAll": true,
+        "familyInc": [
+            "1SNY"
+        ],
+        "familyIncAll": true,
+        "familyExc": [
+        ],
+        "familyExcAll": true,
+        "nameLit": "",
+        "nameInc": [
+        ],
+        "nameIncAll": true,
+        "nameExc": [
+        ],
+        "nameExcAll": true
+    },
+    "point-shoot-digital-sony-w": {
+        "minors": [
+            "8035"
+        ],
+        "minorsAll": true,
+        "familyInc": [
+            "1SNY"
+        ],
+        "familyIncAll": true,
+        "familyExc": [
+        ],
+        "familyExcAll": true,
+        "nameLit": "",
+        "nameInc": [
+            "CYBER-SHOT DSC-W"
+        ],
+        "nameIncAll": true,
+        "nameExc": [
+        ],
+        "nameExcAll": true
+    },
+    "point-shoot-digital-sony-h": {
+        "minors": [
+            "8035"
+        ],
+        "minorsAll": true,
+        "familyInc": [
+            "1SNY"
+        ],
+        "familyIncAll": true,
+        "familyExc": [
+        ],
+        "familyExcAll": true,
+        "nameLit": "",
+        "nameInc": [
+            "CYBER-SHOT DSC-H"
+        ],
+        "nameIncAll": true,
+        "nameExc": [
+        ],
+        "nameExcAll": true
+    },
+    "point-shoot-digital-sony-rx": {
+        "minors": [
+            "8035"
+        ],
+        "minorsAll": true,
+        "familyInc": [
+            "1SNY"
+        ],
+        "familyIncAll": true,
+        "familyExc": [
+        ],
+        "familyExcAll": true,
+        "nameLit": "",
+        "nameInc": [
+            "DSC-RX"
+        ],
+        "nameIncAll": true,
+        "nameExc": [
+        ],
+        "nameExcAll": true
+    },
+    "point-shoot-digital-sony-other": {
+        "minors": [
+            "8035"
+        ],
+        "minorsAll": true,
+        "familyInc": [
+            "1SNY"
+        ],
+        "familyIncAll": true,
+        "familyExc": [
+        ],
+        "familyExcAll": true,
+        "nameLit": "",
+        "nameInc": [
+        ],
+        "nameIncAll": true,
+        "nameExc": [
+            "CYBER-SHOT DSC-W",
+            "CYBER-SHOT DSC-H",
+            "DSC-RX"
+        ],
+        "nameExcAll": false
+    },
+    "point-shoot-digital-fuji": {
+        "minors": [
+            "8035"
+        ],
+        "minorsAll": true,
+        "familyInc": [
+            "1FUJ"
+        ],
+        "familyIncAll": true,
+        "familyExc": [
+        ],
+        "familyExcAll": true,
+        "nameLit": "",
+        "nameInc": [
+        ],
+        "nameIncAll": true,
+        "nameExc": [
+        ],
+        "nameExcAll": true
+    },
+    "point-shoot-digital-olympus": {
+        "minors": [
+            "8035"
+        ],
+        "minorsAll": true,
+        "familyInc": [
+            "1OLY"
+        ],
+        "familyIncAll": true,
+        "familyExc": [
+        ],
+        "familyExcAll": true,
+        "nameLit": "",
+        "nameInc": [
+        ],
+        "nameIncAll": true,
+        "nameExc": [
+        ],
+        "nameExcAll": true
+    },
+    "point-shoot-digital-lecia": {
+        "minors": [
+            "8035"
+        ],
+        "minorsAll": true,
+        "familyInc": [
+            "1LEI"
+        ],
+        "familyIncAll": true,
+        "familyExc": [
+        ],
+        "familyExcAll": true,
+        "nameLit": "",
+        "nameInc": [
+        ],
+        "nameIncAll": true,
+        "nameExc": [
+        ],
+        "nameExcAll": true
+    },
+    "point-shoot-digital-panasonic": {
+        "minors": [
+            "8035"
+        ],
+        "minorsAll": true,
+        "familyInc": [
+            "1PAN"
+        ],
+        "familyIncAll": true,
+        "familyExc": [
+        ],
+        "familyExcAll": true,
+        "nameLit": "",
+        "nameInc": [
+        ],
+        "nameIncAll": true,
+        "nameExc": [
+        ],
+        "nameExcAll": true
+    },
+    "point-shoot-digital-other": {
+        "minors": [
+            "8035"
+        ],
+        "minorsAll": true,
+        "familyInc": [
+        ],
+        "familyIncAll": true,
+        "familyExc": [
+            "1CAN",
+            "1NIK",
+            "1SNY",
+            "1FUJ",
+            "1OLY",
+            "1LEI",
+            "1PAN"
+        ],
+        "familyExcAll": false,
+        "nameLit": "",
+        "nameInc": [
+        ],
+        "nameIncAll": true,
+        "nameExc": [
+        ],
+        "nameExcAll": true
+    },
+    "medium-format": {
+        "minors": [
+            "8025"
+        ],
+        "minorsAll": true,
+        "familyInc": [
+        ],
+        "familyIncAll": true,
+        "familyExc": [
+        ],
+        "familyExcAll": true,
+        "nameLit": "",
+        "nameInc": [
+        ],
+        "nameIncAll": true,
+        "nameExc": [
+        ],
+        "nameExcAll": true
+    },
+    "medium-format-bronica": {
+        "minors": [
+            "8025"
+        ],
+        "minorsAll": true,
+        "familyInc": [
+        ],
+        "familyIncAll": true,
+        "familyExc": [
+        ],
+        "familyExcAll": true,
+        "nameLit": "",
+        "nameInc": [
+            "bronica"
+        ],
+        "nameIncAll": true,
+        "nameExc": [
+        ],
+        "nameExcAll": true
+    },
+    "medium-format-hasselblad": {
+        "minors": [
+            "8025"
+        ],
+        "minorsAll": true,
+        "familyInc": [
+            "1HAS"
+        ],
+        "familyIncAll": true,
+        "familyExc": [
+        ],
+        "familyExcAll": true,
+        "nameLit": "",
+        "nameInc": [
+        ],
+        "nameIncAll": true,
+        "nameExc": [
+        ],
+        "nameExcAll": true
+    },
+    "medium-format-mamiya": {
+        "minors": [
+            "8025"
+        ],
+        "minorsAll": true,
+        "familyInc": [
+            "1MAM"
+        ],
+        "familyIncAll": true,
+        "familyExc": [
+        ],
+        "familyExcAll": true,
+        "nameLit": "",
+        "nameInc": [
+        ],
+        "nameIncAll": true,
+        "nameExc": [
+        ],
+        "nameExcAll": true
+    },
+    "medium-format-pentax": {
+        "minors": [
+            "8025"
+        ],
+        "minorsAll": true,
+        "familyInc": [
+            "1PEN"
+        ],
+        "familyIncAll": true,
+        "familyExc": [
+        ],
+        "familyExcAll": true,
+        "nameLit": "",
+        "nameInc": [
+        ],
+        "nameIncAll": true,
+        "nameExc": [
+        ],
+        "nameExcAll": true
+    },
+    "medium-format-other": {
+        "minors": [
+            "8025",
+            "8082"
+        ],
+        "minorsAll": false,
+        "familyInc": [
+        ],
+        "familyIncAll": true,
+        "familyExc": [
+            "1PEN",
+            "1HAS",
+            "1MAM"
+        ],
+        "familyExcAll": false,
+        "nameLit": "",
+        "nameInc": [
+            "CONTAX",
+            "FUJIFILM GFX",
+            "YASHICA",
+            "ROLLEIFLEX",
+            "FUJIFILM GA",
+            "FUJI GX"
+        ],
+        "nameIncAll": false,
+        "nameExc": [
+            "bronica"
+        ],
+        "nameExcAll": true
+    },
+    "large-format": {
+        "minors": [
+            "8055"
+        ],
+        "minorsAll": true,
+        "familyInc": [
+        ],
+        "familyIncAll": true,
+        "familyExc": [
+        ],
+        "familyExcAll": true,
+        "nameLit": "",
+        "nameInc": [
+        ],
+        "nameIncAll": true,
+        "nameExc": [
+        ],
+        "nameExcAll": true
+    },
+    "mirrorless": {
+        "minors": [
+            "8082"
+        ],
+        "minorsAll": true,
+        "familyInc": [
+        ],
+        "familyIncAll": true,
+        "familyExc": [
+        ],
+        "familyExcAll": true,
+        "nameLit": "",
+        "nameInc": [
+        ],
+        "nameIncAll": true,
+        "nameExc": [
+        ],
+        "nameExcAll": true
+    },
+    "mirrorless-canon": {
+        "minors": [
+            "8082"
+        ],
+        "minorsAll": true,
+        "familyInc": [
+            "1CAN"
+        ],
+        "familyIncAll": true,
+        "familyExc": [
+        ],
+        "familyExcAll": true,
+        "nameLit": "",
+        "nameInc": [
+        ],
+        "nameIncAll": true,
+        "nameExc": [
+        ],
+        "nameExcAll": true
+    },
+    "mirrorless-nikon": {
+        "minors": [
+            "8082"
+        ],
+        "minorsAll": true,
+        "familyInc": [
+            "1NIK"
+        ],
+        "familyIncAll": true,
+        "familyExc": [
+        ],
+        "familyExcAll": true,
+        "nameLit": "",
+        "nameInc": [
+        ],
+        "nameIncAll": true,
+        "nameExc": [
+        ],
+        "nameExcAll": true
+    },
+    "mirrorless-sony": {
+        "minors": [
+            "8082"
+        ],
+        "minorsAll": true,
+        "familyInc": [
+            "1SNY"
+        ],
+        "familyIncAll": true,
+        "familyExc": [
+        ],
+        "familyExcAll": true,
+        "nameLit": "",
+        "nameInc": [
+        ],
+        "nameIncAll": true,
+        "nameExc": [
+        ],
+        "nameExcAll": true
+    },
+    "mirrorless-sony-a": {
+        "minors": [
+            "8082"
+        ],
+        "minorsAll": true,
+        "familyInc": [
+            "1SNY"
+        ],
+        "familyIncAll": true,
+        "familyExc": [
+        ],
+        "familyExcAll": true,
+        "nameLit": "",
+        "nameInc": [
+            " A"
+        ],
+        "nameIncAll": true,
+        "nameExc": [
+        ],
+        "nameExcAll": true
+    },
+    "mirrorless-sony-other": {
+        "minors": [
+            "8082"
+        ],
+        "minorsAll": true,
+        "familyInc": [
+            "1SNY"
+        ],
+        "familyIncAll": true,
+        "familyExc": [
+        ],
+        "familyExcAll": true,
+        "nameLit": "",
+        "nameInc": [
+        ],
+        "nameIncAll": true,
+        "nameExc": [
+            " A"
+        ],
+        "nameExcAll": true
+    },
+    "mirrorless-olympus": {
+        "minors": [
+            "8082"
+        ],
+        "minorsAll": true,
+        "familyInc": [
+            "1OLY"
+        ],
+        "familyIncAll": true,
+        "familyExc": [
+        ],
+        "familyExcAll": true,
+        "nameLit": "",
+        "nameInc": [
+        ],
+        "nameIncAll": true,
+        "nameExc": [
+        ],
+        "nameExcAll": true
+    },
+    "mirrorless-fuji": {
+        "minors": [
+            "8082"
+        ],
+        "minorsAll": true,
+        "familyInc": [
+            "1FUJ"
+        ],
+        "familyIncAll": true,
+        "familyExc": [
+        ],
+        "familyExcAll": true,
+        "nameLit": "",
+        "nameInc": [
+        ],
+        "nameIncAll": true,
+        "nameExc": [
+        ],
+        "nameExcAll": true
+    },
+    "mirrorless-fuji-xt": {
+        "minors": [
+            "8082"
+        ],
+        "minorsAll": true,
+        "familyInc": [
+            "1FUJ"
+        ],
+        "familyIncAll": true,
+        "familyExc": [
+        ],
+        "familyExcAll": true,
+        "nameLit": "",
+        "nameInc": [
+            "FUJIFILM X-T"
+        ],
+        "nameIncAll": true,
+        "nameExc": [
+        ],
+        "nameExcAll": true
+    },
+    "mirrorless-fuji-x": {
+        "minors": [
+            "8082"
+        ],
+        "minorsAll": true,
+        "familyInc": [
+            "1FUJ"
+        ],
+        "familyIncAll": true,
+        "familyExc": [
+        ],
+        "familyExcAll": true,
+        "nameLit": "",
+        "nameInc": [
+            "FUJIFILM X-"
+        ],
+        "nameIncAll": true,
+        "nameExc": [
+            "FUJIFILM X-T"
+        ],
+        "nameExcAll": true
+    },
+    "mirrorless-fuji-other": {
+        "minors": [
+            "8082"
+        ],
+        "minorsAll": true,
+        "familyInc": [
+            "1FUJ"
+        ],
+        "familyIncAll": true,
+        "familyExc": [
+        ],
+        "familyExcAll": true,
+        "nameLit": "",
+        "nameInc": [
+        ],
+        "nameIncAll": true,
+        "nameExc": [
+            "FUJIFILM X-"
+        ],
+        "nameExcAll": true
+    },
+    "mirrorless-lecia": {
+        "minors": [
+            "8082"
+        ],
+        "minorsAll": true,
+        "familyInc": [
+            "1LEI"
+        ],
+        "familyIncAll": true,
+        "familyExc": [
+        ],
+        "familyExcAll": true,
+        "nameLit": "",
+        "nameInc": [
+        ],
+        "nameIncAll": true,
+        "nameExc": [
+        ],
+        "nameExcAll": true
+    },
+    "mirrorless-panasonic": {
+        "minors": [
+            "8082"
+        ],
+        "minorsAll": true,
+        "familyInc": [
+            "1PAN"
+        ],
+        "familyIncAll": true,
+        "familyExc": [
+        ],
+        "familyExcAll": true,
+        "nameLit": "",
+        "nameInc": [
+        ],
+        "nameIncAll": true,
+        "nameExc": [
+        ],
+        "nameExcAll": true
+    },
+    "mirrorless-other": {
+        "minors": [
+            "8082"
+        ],
+        "minorsAll": true,
+        "familyInc": [
+        ],
+        "familyIncAll": true,
+        "familyExc": [
+            "1CAN",
+            "1NIK",
+            "1SNY",
+            "1OLY",
+            "1MIN",
+            "1FUJ",
+            "1LEI",
+            "1PAN"
+        ],
+        "familyExcAll": false,
+        "nameLit": "",
+        "nameInc": [
+        ],
+        "nameIncAll": true,
+        "nameExc": [
+        ],
+        "nameExcAll": true
+    },
+    "camcorder": {
+        "minors": [
+            "8110"
+        ],
+        "minorsAll": true,
+        "familyInc": [
+        ],
+        "familyIncAll": true,
+        "familyExc": [
+        ],
+        "familyExcAll": true,
+        "nameLit": "",
+        "nameInc": [
+        ],
+        "nameIncAll": true,
+        "nameExc": [
+        ],
+        "nameExcAll": true
+    },
+    "camcorder-canon": {
+        "minors": [
+            "8110"
+        ],
+        "minorsAll": true,
+        "familyInc": [
+            "1CAN"
+        ],
+        "familyIncAll": true,
+        "familyExc": [
+        ],
+        "familyExcAll": true,
+        "nameLit": "",
+        "nameInc": [
+        ],
+        "nameIncAll": true,
+        "nameExc": [
+        ],
+        "nameExcAll": true
+    },
+    "camcorder-canon-vixia": {
+        "minors": [
+            "8110"
+        ],
+        "minorsAll": true,
+        "familyInc": [
+            "1CAN"
+        ],
+        "familyIncAll": true,
+        "familyExc": [
+        ],
+        "familyExcAll": true,
+        "nameLit": "",
+        "nameInc": [
+            "VIXIA"
+        ],
+        "nameIncAll": true,
+        "nameExc": [
+        ],
+        "nameExcAll": true
+    },
+    "camcorder-canon-zr": {
+        "minors": [
+            "8110"
+        ],
+        "minorsAll": true,
+        "familyInc": [
+            "1CAN"
+        ],
+        "familyIncAll": true,
+        "familyExc": [
+        ],
+        "familyExcAll": true,
+        "nameLit": "",
+        "nameInc": [
+            "ZR"
+        ],
+        "nameIncAll": true,
+        "nameExc": [
+        ],
+        "nameExcAll": true
+    },
+    "camcorder-canon-optura": {
+        "minors": [
+            "8110"
+        ],
+        "minorsAll": true,
+        "familyInc": [
+            "1CAN"
+        ],
+        "familyIncAll": true,
+        "familyExc": [
+        ],
+        "familyExcAll": true,
+        "nameLit": "",
+        "nameInc": [
+            "Optura"
+        ],
+        "nameIncAll": true,
+        "nameExc": [
+        ],
+        "nameExcAll": true
+    },
+    "camcorder-canon-fv": {
+        "minors": [
+            "8110"
+        ],
+        "minorsAll": true,
+        "familyInc": [
+            "1CAN"
+        ],
+        "familyIncAll": true,
+        "familyExc": [
+        ],
+        "familyExcAll": true,
+        "nameLit": "",
+        "nameInc": [
+            " FV"
+        ],
+        "nameIncAll": true,
+        "nameExc": [
+        ],
+        "nameExcAll": true
+    },
+    "camcorder-canon-elura": {
+        "minors": [
+            "8110"
+        ],
+        "minorsAll": true,
+        "familyInc": [
+            "1CAN"
+        ],
+        "familyIncAll": true,
+        "familyExc": [
+        ],
+        "familyExcAll": true,
+        "nameLit": "",
+        "nameInc": [
+            "elura"
+        ],
+        "nameIncAll": true,
+        "nameExc": [
+        ],
+        "nameExcAll": true
+    },
+    "camcorder-canon-dc": {
+        "minors": [
+            "8110"
+        ],
+        "minorsAll": true,
+        "familyInc": [
+            "1CAN"
+        ],
+        "familyIncAll": true,
+        "familyExc": [
+        ],
+        "familyExcAll": true,
+        "nameLit": "",
+        "nameInc": [
+            "dc"
+        ],
+        "nameIncAll": true,
+        "nameExc": [
+        ],
+        "nameExcAll": true
+    },
+    "camcorder-canon-xf": {
+        "minors": [
+            "8110"
+        ],
+        "minorsAll": true,
+        "familyInc": [
+            "1CAN"
+        ],
+        "familyIncAll": true,
+        "familyExc": [
+        ],
+        "familyExcAll": true,
+        "nameLit": "",
+        "nameInc": [
+            "xf"
+        ],
+        "nameIncAll": true,
+        "nameExc": [
+        ],
+        "nameExcAll": true
+    },
+    "camcorder-canon-other": {
+        "minors": [
+            "8110"
+        ],
+        "minorsAll": true,
+        "familyInc": [
+            "1CAN"
+        ],
+        "familyIncAll": true,
+        "familyExc": [
+        ],
+        "familyExcAll": true,
+        "nameLit": "",
+        "nameInc": [
+        ],
+        "nameIncAll": true,
+        "nameExc": [
+            "dc",
+            "xf",
+            "elura",
+            " FV",
+            "Optura",
+            "ZR",
+            "VIXIA"
+        ],
+        "nameExcAll": false
+    },
+    "camcorder-sony": {
+        "minors": [
+            "8110"
+        ],
+        "minorsAll": true,
+        "familyInc": [
+            "1SNY"
+        ],
+        "familyIncAll": true,
+        "familyExc": [
+        ],
+        "familyExcAll": true,
+        "nameLit": "",
+        "nameInc": [
+        ],
+        "nameIncAll": true,
+        "nameExc": [
+        ],
+        "nameExcAll": true
+    },
+    "camcorder-other": {
+        "minors": [
+            "8110"
+        ],
+        "minorsAll": true,
+        "familyInc": [
+        ],
+        "familyIncAll": true,
+        "familyExc": [
+        ],
+        "familyExcAll": false,
+        "nameLit": "",
+        "nameInc": [
+        ],
+        "nameIncAll": true,
+        "nameExc": [
+        ],
+        "nameExcAll": true
+    },
+    "lenses": {
+        "minors": [
+            "8005",
+            "8006",
+            "8007",
+            "8020",
+            "8030",
+            "8060"
+        ],
+        "minorsAll": false,
+        "familyInc": [
+        ],
+        "familyIncAll": false,
+        "familyExc": [
+        ],
+        "familyExcAll": false,
+        "nameLit": "",
+        "nameInc": [
+        ],
+        "nameIncAll": false,
+        "nameExc": [
+        ],
+        "nameExcAll": false
+    },
+    "lenses-slr": {
+        "minors": [
+            "8005",
+            "8006"
+        ],
+        "minorsAll": false,
+        "familyInc": [
+        ],
+        "familyIncAll": false,
+        "familyExc": [
+        ],
+        "familyExcAll": false,
+        "nameLit": "",
+        "nameInc": [
+        ],
+        "nameIncAll": false,
+        "nameExc": [
+        ],
+        "nameExcAll": false
+    },
+    "lenses-slr-af": {
+        "minors": [
+            "8005"
+        ],
+        "minorsAll": false,
+        "familyInc": [
+        ],
+        "familyIncAll": false,
+        "familyExc": [
+        ],
+        "familyExcAll": false,
+        "nameLit": "",
+        "nameInc": [
+        ],
+        "nameIncAll": false,
+        "nameExc": [
+        ],
+        "nameExcAll": false
+    },
+    "lenses-slr-af-canon": {
+        "minors": [
+            "8005"
+        ],
+        "minorsAll": false,
+        "familyInc": [
+            "1CAN"
+        ],
+        "familyIncAll": false,
+        "familyExc": [
+        ],
+        "familyExcAll": false,
+        "nameLit": "",
+        "nameInc": [
+        ],
+        "nameIncAll": false,
+        "nameExc": [
+        ],
+        "nameExcAll": false
+    },
+    "lenses-slr-af-canon-zoom": {
+        "minors": [
+            "8005"
+        ],
+        "minorsAll": false,
+        "familyInc": [
+            "1CAN"
+        ],
+        "familyIncAll": false,
+        "familyExc": [
+        ],
+        "familyExcAll": false,
+        "nameLit": "",
+        "nameInc": [
+            "00-",
+            " 8-",
+            "10-",
+            "11-",
+            "12-",
+            "15-",
+            "16-",
+            "17-",
+            "18-",
+            "20-",
+            "22-",
+            "24-",
+            "28-",
+            "35-",
+            "-200",
+            "-210",
+            "-250",
+            "-300",
+            "-350",
+            "-400",
+            "-500",
+            "-600"
+        ],
+        "nameIncAll": false,
+        "nameExc": [
+        ],
+        "nameExcAll": false
+    },
+    "lenses-slr-af-canon-zoom-wide": {
+        "minors": [
+            "8005"
+        ],
+        "minorsAll": false,
+        "familyInc": [
+            "1CAN"
+        ],
+        "familyIncAll": false,
+        "familyExc": [
+        ],
+        "familyExcAll": false,
+        "nameLit": "",
+        "nameInc": [
+            " 8-",
+            "10-",
+            "11-",
+            "12-",
+            "-24"
+        ],
+        "nameIncAll": false,
+        "nameExc": [
+        ],
+        "nameExcAll": false
+    },
+    "lenses-slr-af-canon-zoom-med": {
+        "minors": [
+            "8005"
+        ],
+        "minorsAll": false,
+        "familyInc": [
+            "1CAN"
+        ],
+        "familyIncAll": false,
+        "familyExc": [
+        ],
+        "familyExcAll": false,
+        "nameLit": "",
+        "nameInc": [
+            "-10",
+            "-13",
+            "15-",
+            "16-",
+            "17-",
+            "18-",
+            "20-",
+            "22-",
+            "24-",
+            "28-",
+            "35-"
+        ],
+        "nameIncAll": false,
+        "nameExc": [
+            "-200",
+            "-210",
+            "-250",
+            "-300",
+            "-350",
+            "-400"
+        ],
+        "nameExcAll": false
+    },
+    "lenses-slr-af-canon-zoom-tele": {
+        "minors": [
+            "8005"
+        ],
+        "minorsAll": false,
+        "familyInc": [
+            "1CAN"
+        ],
+        "familyIncAll": false,
+        "familyExc": [
+        ],
+        "familyExcAll": false,
+        "nameLit": "",
+        "nameInc": [
+            "-200",
+            "-210",
+            "-250",
+            "-300",
+            "-350",
+            "-400",
+            "-500",
+            "-600"
+        ],
+        "nameIncAll": false,
+        "nameExc": [
+        ],
+        "nameExcAll": false
+    },
+    "lenses-slr-af-canon-prime": {
+        "minors": [
+            "8005"
+        ],
+        "minorsAll": false,
+        "familyInc": [
+            "1CAN"
+        ],
+        "familyIncAll": false,
+        "familyExc": [
+        ],
+        "familyExcAll": false,
+        "nameLit": "",
+        "nameInc": [
+        ],
+        "nameIncAll": false,
+        "nameExc": [
+            "00-",
+            " 8-",
+            "10-",
+            "11-",
+            "12-",
+            "15-",
+            "16-",
+            "17-",
+            "18-",
+            "20-",
+            "22-",
+            "24-",
+            "28-",
+            "35-",
+            "-200",
+            "-210",
+            "-250",
+            "-300",
+            "-350",
+            "-400",
+            "-500",
+            "-600",
+            "extender"
+        ],
+        "nameExcAll": false
+    },
+    "lenses-slr-af-canon-prime-wide": {
+        "minors": [
+            "8005"
+        ],
+        "minorsAll": false,
+        "familyInc": [
+            "1CAN"
+        ],
+        "familyIncAll": false,
+        "familyExc": [
+        ],
+        "familyExcAll": false,
+        "nameLit": "",
+        "nameInc": [
+            " 12mm",
+            " 13mm",
+            " 14mm",
+            " 15mm",
+            " 16mm",
+            " 17mm",
+            " 18mm",
+            " 20mm",
+            " 24mm",
+            " 28mm"
+        ],
+        "nameIncAll": false,
+        "nameExc": [
+            "00-",
+            " 8-",
+            "10-",
+            "11-",
+            "12-",
+            "15-",
+            "16-",
+            "17-",
+            "18-",
+            "20-",
+            "22-",
+            "24-",
+            "28-",
+            "35-",
+            "-200",
+            "-210",
+            "-250",
+            "-300",
+            "-350",
+            "-400",
+            "-500",
+            "-600",
+            "extender"
+        ],
+        "nameExcAll": false
+    },
+    "lenses-slr-af-canon-prime-med": {
+        "minors": [
+            "8005"
+        ],
+        "minorsAll": false,
+        "familyInc": [
+            "1CAN"
+        ],
+        "familyIncAll": false,
+        "familyExc": [
+        ],
+        "familyExcAll": false,
+        "nameLit": "",
+        "nameInc": [
+            " 30mm",
+            " 35mm",
+            " 40mm",
+            " 45mm",
+            " 50mm",
+            " 55mm",
+            " 60mm",
+            " 70mm",
+            " 80mm",
+            " 85mm"
+        ],
+        "nameIncAll": false,
+        "nameExc": [
+            "00-",
+            " 8-",
+            "10-",
+            "11-",
+            "12-",
+            "15-",
+            "16-",
+            "17-",
+            "18-",
+            "20-",
+            "22-",
+            "24-",
+            "28-",
+            "35-",
+            "-200",
+            "-210",
+            "-250",
+            "-300",
+            "-350",
+            "-400",
+            "-500",
+            "-600",
+            "extender"
+        ],
+        "nameExcAll": false
+    },
+    "lenses-slr-af-canon-prime-tele": {
+        "minors": [
+            "8005"
+        ],
+        "minorsAll": false,
+        "familyInc": [
+            "1CAN"
+        ],
+        "familyIncAll": false,
+        "familyExc": [
+        ],
+        "familyExcAll": false,
+        "nameLit": "",
+        "nameInc": [
+            " 90mm",
+            " 100mm",
+            " 135mm",
+            " 180mm",
+            " 200mm",
+            " 300mm",
+            " 400mm",
+            " 500mm",
+            " 600mm",
+            " 800mm"
+        ],
+        "nameIncAll": false,
+        "nameExc": [
+            "00-",
+            " 8-",
+            "10-",
+            "11-",
+            "12-",
+            "15-",
+            "16-",
+            "17-",
+            "18-",
+            "20-",
+            "22-",
+            "24-",
+            "28-",
+            "35-",
+            "-200",
+            "-210",
+            "-250",
+            "-300",
+            "-350",
+            "-400",
+            "-500",
+            "-600",
+            "extender"
+        ],
+        "nameExcAll": false
+    },
+    "lenses-slr-af-canon-extenders": {
+        "minors": [
+            "8005"
+        ],
+        "minorsAll": false,
+        "familyInc": [
+            "1CAN"
+        ],
+        "familyIncAll": false,
+        "familyExc": [
+        ],
+        "familyExcAll": false,
+        "nameLit": "",
+        "nameInc": [
+            "extender"
+        ],
+        "nameIncAll": false,
+        "nameExc": [
+        ],
+        "nameExcAll": false
+    },
+    "lenses-slr-af-nikon": {
+        "minors": [
+            "8005"
+        ],
+        "minorsAll": false,
+        "familyInc": [
+            "1NIK"
+        ],
+        "familyIncAll": false,
+        "familyExc": [
+        ],
+        "familyExcAll": false,
+        "nameLit": "",
+        "nameInc": [
+        ],
+        "nameIncAll": false,
+        "nameExc": [
+        ],
+        "nameExcAll": false
+    },
+    "lenses-slr-af-nikon-zoom": {
+        "minors": [
+            "8005"
+        ],
+        "minorsAll": false,
+        "familyInc": [
+            "1NIK"
+        ],
+        "familyIncAll": false,
+        "familyExc": [
+        ],
+        "familyExcAll": false,
+        "nameLit": "",
+        "nameInc": [
+            "00-",
+            " 8-",
+            "10-",
+            "11-",
+            "12-",
+            "15-",
+            "16-",
+            "17-",
+            "18-",
+            "20-",
+            "22-",
+            "24-",
+            "28-",
+            "35-",
+            "-200",
+            "-210",
+            "-250",
+            "-300",
+            "-350",
+            "-400",
+            "-500",
+            "-600"
+        ],
+        "nameIncAll": false,
+        "nameExc": [
+        ],
+        "nameExcAll": false
+    },
+    "lenses-slr-af-nikon-zoom-wide": {
+        "minors": [
+            "8005"
+        ],
+        "minorsAll": false,
+        "familyInc": [
+            "1NIK"
+        ],
+        "familyIncAll": false,
+        "familyExc": [
+        ],
+        "familyExcAll": false,
+        "nameLit": "",
+        "nameInc": [
+            " 8-",
+            "10-",
+            "11-",
+            "12-",
+            "-24"
+        ],
+        "nameIncAll": false,
+        "nameExc": [
+        ],
+        "nameExcAll": false
+    },
+    "lenses-slr-af-nikon-zoom-med": {
+        "minors": [
+            "8005"
+        ],
+        "minorsAll": false,
+        "familyInc": [
+            "1NIK"
+        ],
+        "familyIncAll": false,
+        "familyExc": [
+        ],
+        "familyExcAll": false,
+        "nameLit": "",
+        "nameInc": [
+            "-10",
+            "-13",
+            "15-",
+            "16-",
+            "17-",
+            "18-",
+            "20-",
+            "22-",
+            "24-",
+            "28-",
+            "35-"
+        ],
+        "nameIncAll": false,
+        "nameExc": [
+            "-200",
+            "-210",
+            "-250",
+            "-300",
+            "-350",
+            "-400"
+        ],
+        "nameExcAll": false
+    },
+    "lenses-slr-af-nikon-zoom-tele": {
+        "minors": [
+            "8005"
+        ],
+        "minorsAll": false,
+        "familyInc": [
+            "1NIK"
+        ],
+        "familyIncAll": false,
+        "familyExc": [
+        ],
+        "familyExcAll": false,
+        "nameLit": "",
+        "nameInc": [
+            "-200",
+            "-210",
+            "-250",
+            "-300",
+            "-350",
+            "-400",
+            "-500",
+            "-600"
+        ],
+        "nameIncAll": false,
+        "nameExc": [
+        ],
+        "nameExcAll": false
+    },
+    "lenses-slr-af-nikon-prime": {
+        "minors": [
+            "8005"
+        ],
+        "minorsAll": false,
+        "familyInc": [
+            "1NIK"
+        ],
+        "familyIncAll": false,
+        "familyExc": [
+        ],
+        "familyExcAll": false,
+        "nameLit": "",
+        "nameInc": [
+        ],
+        "nameIncAll": false,
+        "nameExc": [
+            "00-",
+            " 8-",
+            "10-",
+            "11-",
+            "12-",
+            "15-",
+            "16-",
+            "17-",
+            "18-",
+            "20-",
+            "22-",
+            "24-",
+            "28-",
+            "35-",
+            "-200",
+            "-210",
+            "-250",
+            "-300",
+            "-350",
+            "-400",
+            "-500",
+            "-600",
+            "extender"
+        ],
+        "nameExcAll": false
+    },
+    "lenses-slr-af-nikon-prime-wide": {
+        "minors": [
+            "8005"
+        ],
+        "minorsAll": false,
+        "familyInc": [
+            "1NIK"
+        ],
+        "familyIncAll": false,
+        "familyExc": [
+        ],
+        "familyExcAll": false,
+        "nameLit": "",
+        "nameInc": [
+            " 12mm",
+            " 13mm",
+            " 14mm",
+            " 15mm",
+            " 16mm",
+            " 17mm",
+            " 18mm",
+            " 20mm",
+            " 24mm",
+            " 28mm"
+        ],
+        "nameIncAll": false,
+        "nameExc": [
+            "00-",
+            " 8-",
+            "10-",
+            "11-",
+            "12-",
+            "15-",
+            "16-",
+            "17-",
+            "18-",
+            "20-",
+            "22-",
+            "24-",
+            "28-",
+            "35-",
+            "-200",
+            "-210",
+            "-250",
+            "-300",
+            "-350",
+            "-400",
+            "-500",
+            "-600",
+            "extender"
+        ],
+        "nameExcAll": false
+    },
+    "lenses-slr-af-nikon-prime-med": {
+        "minors": [
+            "8005"
+        ],
+        "minorsAll": false,
+        "familyInc": [
+            "1NIK"
+        ],
+        "familyIncAll": false,
+        "familyExc": [
+        ],
+        "familyExcAll": false,
+        "nameLit": "",
+        "nameInc": [
+            " 30mm",
+            " 35mm",
+            " 40mm",
+            " 45mm",
+            " 50mm",
+            " 55mm",
+            " 60mm",
+            " 70mm",
+            " 80mm",
+            " 85mm"
+        ],
+        "nameIncAll": false,
+        "nameExc": [
+            "00-",
+            " 8-",
+            "10-",
+            "11-",
+            "12-",
+            "15-",
+            "16-",
+            "17-",
+            "18-",
+            "20-",
+            "22-",
+            "24-",
+            "28-",
+            "35-",
+            "-200",
+            "-210",
+            "-250",
+            "-300",
+            "-350",
+            "-400",
+            "-500",
+            "-600",
+            "extender"
+        ],
+        "nameExcAll": false
+    },
+    "lenses-slr-af-nikon-prime-tele": {
+        "minors": [
+            "8005"
+        ],
+        "minorsAll": false,
+        "familyInc": [
+            "1NIK"
+        ],
+        "familyIncAll": false,
+        "familyExc": [
+        ],
+        "familyExcAll": false,
+        "nameLit": "",
+        "nameInc": [
+            " 90mm",
+            " 100mm",
+            " 135mm",
+            " 180mm",
+            " 200mm",
+            " 300mm",
+            " 400mm",
+            " 500mm",
+            " 600mm",
+            " 800mm"
+        ],
+        "nameIncAll": false,
+        "nameExc": [
+            "00-",
+            " 8-",
+            "10-",
+            "11-",
+            "12-",
+            "15-",
+            "16-",
+            "17-",
+            "18-",
+            "20-",
+            "22-",
+            "24-",
+            "28-",
+            "35-",
+            "-200",
+            "-210",
+            "-250",
+            "-300",
+            "-350",
+            "-400",
+            "-500",
+            "-600",
+            "extender"
+        ],
+        "nameExcAll": false
+    },
+    "lenses-slr-af-nikon-extenders": {
+        "minors": [
+            "8005"
+        ],
+        "minorsAll": false,
+        "familyInc": [
+            "1NIK"
+        ],
+        "familyIncAll": false,
+        "familyExc": [
+        ],
+        "familyExcAll": false,
+        "nameLit": "",
+        "nameInc": [
+            "extender"
+        ],
+        "nameIncAll": false,
+        "nameExc": [
+        ],
+        "nameExcAll": false
+    },
+    "lenses-slr-af-sony": {
+        "minors": [
+            "8005"
+        ],
+        "minorsAll": false,
+        "familyInc": [
+            "1SNY"
+        ],
+        "familyIncAll": false,
+        "familyExc": [
+        ],
+        "familyExcAll": false,
+        "nameLit": "",
+        "nameInc": [
+        ],
+        "nameIncAll": false,
+        "nameExc": [
+        ],
+        "nameExcAll": false
+    },
+    "lenses-slr-af-sony-zoom": {
+        "minors": [
+            "8005"
+        ],
+        "minorsAll": false,
+        "familyInc": [
+            "1SNY"
+        ],
+        "familyIncAll": false,
+        "familyExc": [
+        ],
+        "familyExcAll": false,
+        "nameLit": "",
+        "nameInc": [
+            "00-",
+            " 8-",
+            "10-",
+            "11-",
+            "12-",
+            "15-",
+            "16-",
+            "17-",
+            "18-",
+            "20-",
+            "22-",
+            "24-",
+            "28-",
+            "35-",
+            "-200",
+            "-210",
+            "-250",
+            "-300",
+            "-350",
+            "-400",
+            "-500",
+            "-600"
+        ],
+        "nameIncAll": false,
+        "nameExc": [
+        ],
+        "nameExcAll": false
+    },
+    "lenses-slr-af-sony-zoom-wide": {
+        "minors": [
+            "8005"
+        ],
+        "minorsAll": false,
+        "familyInc": [
+            "1SNY"
+        ],
+        "familyIncAll": false,
+        "familyExc": [
+        ],
+        "familyExcAll": false,
+        "nameLit": "",
+        "nameInc": [
+            " 8-",
+            "10-",
+            "11-",
+            "12-",
+            "-24"
+        ],
+        "nameIncAll": false,
+        "nameExc": [
+        ],
+        "nameExcAll": false
+    },
+    "lenses-slr-af-sony-zoom-med": {
+        "minors": [
+            "8005"
+        ],
+        "minorsAll": false,
+        "familyInc": [
+            "1SNY"
+        ],
+        "familyIncAll": false,
+        "familyExc": [
+        ],
+        "familyExcAll": false,
+        "nameLit": "",
+        "nameInc": [
+            "-10",
+            "-13",
+            "15-",
+            "16-",
+            "17-",
+            "18-",
+            "20-",
+            "22-",
+            "24-",
+            "28-",
+            "35-"
+        ],
+        "nameIncAll": false,
+        "nameExc": [
+            "-200",
+            "-210",
+            "-250",
+            "-300",
+            "-350",
+            "-400"
+        ],
+        "nameExcAll": false
+    },
+    "lenses-slr-af-sony-zoom-tele": {
+        "minors": [
+            "8005"
+        ],
+        "minorsAll": false,
+        "familyInc": [
+            "1SNY"
+        ],
+        "familyIncAll": false,
+        "familyExc": [
+        ],
+        "familyExcAll": false,
+        "nameLit": "",
+        "nameInc": [
+            "-200",
+            "-210",
+            "-250",
+            "-300",
+            "-350",
+            "-400",
+            "-500",
+            "-600"
+        ],
+        "nameIncAll": false,
+        "nameExc": [
+        ],
+        "nameExcAll": false
+    },
+    "lenses-slr-af-sony-prime": {
+        "minors": [
+            "8005"
+        ],
+        "minorsAll": false,
+        "familyInc": [
+            "1SNY"
+        ],
+        "familyIncAll": false,
+        "familyExc": [
+        ],
+        "familyExcAll": false,
+        "nameLit": "",
+        "nameInc": [
+        ],
+        "nameIncAll": false,
+        "nameExc": [
+            "00-",
+            " 8-",
+            "10-",
+            "11-",
+            "12-",
+            "15-",
+            "16-",
+            "17-",
+            "18-",
+            "20-",
+            "22-",
+            "24-",
+            "28-",
+            "35-",
+            "-200",
+            "-210",
+            "-250",
+            "-300",
+            "-350",
+            "-400",
+            "-500",
+            "-600",
+            "extender"
+        ],
+        "nameExcAll": false
+    },
+    "lenses-slr-af-sony-prime-wide": {
+        "minors": [
+            "8005"
+        ],
+        "minorsAll": false,
+        "familyInc": [
+            "1SNY"
+        ],
+        "familyIncAll": false,
+        "familyExc": [
+        ],
+        "familyExcAll": false,
+        "nameLit": "",
+        "nameInc": [
+            " 12mm",
+            " 13mm",
+            " 14mm",
+            " 15mm",
+            " 16mm",
+            " 17mm",
+            " 18mm",
+            " 20mm",
+            " 24mm",
+            " 28mm"
+        ],
+        "nameIncAll": false,
+        "nameExc": [
+            "00-",
+            " 8-",
+            "10-",
+            "11-",
+            "12-",
+            "15-",
+            "16-",
+            "17-",
+            "18-",
+            "20-",
+            "22-",
+            "24-",
+            "28-",
+            "35-",
+            "-200",
+            "-210",
+            "-250",
+            "-300",
+            "-350",
+            "-400",
+            "-500",
+            "-600",
+            "extender"
+        ],
+        "nameExcAll": false
+    },
+    "lenses-slr-af-sony-prime-med": {
+        "minors": [
+            "8005"
+        ],
+        "minorsAll": false,
+        "familyInc": [
+            "1SNY"
+        ],
+        "familyIncAll": false,
+        "familyExc": [
+        ],
+        "familyExcAll": false,
+        "nameLit": "",
+        "nameInc": [
+            " 30mm",
+            " 35mm",
+            " 40mm",
+            " 45mm",
+            " 50mm",
+            " 55mm",
+            " 60mm",
+            " 70mm",
+            " 80mm",
+            " 85mm"
+        ],
+        "nameIncAll": false,
+        "nameExc": [
+            "00-",
+            " 8-",
+            "10-",
+            "11-",
+            "12-",
+            "15-",
+            "16-",
+            "17-",
+            "18-",
+            "20-",
+            "22-",
+            "24-",
+            "28-",
+            "35-",
+            "-200",
+            "-210",
+            "-250",
+            "-300",
+            "-350",
+            "-400",
+            "-500",
+            "-600",
+            "extender"
+        ],
+        "nameExcAll": false
+    },
+    "lenses-slr-af-sony-prime-tele": {
+        "minors": [
+            "8005"
+        ],
+        "minorsAll": false,
+        "familyInc": [
+            "1SNY"
+        ],
+        "familyIncAll": false,
+        "familyExc": [
+        ],
+        "familyExcAll": false,
+        "nameLit": "",
+        "nameInc": [
+            " 90mm",
+            " 100mm",
+            " 135mm",
+            " 180mm",
+            " 200mm",
+            " 300mm",
+            " 400mm",
+            " 500mm",
+            " 600mm",
+            " 800mm"
+        ],
+        "nameIncAll": false,
+        "nameExc": [
+            "00-",
+            " 8-",
+            "10-",
+            "11-",
+            "12-",
+            "15-",
+            "16-",
+            "17-",
+            "18-",
+            "20-",
+            "22-",
+            "24-",
+            "28-",
+            "35-",
+            "-200",
+            "-210",
+            "-250",
+            "-300",
+            "-350",
+            "-400",
+            "-500",
+            "-600",
+            "extender"
+        ],
+        "nameExcAll": false
+    },
+    "lenses-slr-af-sony-extenders": {
+        "minors": [
+            "8005"
+        ],
+        "minorsAll": false,
+        "familyInc": [
+            "1SNY"
+        ],
+        "familyIncAll": false,
+        "familyExc": [
+        ],
+        "familyExcAll": false,
+        "nameLit": "",
+        "nameInc": [
+            "extender"
+        ],
+        "nameIncAll": false,
+        "nameExc": [
+        ],
+        "nameExcAll": false
+    },
+    "lenses-slr-af-sigma": {
+        "minors": [
+            "8005"
+        ],
+        "minorsAll": false,
+        "familyInc": [
+            "1SIG"
+        ],
+        "familyIncAll": false,
+        "familyExc": [
+        ],
+        "familyExcAll": false,
+        "nameLit": "",
+        "nameInc": [
+        ],
+        "nameIncAll": false,
+        "nameExc": [
+        ],
+        "nameExcAll": false
+    },
+    "lenses-slr-af-sigma-canon": {
+        "minors": [
+            "8005"
+        ],
+        "minorsAll": false,
+        "familyInc": [
+            "1SIG"
+        ],
+        "familyIncAll": false,
+        "familyExc": [
+        ],
+        "familyExcAll": false,
+        "nameLit": "",
+        "nameInc": [
+            "canon"
+        ],
+        "nameIncAll": false,
+        "nameExc": [
+        ],
+        "nameExcAll": false
+    },
+    "lenses-slr-af-sigma-nikon": {
+        "minors": [
+            "8005"
+        ],
+        "minorsAll": false,
+        "familyInc": [
+            "1SIG"
+        ],
+        "familyIncAll": false,
+        "familyExc": [
+        ],
+        "familyExcAll": false,
+        "nameLit": "",
+        "nameInc": [
+            "nikon"
+        ],
+        "nameIncAll": false,
+        "nameExc": [
+        ],
+        "nameExcAll": false
+    },
+    "lenses-slr-af-sigma-sony": {
+        "minors": [
+            "8005"
+        ],
+        "minorsAll": false,
+        "familyInc": [
+            "1SIG"
+        ],
+        "familyIncAll": false,
+        "familyExc": [
+        ],
+        "familyExcAll": false,
+        "nameLit": "",
+        "nameInc": [
+            "sony"
+        ],
+        "nameIncAll": false,
+        "nameExc": [
+        ],
+        "nameExcAll": false
+    },
+    "lenses-slr-af-sigma-sa": {
+        "minors": [
+            "8005"
+        ],
+        "minorsAll": false,
+        "familyInc": [
+            "1SIG"
+        ],
+        "familyIncAll": false,
+        "familyExc": [
+        ],
+        "familyExcAll": false,
+        "nameLit": "",
+        "nameInc": [
+            " sa "
+        ],
+        "nameIncAll": false,
+        "nameExc": [
+        ],
+        "nameExcAll": false
+    },
+    "lenses-slr-af-sigma-pentax": {
+        "minors": [
+            "8005"
+        ],
+        "minorsAll": false,
+        "familyInc": [
+            "1SIG"
+        ],
+        "familyIncAll": false,
+        "familyExc": [
+        ],
+        "familyExcAll": false,
+        "nameLit": "",
+        "nameInc": [
+            "pentax"
+        ],
+        "nameIncAll": false,
+        "nameExc": [
+        ],
+        "nameExcAll": false
+    },
+    "lenses-slr-af-sigma-other": {
+        "minors": [
+            "8005"
+        ],
+        "minorsAll": false,
+        "familyInc": [
+            "1SIG"
+        ],
+        "familyIncAll": false,
+        "familyExc": [
+        ],
+        "familyExcAll": false,
+        "nameLit": "",
+        "nameInc": [
+        ],
+        "nameIncAll": false,
+        "nameExc": [
+            "canon",
+            "nikon",
+            "sony",
+            " sa ",
+            "pentax"
+        ],
+        "nameExcAll": false
+    },
+    "lenses-slr-af-tamron": {
+        "minors": [
+            "8005"
+        ],
+        "minorsAll": false,
+        "familyInc": [
+            "1TMR"
+        ],
+        "familyIncAll": false,
+        "familyExc": [
+        ],
+        "familyExcAll": false,
+        "nameLit": "",
+        "nameInc": [
+        ],
+        "nameIncAll": false,
+        "nameExc": [
+        ],
+        "nameExcAll": false
+    },
+    "lenses-slr-af-tamron-canon": {
+        "minors": [
+            "8005"
+        ],
+        "minorsAll": false,
+        "familyInc": [
+            "1TMR"
+        ],
+        "familyIncAll": false,
+        "familyExc": [
+        ],
+        "familyExcAll": false,
+        "nameLit": "",
+        "nameInc": [
+            "canon"
+        ],
+        "nameIncAll": false,
+        "nameExc": [
+        ],
+        "nameExcAll": false
+    },
+    "lenses-slr-af-tamron-nikon": {
+        "minors": [
+            "8005"
+        ],
+        "minorsAll": false,
+        "familyInc": [
+            "1TMR"
+        ],
+        "familyIncAll": false,
+        "familyExc": [
+        ],
+        "familyExcAll": false,
+        "nameLit": "",
+        "nameInc": [
+            "nikon"
+        ],
+        "nameIncAll": false,
+        "nameExc": [
+        ],
+        "nameExcAll": false
+    },
+    "lenses-slr-af-tamron-sony": {
+        "minors": [
+            "8005"
+        ],
+        "minorsAll": false,
+        "familyInc": [
+            "1TMR"
+        ],
+        "familyIncAll": false,
+        "familyExc": [
+        ],
+        "familyExcAll": false,
+        "nameLit": "",
+        "nameInc": [
+            "sony"
+        ],
+        "nameIncAll": false,
+        "nameExc": [
+        ],
+        "nameExcAll": false
+    },
+    "lenses-slr-af-tamron-sa": {
+        "minors": [
+            "8005"
+        ],
+        "minorsAll": false,
+        "familyInc": [
+            "1TMR"
+        ],
+        "familyIncAll": false,
+        "familyExc": [
+        ],
+        "familyExcAll": false,
+        "nameLit": "",
+        "nameInc": [
+            " sa "
+        ],
+        "nameIncAll": false,
+        "nameExc": [
+        ],
+        "nameExcAll": false
+    },
+    "lenses-slr-af-tamron-pentax": {
+        "minors": [
+            "8005"
+        ],
+        "minorsAll": false,
+        "familyInc": [
+            "1TMR"
+        ],
+        "familyIncAll": false,
+        "familyExc": [
+        ],
+        "familyExcAll": false,
+        "nameLit": "",
+        "nameInc": [
+            "pentax"
+        ],
+        "nameIncAll": false,
+        "nameExc": [
+        ],
+        "nameExcAll": false
+    },
+    "lenses-slr-af-tamron-other": {
+        "minors": [
+            "8005"
+        ],
+        "minorsAll": false,
+        "familyInc": [
+            "1TMR"
+        ],
+        "familyIncAll": false,
+        "familyExc": [
+        ],
+        "familyExcAll": false,
+        "nameLit": "",
+        "nameInc": [
+        ],
+        "nameIncAll": false,
+        "nameExc": [
+            "canon",
+            "nikon",
+            "sony",
+            " sa ",
+            "pentax"
+        ],
+        "nameExcAll": false
+    },
+    "lenses-slr-af-tokina": {
+        "minors": [
+            "8005"
+        ],
+        "minorsAll": false,
+        "familyInc": [
+            "1THK"
+        ],
+        "familyIncAll": false,
+        "familyExc": [
+        ],
+        "familyExcAll": false,
+        "nameLit": "",
+        "nameInc": [
+        ],
+        "nameIncAll": false,
+        "nameExc": [
+        ],
+        "nameExcAll": false
+    },
+    "lenses-slr-af-tokina-canon": {
+        "minors": [
+            "8005"
+        ],
+        "minorsAll": false,
+        "familyInc": [
+            "1THK"
+        ],
+        "familyIncAll": false,
+        "familyExc": [
+        ],
+        "familyExcAll": false,
+        "nameLit": "",
+        "nameInc": [
+            "canon"
+        ],
+        "nameIncAll": false,
+        "nameExc": [
+        ],
+        "nameExcAll": false
+    },
+    "lenses-slr-af-tokina-nikon": {
+        "minors": [
+            "8005"
+        ],
+        "minorsAll": false,
+        "familyInc": [
+            "1THK"
+        ],
+        "familyIncAll": false,
+        "familyExc": [
+        ],
+        "familyExcAll": false,
+        "nameLit": "",
+        "nameInc": [
+            "nikon"
+        ],
+        "nameIncAll": false,
+        "nameExc": [
+        ],
+        "nameExcAll": false
+    },
+    "lenses-slr-af-tokina-sony": {
+        "minors": [
+            "8005"
+        ],
+        "minorsAll": false,
+        "familyInc": [
+            "1THK"
+        ],
+        "familyIncAll": false,
+        "familyExc": [
+        ],
+        "familyExcAll": false,
+        "nameLit": "",
+        "nameInc": [
+            "sony"
+        ],
+        "nameIncAll": false,
+        "nameExc": [
+        ],
+        "nameExcAll": false
+    },
+    "lenses-slr-af-tokina-sa": {
+        "minors": [
+            "8005"
+        ],
+        "minorsAll": false,
+        "familyInc": [
+            "1THK"
+        ],
+        "familyIncAll": false,
+        "familyExc": [
+        ],
+        "familyExcAll": false,
+        "nameLit": "",
+        "nameInc": [
+            " sa "
+        ],
+        "nameIncAll": false,
+        "nameExc": [
+        ],
+        "nameExcAll": false
+    },
+    "lenses-slr-af-tokina-pentax": {
+        "minors": [
+            "8005"
+        ],
+        "minorsAll": false,
+        "familyInc": [
+            "1THK"
+        ],
+        "familyIncAll": false,
+        "familyExc": [
+        ],
+        "familyExcAll": false,
+        "nameLit": "",
+        "nameInc": [
+            "pentax"
+        ],
+        "nameIncAll": false,
+        "nameExc": [
+        ],
+        "nameExcAll": false
+    },
+    "lenses-slr-af-tokina-other": {
+        "minors": [
+            "8005"
+        ],
+        "minorsAll": false,
+        "familyInc": [
+            "1THK"
+        ],
+        "familyIncAll": false,
+        "familyExc": [
+        ],
+        "familyExcAll": false,
+        "nameLit": "",
+        "nameInc": [
+        ],
+        "nameIncAll": false,
+        "nameExc": [
+            "canon",
+            "nikon",
+            "sony",
+            " sa ",
+            "pentax"
+        ],
+        "nameExcAll": false
+    },
+    "lenses-slr-af-minolta": {
+        "minors": [
+            "8005"
+        ],
+        "minorsAll": false,
+        "familyInc": [
+            "1MIN"
+        ],
+        "familyIncAll": false,
+        "familyExc": [
+        ],
+        "familyExcAll": false,
+        "nameLit": "",
+        "nameInc": [
+        ],
+        "nameIncAll": false,
+        "nameExc": [
+        ],
+        "nameExcAll": false
+    },
+    "lenses-slr-af-minolta-zoom": {
+        "minors": [
+            "8005"
+        ],
+        "minorsAll": false,
+        "familyInc": [
+            "1MIN"
+        ],
+        "familyIncAll": false,
+        "familyExc": [
+        ],
+        "familyExcAll": false,
+        "nameLit": "",
+        "nameInc": [
+            "00-",
+            " 8-",
+            "10-",
+            "11-",
+            "12-",
+            "15-",
+            "16-",
+            "17-",
+            "18-",
+            "20-",
+            "22-",
+            "24-",
+            "28-",
+            "35-",
+            "-200",
+            "-210",
+            "-250",
+            "-300",
+            "-350",
+            "-400",
+            "-500",
+            "-600"
+        ],
+        "nameIncAll": false,
+        "nameExc": [
+        ],
+        "nameExcAll": false
+    },
+    "lenses-slr-af-minolta-zoom-wide": {
+        "minors": [
+            "8005"
+        ],
+        "minorsAll": false,
+        "familyInc": [
+            "1MIN"
+        ],
+        "familyIncAll": false,
+        "familyExc": [
+        ],
+        "familyExcAll": false,
+        "nameLit": "",
+        "nameInc": [
+            " 8-",
+            "10-",
+            "11-",
+            "12-",
+            "-24"
+        ],
+        "nameIncAll": false,
+        "nameExc": [
+        ],
+        "nameExcAll": false
+    },
+    "lenses-slr-af-minolta-zoom-med": {
+        "minors": [
+            "8005"
+        ],
+        "minorsAll": false,
+        "familyInc": [
+            "1MIN"
+        ],
+        "familyIncAll": false,
+        "familyExc": [
+        ],
+        "familyExcAll": false,
+        "nameLit": "",
+        "nameInc": [
+            "-10",
+            "-13",
+            "15-",
+            "16-",
+            "17-",
+            "18-",
+            "20-",
+            "22-",
+            "24-",
+            "28-",
+            "35-"
+        ],
+        "nameIncAll": false,
+        "nameExc": [
+            "-200",
+            "-210",
+            "-250",
+            "-300",
+            "-350",
+            "-400"
+        ],
+        "nameExcAll": false
+    },
+    "lenses-slr-af-minolta-zoom-tele": {
+        "minors": [
+            "8005"
+        ],
+        "minorsAll": false,
+        "familyInc": [
+            "1MIN"
+        ],
+        "familyIncAll": false,
+        "familyExc": [
+        ],
+        "familyExcAll": false,
+        "nameLit": "",
+        "nameInc": [
+            "-200",
+            "-210",
+            "-250",
+            "-300",
+            "-350",
+            "-400",
+            "-500",
+            "-600"
+        ],
+        "nameIncAll": false,
+        "nameExc": [
+        ],
+        "nameExcAll": false
+    },
+    "lenses-slr-af-minolta-prime": {
+        "minors": [
+            "8005"
+        ],
+        "minorsAll": false,
+        "familyInc": [
+            "1MIN"
+        ],
+        "familyIncAll": false,
+        "familyExc": [
+        ],
+        "familyExcAll": false,
+        "nameLit": "",
+        "nameInc": [
+        ],
+        "nameIncAll": false,
+        "nameExc": [
+            "00-",
+            " 8-",
+            "10-",
+            "11-",
+            "12-",
+            "15-",
+            "16-",
+            "17-",
+            "18-",
+            "20-",
+            "22-",
+            "24-",
+            "28-",
+            "35-",
+            "-200",
+            "-210",
+            "-250",
+            "-300",
+            "-350",
+            "-400",
+            "-500",
+            "-600",
+            "extender"
+        ],
+        "nameExcAll": false
+    },
+    "lenses-slr-af-minolta-prime-wide": {
+        "minors": [
+            "8005"
+        ],
+        "minorsAll": false,
+        "familyInc": [
+            "1MIN"
+        ],
+        "familyIncAll": false,
+        "familyExc": [
+        ],
+        "familyExcAll": false,
+        "nameLit": "",
+        "nameInc": [
+            " 12mm",
+            " 13mm",
+            " 14mm",
+            " 15mm",
+            " 16mm",
+            " 17mm",
+            " 18mm",
+            " 20mm",
+            " 24mm",
+            " 28mm"
+        ],
+        "nameIncAll": false,
+        "nameExc": [
+            "00-",
+            " 8-",
+            "10-",
+            "11-",
+            "12-",
+            "15-",
+            "16-",
+            "17-",
+            "18-",
+            "20-",
+            "22-",
+            "24-",
+            "28-",
+            "35-",
+            "-200",
+            "-210",
+            "-250",
+            "-300",
+            "-350",
+            "-400",
+            "-500",
+            "-600",
+            "extender"
+        ],
+        "nameExcAll": false
+    },
+    "lenses-slr-af-minolta-prime-med": {
+        "minors": [
+            "8005"
+        ],
+        "minorsAll": false,
+        "familyInc": [
+            "1MIN"
+        ],
+        "familyIncAll": false,
+        "familyExc": [
+        ],
+        "familyExcAll": false,
+        "nameLit": "",
+        "nameInc": [
+            " 30mm",
+            " 35mm",
+            " 40mm",
+            " 45mm",
+            " 50mm",
+            " 55mm",
+            " 60mm",
+            " 70mm",
+            " 80mm",
+            " 85mm"
+        ],
+        "nameIncAll": false,
+        "nameExc": [
+            "00-",
+            " 8-",
+            "10-",
+            "11-",
+            "12-",
+            "15-",
+            "16-",
+            "17-",
+            "18-",
+            "20-",
+            "22-",
+            "24-",
+            "28-",
+            "35-",
+            "-200",
+            "-210",
+            "-250",
+            "-300",
+            "-350",
+            "-400",
+            "-500",
+            "-600",
+            "extender"
+        ],
+        "nameExcAll": false
+    },
+    "lenses-slr-af-minolta-prime-tele": {
+        "minors": [
+            "8005"
+        ],
+        "minorsAll": false,
+        "familyInc": [
+            "1MIN"
+        ],
+        "familyIncAll": false,
+        "familyExc": [
+        ],
+        "familyExcAll": false,
+        "nameLit": "",
+        "nameInc": [
+            " 90mm",
+            " 100mm",
+            " 135mm",
+            " 180mm",
+            " 200mm",
+            " 300mm",
+            " 400mm",
+            " 500mm",
+            " 600mm",
+            " 800mm"
+        ],
+        "nameIncAll": false,
+        "nameExc": [
+            "00-",
+            " 8-",
+            "10-",
+            "11-",
+            "12-",
+            "15-",
+            "16-",
+            "17-",
+            "18-",
+            "20-",
+            "22-",
+            "24-",
+            "28-",
+            "35-",
+            "-200",
+            "-210",
+            "-250",
+            "-300",
+            "-350",
+            "-400",
+            "-500",
+            "-600",
+            "extender"
+        ],
+        "nameExcAll": false
+    },
+    "lenses-slr-af-minolta-extenders": {
+        "minors": [
+            "8005"
+        ],
+        "minorsAll": false,
+        "familyInc": [
+            "1MIN"
+        ],
+        "familyIncAll": false,
+        "familyExc": [
+        ],
+        "familyExcAll": false,
+        "nameLit": "",
+        "nameInc": [
+            "extender"
+        ],
+        "nameIncAll": false,
+        "nameExc": [
+        ],
+        "nameExcAll": false
+    },
+    "lenses-slr-af-olympus": {
+        "minors": [
+            "8005"
+        ],
+        "minorsAll": false,
+        "familyInc": [
+            "1OLY"
+        ],
+        "familyIncAll": false,
+        "familyExc": [
+        ],
+        "familyExcAll": false,
+        "nameLit": "",
+        "nameInc": [
+        ],
+        "nameIncAll": false,
+        "nameExc": [
+        ],
+        "nameExcAll": false
+    },
+    "lenses-slr-af-olympus-zoom": {
+        "minors": [
+            "8005"
+        ],
+        "minorsAll": false,
+        "familyInc": [
+            "1OLY"
+        ],
+        "familyIncAll": false,
+        "familyExc": [
+        ],
+        "familyExcAll": false,
+        "nameLit": "",
+        "nameInc": [
+            "00-",
+            " 8-",
+            "10-",
+            "11-",
+            "12-",
+            "15-",
+            "16-",
+            "17-",
+            "18-",
+            "20-",
+            "22-",
+            "24-",
+            "28-",
+            "35-",
+            "-200",
+            "-210",
+            "-250",
+            "-300",
+            "-350",
+            "-400",
+            "-500",
+            "-600"
+        ],
+        "nameIncAll": false,
+        "nameExc": [
+        ],
+        "nameExcAll": false
+    },
+    "lenses-slr-af-olympus-zoom-wide": {
+        "minors": [
+            "8005"
+        ],
+        "minorsAll": false,
+        "familyInc": [
+            "1OLY"
+        ],
+        "familyIncAll": false,
+        "familyExc": [
+        ],
+        "familyExcAll": false,
+        "nameLit": "",
+        "nameInc": [
+            " 8-",
+            "10-",
+            "11-",
+            "12-",
+            "-24"
+        ],
+        "nameIncAll": false,
+        "nameExc": [
+        ],
+        "nameExcAll": false
+    },
+    "lenses-slr-af-olympus-zoom-med": {
+        "minors": [
+            "8005"
+        ],
+        "minorsAll": false,
+        "familyInc": [
+            "1OLY"
+        ],
+        "familyIncAll": false,
+        "familyExc": [
+        ],
+        "familyExcAll": false,
+        "nameLit": "",
+        "nameInc": [
+            "-10",
+            "-13",
+            "15-",
+            "16-",
+            "17-",
+            "18-",
+            "20-",
+            "22-",
+            "24-",
+            "28-",
+            "35-"
+        ],
+        "nameIncAll": false,
+        "nameExc": [
+            "-200",
+            "-210",
+            "-250",
+            "-300",
+            "-350",
+            "-400"
+        ],
+        "nameExcAll": false
+    },
+    "lenses-slr-af-olympus-zoom-tele": {
+        "minors": [
+            "8005"
+        ],
+        "minorsAll": false,
+        "familyInc": [
+            "1OLY"
+        ],
+        "familyIncAll": false,
+        "familyExc": [
+        ],
+        "familyExcAll": false,
+        "nameLit": "",
+        "nameInc": [
+            "-200",
+            "-210",
+            "-250",
+            "-300",
+            "-350",
+            "-400",
+            "-500",
+            "-600"
+        ],
+        "nameIncAll": false,
+        "nameExc": [
+        ],
+        "nameExcAll": false
+    },
+    "lenses-slr-af-olympus-prime": {
+        "minors": [
+            "8005"
+        ],
+        "minorsAll": false,
+        "familyInc": [
+            "1OLY"
+        ],
+        "familyIncAll": false,
+        "familyExc": [
+        ],
+        "familyExcAll": false,
+        "nameLit": "",
+        "nameInc": [
+        ],
+        "nameIncAll": false,
+        "nameExc": [
+            "00-",
+            " 8-",
+            "10-",
+            "11-",
+            "12-",
+            "15-",
+            "16-",
+            "17-",
+            "18-",
+            "20-",
+            "22-",
+            "24-",
+            "28-",
+            "35-",
+            "-200",
+            "-210",
+            "-250",
+            "-300",
+            "-350",
+            "-400",
+            "-500",
+            "-600",
+            "extender"
+        ],
+        "nameExcAll": false
+    },
+    "lenses-slr-af-olympus-prime-wide": {
+        "minors": [
+            "8005"
+        ],
+        "minorsAll": false,
+        "familyInc": [
+            "1OLY"
+        ],
+        "familyIncAll": false,
+        "familyExc": [
+        ],
+        "familyExcAll": false,
+        "nameLit": "",
+        "nameInc": [
+            " 12mm",
+            " 13mm",
+            " 14mm",
+            " 15mm",
+            " 16mm",
+            " 17mm",
+            " 18mm",
+            " 20mm",
+            " 24mm",
+            " 28mm"
+        ],
+        "nameIncAll": false,
+        "nameExc": [
+            "00-",
+            " 8-",
+            "10-",
+            "11-",
+            "12-",
+            "15-",
+            "16-",
+            "17-",
+            "18-",
+            "20-",
+            "22-",
+            "24-",
+            "28-",
+            "35-",
+            "-200",
+            "-210",
+            "-250",
+            "-300",
+            "-350",
+            "-400",
+            "-500",
+            "-600",
+            "extender"
+        ],
+        "nameExcAll": false
+    },
+    "lenses-slr-af-olympus-prime-med": {
+        "minors": [
+            "8005"
+        ],
+        "minorsAll": false,
+        "familyInc": [
+            "1OLY"
+        ],
+        "familyIncAll": false,
+        "familyExc": [
+        ],
+        "familyExcAll": false,
+        "nameLit": "",
+        "nameInc": [
+            " 30mm",
+            " 35mm",
+            " 40mm",
+            " 45mm",
+            " 50mm",
+            " 55mm",
+            " 60mm",
+            " 70mm",
+            " 80mm",
+            " 85mm"
+        ],
+        "nameIncAll": false,
+        "nameExc": [
+            "00-",
+            " 8-",
+            "10-",
+            "11-",
+            "12-",
+            "15-",
+            "16-",
+            "17-",
+            "18-",
+            "20-",
+            "22-",
+            "24-",
+            "28-",
+            "35-",
+            "-200",
+            "-210",
+            "-250",
+            "-300",
+            "-350",
+            "-400",
+            "-500",
+            "-600",
+            "extender"
+        ],
+        "nameExcAll": false
+    },
+    "lenses-slr-af-olympus-prime-tele": {
+        "minors": [
+            "8005"
+        ],
+        "minorsAll": false,
+        "familyInc": [
+            "1OLY"
+        ],
+        "familyIncAll": false,
+        "familyExc": [
+        ],
+        "familyExcAll": false,
+        "nameLit": "",
+        "nameInc": [
+            " 90mm",
+            " 100mm",
+            " 135mm",
+            " 180mm",
+            " 200mm",
+            " 300mm",
+            " 400mm",
+            " 500mm",
+            " 600mm",
+            " 800mm"
+        ],
+        "nameIncAll": false,
+        "nameExc": [
+            "00-",
+            " 8-",
+            "10-",
+            "11-",
+            "12-",
+            "15-",
+            "16-",
+            "17-",
+            "18-",
+            "20-",
+            "22-",
+            "24-",
+            "28-",
+            "35-",
+            "-200",
+            "-210",
+            "-250",
+            "-300",
+            "-350",
+            "-400",
+            "-500",
+            "-600",
+            "extender"
+        ],
+        "nameExcAll": false
+    },
+    "lenses-slr-af-olympus-extenders": {
+        "minors": [
+            "8005"
+        ],
+        "minorsAll": false,
+        "familyInc": [
+            "1OLY"
+        ],
+        "familyIncAll": false,
+        "familyExc": [
+        ],
+        "familyExcAll": false,
+        "nameLit": "",
+        "nameInc": [
+            "extender"
+        ],
+        "nameIncAll": false,
+        "nameExc": [
+        ],
+        "nameExcAll": false
+    },
+    "lenses-slr-af-other": {
+        "minors": [
+            "8005"
+        ],
+        "minorsAll": false,
+        "familyInc": [
+        ],
+        "familyIncAll": false,
+        "familyExc": [
+            "1CAN",
+            "1NIK",
+            "1SIG",
+            "1TMR",
+            "1THK",
+            "1MIN",
+            "1SNY",
+            "1OLY"
+        ],
+        "familyExcAll": false,
+        "nameLit": "",
+        "nameInc": [
+        ],
+        "nameIncAll": false,
+        "nameExc": [
+        ],
+        "nameExcAll": false
+    },
+    "lenses-slr-mf": {
+        "minors": [
+            "8006"
+        ],
+        "minorsAll": false,
+        "familyInc": [
+        ],
+        "familyIncAll": false,
+        "familyExc": [
+        ],
+        "familyExcAll": false,
+        "nameLit": "",
+        "nameInc": [
+        ],
+        "nameIncAll": false,
+        "nameExc": [
+        ],
+        "nameExcAll": false
+    },
+    "lenses-slr-mf-canon": {
+        "minors": [
+            "8006"
+        ],
+        "minorsAll": false,
+        "familyInc": [
+            "1CAN"
+        ],
+        "familyIncAll": false,
+        "familyExc": [
+        ],
+        "familyExcAll": false,
+        "nameLit": "",
+        "nameInc": [
+        ],
+        "nameIncAll": false,
+        "nameExc": [
+        ],
+        "nameExcAll": false
+    },
+    "lenses-slr-mf-canon-zoom": {
+        "minors": [
+            "8006"
+        ],
+        "minorsAll": false,
+        "familyInc": [
+            "1CAN"
+        ],
+        "familyIncAll": false,
+        "familyExc": [
+        ],
+        "familyExcAll": false,
+        "nameLit": "",
+        "nameInc": [
+            "00-",
+            " 8-",
+            "10-",
+            "11-",
+            "12-",
+            "15-",
+            "16-",
+            "17-",
+            "18-",
+            "20-",
+            "22-",
+            "24-",
+            "28-",
+            "35-",
+            "-200",
+            "-210",
+            "-250",
+            "-300",
+            "-350",
+            "-400",
+            "-500",
+            "-600"
+        ],
+        "nameIncAll": false,
+        "nameExc": [
+        ],
+        "nameExcAll": false
+    },
+    "lenses-slr-mf-canon-zoom-wide": {
+        "minors": [
+            "8006"
+        ],
+        "minorsAll": false,
+        "familyInc": [
+            "1CAN"
+        ],
+        "familyIncAll": false,
+        "familyExc": [
+        ],
+        "familyExcAll": false,
+        "nameLit": "",
+        "nameInc": [
+            " 8-",
+            "10-",
+            "11-",
+            "12-",
+            "-24"
+        ],
+        "nameIncAll": false,
+        "nameExc": [
+        ],
+        "nameExcAll": false
+    },
+    "lenses-slr-mf-canon-zoom-med": {
+        "minors": [
+            "8006"
+        ],
+        "minorsAll": false,
+        "familyInc": [
+            "1CAN"
+        ],
+        "familyIncAll": false,
+        "familyExc": [
+        ],
+        "familyExcAll": false,
+        "nameLit": "",
+        "nameInc": [
+            "-10",
+            "-13",
+            "15-",
+            "16-",
+            "17-",
+            "18-",
+            "20-",
+            "22-",
+            "24-",
+            "28-",
+            "35-"
+        ],
+        "nameIncAll": false,
+        "nameExc": [
+            "-200",
+            "-210",
+            "-250",
+            "-300",
+            "-350",
+            "-400"
+        ],
+        "nameExcAll": false
+    },
+    "lenses-slr-mf-canon-zoom-tele": {
+        "minors": [
+            "8006"
+        ],
+        "minorsAll": false,
+        "familyInc": [
+            "1CAN"
+        ],
+        "familyIncAll": false,
+        "familyExc": [
+        ],
+        "familyExcAll": false,
+        "nameLit": "",
+        "nameInc": [
+            "-200",
+            "-210",
+            "-250",
+            "-300",
+            "-350",
+            "-400",
+            "-500",
+            "-600"
+        ],
+        "nameIncAll": false,
+        "nameExc": [
+        ],
+        "nameExcAll": false
+    },
+    "lenses-slr-mf-canon-prime": {
+        "minors": [
+            "8006"
+        ],
+        "minorsAll": false,
+        "familyInc": [
+            "1CAN"
+        ],
+        "familyIncAll": false,
+        "familyExc": [
+        ],
+        "familyExcAll": false,
+        "nameLit": "",
+        "nameInc": [
+        ],
+        "nameIncAll": false,
+        "nameExc": [
+            "00-",
+            " 8-",
+            "10-",
+            "11-",
+            "12-",
+            "15-",
+            "16-",
+            "17-",
+            "18-",
+            "20-",
+            "22-",
+            "24-",
+            "28-",
+            "35-",
+            "-200",
+            "-210",
+            "-250",
+            "-300",
+            "-350",
+            "-400",
+            "-500",
+            "-600",
+            "extender"
+        ],
+        "nameExcAll": false
+    },
+    "lenses-slr-mf-canon-prime-wide": {
+        "minors": [
+            "8006"
+        ],
+        "minorsAll": false,
+        "familyInc": [
+            "1CAN"
+        ],
+        "familyIncAll": false,
+        "familyExc": [
+        ],
+        "familyExcAll": false,
+        "nameLit": "",
+        "nameInc": [
+            " 12mm",
+            " 13mm",
+            " 14mm",
+            " 15mm",
+            " 16mm",
+            " 17mm",
+            " 18mm",
+            " 20mm",
+            " 24mm",
+            " 28mm"
+        ],
+        "nameIncAll": false,
+        "nameExc": [
+            "00-",
+            " 8-",
+            "10-",
+            "11-",
+            "12-",
+            "15-",
+            "16-",
+            "17-",
+            "18-",
+            "20-",
+            "22-",
+            "24-",
+            "28-",
+            "35-",
+            "-200",
+            "-210",
+            "-250",
+            "-300",
+            "-350",
+            "-400",
+            "-500",
+            "-600",
+            "extender"
+        ],
+        "nameExcAll": false
+    },
+    "lenses-slr-mf-canon-prime-med": {
+        "minors": [
+            "8006"
+        ],
+        "minorsAll": false,
+        "familyInc": [
+            "1CAN"
+        ],
+        "familyIncAll": false,
+        "familyExc": [
+        ],
+        "familyExcAll": false,
+        "nameLit": "",
+        "nameInc": [
+            " 30mm",
+            " 35mm",
+            " 40mm",
+            " 45mm",
+            " 50mm",
+            " 55mm",
+            " 60mm",
+            " 70mm",
+            " 80mm",
+            " 85mm"
+        ],
+        "nameIncAll": false,
+        "nameExc": [
+            "00-",
+            " 8-",
+            "10-",
+            "11-",
+            "12-",
+            "15-",
+            "16-",
+            "17-",
+            "18-",
+            "20-",
+            "22-",
+            "24-",
+            "28-",
+            "35-",
+            "-200",
+            "-210",
+            "-250",
+            "-300",
+            "-350",
+            "-400",
+            "-500",
+            "-600",
+            "extender"
+        ],
+        "nameExcAll": false
+    },
+    "lenses-slr-mf-canon-prime-tele": {
+        "minors": [
+            "8006"
+        ],
+        "minorsAll": false,
+        "familyInc": [
+            "1CAN"
+        ],
+        "familyIncAll": false,
+        "familyExc": [
+        ],
+        "familyExcAll": false,
+        "nameLit": "",
+        "nameInc": [
+            " 90mm",
+            " 100mm",
+            " 135mm",
+            " 180mm",
+            " 200mm",
+            " 300mm",
+            " 400mm",
+            " 500mm",
+            " 600mm",
+            " 800mm"
+        ],
+        "nameIncAll": false,
+        "nameExc": [
+            "00-",
+            " 8-",
+            "10-",
+            "11-",
+            "12-",
+            "15-",
+            "16-",
+            "17-",
+            "18-",
+            "20-",
+            "22-",
+            "24-",
+            "28-",
+            "35-",
+            "-200",
+            "-210",
+            "-250",
+            "-300",
+            "-350",
+            "-400",
+            "-500",
+            "-600",
+            "extender"
+        ],
+        "nameExcAll": false
+    },
+    "lenses-slr-mf-canon-extenders": {
+        "minors": [
+            "8006"
+        ],
+        "minorsAll": false,
+        "familyInc": [
+            "1CAN"
+        ],
+        "familyIncAll": false,
+        "familyExc": [
+        ],
+        "familyExcAll": false,
+        "nameLit": "",
+        "nameInc": [
+            "extender"
+        ],
+        "nameIncAll": false,
+        "nameExc": [
+        ],
+        "nameExcAll": false
+    },
+    "lenses-slr-mf-nikon": {
+        "minors": [
+            "8006"
+        ],
+        "minorsAll": false,
+        "familyInc": [
+            "1NIK"
+        ],
+        "familyIncAll": false,
+        "familyExc": [
+        ],
+        "familyExcAll": false,
+        "nameLit": "",
+        "nameInc": [
+        ],
+        "nameIncAll": false,
+        "nameExc": [
+        ],
+        "nameExcAll": false
+    },
+    "lenses-slr-mf-nikon-zoom": {
+        "minors": [
+            "8006"
+        ],
+        "minorsAll": false,
+        "familyInc": [
+            "1NIK"
+        ],
+        "familyIncAll": false,
+        "familyExc": [
+        ],
+        "familyExcAll": false,
+        "nameLit": "",
+        "nameInc": [
+            "00-",
+            " 8-",
+            "10-",
+            "11-",
+            "12-",
+            "15-",
+            "16-",
+            "17-",
+            "18-",
+            "20-",
+            "22-",
+            "24-",
+            "28-",
+            "35-",
+            "-200",
+            "-210",
+            "-250",
+            "-300",
+            "-350",
+            "-400",
+            "-500",
+            "-600"
+        ],
+        "nameIncAll": false,
+        "nameExc": [
+        ],
+        "nameExcAll": false
+    },
+    "lenses-slr-mf-nikon-zoom-wide": {
+        "minors": [
+            "8006"
+        ],
+        "minorsAll": false,
+        "familyInc": [
+            "1NIK"
+        ],
+        "familyIncAll": false,
+        "familyExc": [
+        ],
+        "familyExcAll": false,
+        "nameLit": "",
+        "nameInc": [
+            " 8-",
+            "10-",
+            "11-",
+            "12-",
+            "-24"
+        ],
+        "nameIncAll": false,
+        "nameExc": [
+        ],
+        "nameExcAll": false
+    },
+    "lenses-slr-mf-nikon-zoom-med": {
+        "minors": [
+            "8006"
+        ],
+        "minorsAll": false,
+        "familyInc": [
+            "1NIK"
+        ],
+        "familyIncAll": false,
+        "familyExc": [
+        ],
+        "familyExcAll": false,
+        "nameLit": "",
+        "nameInc": [
+            "-10",
+            "-13",
+            "15-",
+            "16-",
+            "17-",
+            "18-",
+            "20-",
+            "22-",
+            "24-",
+            "28-",
+            "35-"
+        ],
+        "nameIncAll": false,
+        "nameExc": [
+            "-200",
+            "-210",
+            "-250",
+            "-300",
+            "-350",
+            "-400"
+        ],
+        "nameExcAll": false
+    },
+    "lenses-slr-mf-nikon-zoom-tele": {
+        "minors": [
+            "8006"
+        ],
+        "minorsAll": false,
+        "familyInc": [
+            "1NIK"
+        ],
+        "familyIncAll": false,
+        "familyExc": [
+        ],
+        "familyExcAll": false,
+        "nameLit": "",
+        "nameInc": [
+            "-200",
+            "-210",
+            "-250",
+            "-300",
+            "-350",
+            "-400",
+            "-500",
+            "-600"
+        ],
+        "nameIncAll": false,
+        "nameExc": [
+        ],
+        "nameExcAll": false
+    },
+    "lenses-slr-mf-nikon-prime": {
+        "minors": [
+            "8006"
+        ],
+        "minorsAll": false,
+        "familyInc": [
+            "1NIK"
+        ],
+        "familyIncAll": false,
+        "familyExc": [
+        ],
+        "familyExcAll": false,
+        "nameLit": "",
+        "nameInc": [
+        ],
+        "nameIncAll": false,
+        "nameExc": [
+            "00-",
+            " 8-",
+            "10-",
+            "11-",
+            "12-",
+            "15-",
+            "16-",
+            "17-",
+            "18-",
+            "20-",
+            "22-",
+            "24-",
+            "28-",
+            "35-",
+            "-200",
+            "-210",
+            "-250",
+            "-300",
+            "-350",
+            "-400",
+            "-500",
+            "-600",
+            "extender"
+        ],
+        "nameExcAll": false
+    },
+    "lenses-slr-mf-nikon-prime-wide": {
+        "minors": [
+            "8006"
+        ],
+        "minorsAll": false,
+        "familyInc": [
+            "1NIK"
+        ],
+        "familyIncAll": false,
+        "familyExc": [
+        ],
+        "familyExcAll": false,
+        "nameLit": "",
+        "nameInc": [
+            " 12mm",
+            " 13mm",
+            " 14mm",
+            " 15mm",
+            " 16mm",
+            " 17mm",
+            " 18mm",
+            " 20mm",
+            " 24mm",
+            " 28mm"
+        ],
+        "nameIncAll": false,
+        "nameExc": [
+            "00-",
+            " 8-",
+            "10-",
+            "11-",
+            "12-",
+            "15-",
+            "16-",
+            "17-",
+            "18-",
+            "20-",
+            "22-",
+            "24-",
+            "28-",
+            "35-",
+            "-200",
+            "-210",
+            "-250",
+            "-300",
+            "-350",
+            "-400",
+            "-500",
+            "-600",
+            "extender"
+        ],
+        "nameExcAll": false
+    },
+    "lenses-slr-mf-nikon-prime-med": {
+        "minors": [
+            "8006"
+        ],
+        "minorsAll": false,
+        "familyInc": [
+            "1NIK"
+        ],
+        "familyIncAll": false,
+        "familyExc": [
+        ],
+        "familyExcAll": false,
+        "nameLit": "",
+        "nameInc": [
+            " 30mm",
+            " 35mm",
+            " 40mm",
+            " 45mm",
+            " 50mm",
+            " 55mm",
+            " 60mm",
+            " 70mm",
+            " 80mm",
+            " 85mm"
+        ],
+        "nameIncAll": false,
+        "nameExc": [
+            "00-",
+            " 8-",
+            "10-",
+            "11-",
+            "12-",
+            "15-",
+            "16-",
+            "17-",
+            "18-",
+            "20-",
+            "22-",
+            "24-",
+            "28-",
+            "35-",
+            "-200",
+            "-210",
+            "-250",
+            "-300",
+            "-350",
+            "-400",
+            "-500",
+            "-600",
+            "extender"
+        ],
+        "nameExcAll": false
+    },
+    "lenses-slr-mf-nikon-prime-tele": {
+        "minors": [
+            "8006"
+        ],
+        "minorsAll": false,
+        "familyInc": [
+            "1NIK"
+        ],
+        "familyIncAll": false,
+        "familyExc": [
+        ],
+        "familyExcAll": false,
+        "nameLit": "",
+        "nameInc": [
+            " 90mm",
+            " 100mm",
+            " 135mm",
+            " 180mm",
+            " 200mm",
+            " 300mm",
+            " 400mm",
+            " 500mm",
+            " 600mm",
+            " 800mm"
+        ],
+        "nameIncAll": false,
+        "nameExc": [
+            "00-",
+            " 8-",
+            "10-",
+            "11-",
+            "12-",
+            "15-",
+            "16-",
+            "17-",
+            "18-",
+            "20-",
+            "22-",
+            "24-",
+            "28-",
+            "35-",
+            "-200",
+            "-210",
+            "-250",
+            "-300",
+            "-350",
+            "-400",
+            "-500",
+            "-600",
+            "extender"
+        ],
+        "nameExcAll": false
+    },
+    "lenses-slr-mf-nikon-extenders": {
+        "minors": [
+            "8006"
+        ],
+        "minorsAll": false,
+        "familyInc": [
+            "1NIK"
+        ],
+        "familyIncAll": false,
+        "familyExc": [
+        ],
+        "familyExcAll": false,
+        "nameLit": "",
+        "nameInc": [
+            "extender"
+        ],
+        "nameIncAll": false,
+        "nameExc": [
+        ],
+        "nameExcAll": false
+    },
+    "lenses-slr-mf-sony": {
+        "minors": [
+            "8006"
+        ],
+        "minorsAll": false,
+        "familyInc": [
+            "1SNY"
+        ],
+        "familyIncAll": false,
+        "familyExc": [
+        ],
+        "familyExcAll": false,
+        "nameLit": "",
+        "nameInc": [
+        ],
+        "nameIncAll": false,
+        "nameExc": [
+        ],
+        "nameExcAll": false
+    },
+    "lenses-slr-mf-sony-zoom": {
+        "minors": [
+            "8006"
+        ],
+        "minorsAll": false,
+        "familyInc": [
+            "1SNY"
+        ],
+        "familyIncAll": false,
+        "familyExc": [
+        ],
+        "familyExcAll": false,
+        "nameLit": "",
+        "nameInc": [
+            "00-",
+            " 8-",
+            "10-",
+            "11-",
+            "12-",
+            "15-",
+            "16-",
+            "17-",
+            "18-",
+            "20-",
+            "22-",
+            "24-",
+            "28-",
+            "35-",
+            "-200",
+            "-210",
+            "-250",
+            "-300",
+            "-350",
+            "-400",
+            "-500",
+            "-600"
+        ],
+        "nameIncAll": false,
+        "nameExc": [
+        ],
+        "nameExcAll": false
+    },
+    "lenses-slr-mf-sony-zoom-wide": {
+        "minors": [
+            "8006"
+        ],
+        "minorsAll": false,
+        "familyInc": [
+            "1SNY"
+        ],
+        "familyIncAll": false,
+        "familyExc": [
+        ],
+        "familyExcAll": false,
+        "nameLit": "",
+        "nameInc": [
+            " 8-",
+            "10-",
+            "11-",
+            "12-",
+            "-24"
+        ],
+        "nameIncAll": false,
+        "nameExc": [
+        ],
+        "nameExcAll": false
+    },
+    "lenses-slr-mf-sony-zoom-med": {
+        "minors": [
+            "8006"
+        ],
+        "minorsAll": false,
+        "familyInc": [
+            "1SNY"
+        ],
+        "familyIncAll": false,
+        "familyExc": [
+        ],
+        "familyExcAll": false,
+        "nameLit": "",
+        "nameInc": [
+            "-10",
+            "-13",
+            "15-",
+            "16-",
+            "17-",
+            "18-",
+            "20-",
+            "22-",
+            "24-",
+            "28-",
+            "35-"
+        ],
+        "nameIncAll": false,
+        "nameExc": [
+            "-200",
+            "-210",
+            "-250",
+            "-300",
+            "-350",
+            "-400"
+        ],
+        "nameExcAll": false
+    },
+    "lenses-slr-mf-sony-zoom-tele": {
+        "minors": [
+            "8006"
+        ],
+        "minorsAll": false,
+        "familyInc": [
+            "1SNY"
+        ],
+        "familyIncAll": false,
+        "familyExc": [
+        ],
+        "familyExcAll": false,
+        "nameLit": "",
+        "nameInc": [
+            "-200",
+            "-210",
+            "-250",
+            "-300",
+            "-350",
+            "-400",
+            "-500",
+            "-600"
+        ],
+        "nameIncAll": false,
+        "nameExc": [
+        ],
+        "nameExcAll": false
+    },
+    "lenses-slr-mf-sony-prime": {
+        "minors": [
+            "8006"
+        ],
+        "minorsAll": false,
+        "familyInc": [
+            "1SNY"
+        ],
+        "familyIncAll": false,
+        "familyExc": [
+        ],
+        "familyExcAll": false,
+        "nameLit": "",
+        "nameInc": [
+        ],
+        "nameIncAll": false,
+        "nameExc": [
+            "00-",
+            " 8-",
+            "10-",
+            "11-",
+            "12-",
+            "15-",
+            "16-",
+            "17-",
+            "18-",
+            "20-",
+            "22-",
+            "24-",
+            "28-",
+            "35-",
+            "-200",
+            "-210",
+            "-250",
+            "-300",
+            "-350",
+            "-400",
+            "-500",
+            "-600",
+            "extender"
+        ],
+        "nameExcAll": false
+    },
+    "lenses-slr-mf-sony-prime-wide": {
+        "minors": [
+            "8006"
+        ],
+        "minorsAll": false,
+        "familyInc": [
+            "1SNY"
+        ],
+        "familyIncAll": false,
+        "familyExc": [
+        ],
+        "familyExcAll": false,
+        "nameLit": "",
+        "nameInc": [
+            " 12mm",
+            " 13mm",
+            " 14mm",
+            " 15mm",
+            " 16mm",
+            " 17mm",
+            " 18mm",
+            " 20mm",
+            " 24mm",
+            " 28mm"
+        ],
+        "nameIncAll": false,
+        "nameExc": [
+            "00-",
+            " 8-",
+            "10-",
+            "11-",
+            "12-",
+            "15-",
+            "16-",
+            "17-",
+            "18-",
+            "20-",
+            "22-",
+            "24-",
+            "28-",
+            "35-",
+            "-200",
+            "-210",
+            "-250",
+            "-300",
+            "-350",
+            "-400",
+            "-500",
+            "-600",
+            "extender"
+        ],
+        "nameExcAll": false
+    },
+    "lenses-slr-mf-sony-prime-med": {
+        "minors": [
+            "8006"
+        ],
+        "minorsAll": false,
+        "familyInc": [
+            "1SNY"
+        ],
+        "familyIncAll": false,
+        "familyExc": [
+        ],
+        "familyExcAll": false,
+        "nameLit": "",
+        "nameInc": [
+            " 30mm",
+            " 35mm",
+            " 40mm",
+            " 45mm",
+            " 50mm",
+            " 55mm",
+            " 60mm",
+            " 70mm",
+            " 80mm",
+            " 85mm"
+        ],
+        "nameIncAll": false,
+        "nameExc": [
+            "00-",
+            " 8-",
+            "10-",
+            "11-",
+            "12-",
+            "15-",
+            "16-",
+            "17-",
+            "18-",
+            "20-",
+            "22-",
+            "24-",
+            "28-",
+            "35-",
+            "-200",
+            "-210",
+            "-250",
+            "-300",
+            "-350",
+            "-400",
+            "-500",
+            "-600",
+            "extender"
+        ],
+        "nameExcAll": false
+    },
+    "lenses-slr-mf-sony-prime-tele": {
+        "minors": [
+            "8006"
+        ],
+        "minorsAll": false,
+        "familyInc": [
+            "1SNY"
+        ],
+        "familyIncAll": false,
+        "familyExc": [
+        ],
+        "familyExcAll": false,
+        "nameLit": "",
+        "nameInc": [
+            " 90mm",
+            " 100mm",
+            " 135mm",
+            " 180mm",
+            " 200mm",
+            " 300mm",
+            " 400mm",
+            " 500mm",
+            " 600mm",
+            " 800mm"
+        ],
+        "nameIncAll": false,
+        "nameExc": [
+            "00-",
+            " 8-",
+            "10-",
+            "11-",
+            "12-",
+            "15-",
+            "16-",
+            "17-",
+            "18-",
+            "20-",
+            "22-",
+            "24-",
+            "28-",
+            "35-",
+            "-200",
+            "-210",
+            "-250",
+            "-300",
+            "-350",
+            "-400",
+            "-500",
+            "-600",
+            "extender"
+        ],
+        "nameExcAll": false
+    },
+    "lenses-slr-mf-sony-extenders": {
+        "minors": [
+            "8006"
+        ],
+        "minorsAll": false,
+        "familyInc": [
+            "1SNY"
+        ],
+        "familyIncAll": false,
+        "familyExc": [
+        ],
+        "familyExcAll": false,
+        "nameLit": "",
+        "nameInc": [
+            "extender"
+        ],
+        "nameIncAll": false,
+        "nameExc": [
+        ],
+        "nameExcAll": false
+    },
+    "lenses-slr-mf-sigma": {
+        "minors": [
+            "8006"
+        ],
+        "minorsAll": false,
+        "familyInc": [
+            "1SIG"
+        ],
+        "familyIncAll": false,
+        "familyExc": [
+        ],
+        "familyExcAll": false,
+        "nameLit": "",
+        "nameInc": [
+        ],
+        "nameIncAll": false,
+        "nameExc": [
+        ],
+        "nameExcAll": false
+    },
+    "lenses-slr-mf-sigma-canon": {
+        "minors": [
+            "8006"
+        ],
+        "minorsAll": false,
+        "familyInc": [
+            "1SIG"
+        ],
+        "familyIncAll": false,
+        "familyExc": [
+        ],
+        "familyExcAll": false,
+        "nameLit": "",
+        "nameInc": [
+            "canon"
+        ],
+        "nameIncAll": false,
+        "nameExc": [
+        ],
+        "nameExcAll": false
+    },
+    "lenses-slr-mf-sigma-nikon": {
+        "minors": [
+            "8006"
+        ],
+        "minorsAll": false,
+        "familyInc": [
+            "1SIG"
+        ],
+        "familyIncAll": false,
+        "familyExc": [
+        ],
+        "familyExcAll": false,
+        "nameLit": "",
+        "nameInc": [
+            "nikon"
+        ],
+        "nameIncAll": false,
+        "nameExc": [
+        ],
+        "nameExcAll": false
+    },
+    "lenses-slr-mf-sigma-sony": {
+        "minors": [
+            "8006"
+        ],
+        "minorsAll": false,
+        "familyInc": [
+            "1SIG"
+        ],
+        "familyIncAll": false,
+        "familyExc": [
+        ],
+        "familyExcAll": false,
+        "nameLit": "",
+        "nameInc": [
+            "sony"
+        ],
+        "nameIncAll": false,
+        "nameExc": [
+        ],
+        "nameExcAll": false
+    },
+    "lenses-slr-mf-sigma-sa": {
+        "minors": [
+            "8006"
+        ],
+        "minorsAll": false,
+        "familyInc": [
+            "1SIG"
+        ],
+        "familyIncAll": false,
+        "familyExc": [
+        ],
+        "familyExcAll": false,
+        "nameLit": "",
+        "nameInc": [
+            " sa "
+        ],
+        "nameIncAll": false,
+        "nameExc": [
+        ],
+        "nameExcAll": false
+    },
+    "lenses-slr-mf-sigma-pentax": {
+        "minors": [
+            "8006"
+        ],
+        "minorsAll": false,
+        "familyInc": [
+            "1SIG"
+        ],
+        "familyIncAll": false,
+        "familyExc": [
+        ],
+        "familyExcAll": false,
+        "nameLit": "",
+        "nameInc": [
+            "pentax"
+        ],
+        "nameIncAll": false,
+        "nameExc": [
+        ],
+        "nameExcAll": false
+    },
+    "lenses-slr-mf-sigma-other": {
+        "minors": [
+            "8006"
+        ],
+        "minorsAll": false,
+        "familyInc": [
+            "1SIG"
+        ],
+        "familyIncAll": false,
+        "familyExc": [
+        ],
+        "familyExcAll": false,
+        "nameLit": "",
+        "nameInc": [
+        ],
+        "nameIncAll": false,
+        "nameExc": [
+            "canon",
+            "nikon",
+            "sony",
+            " sa ",
+            "pentax"
+        ],
+        "nameExcAll": false
+    },
+    "lenses-slr-mf-tamron": {
+        "minors": [
+            "8006"
+        ],
+        "minorsAll": false,
+        "familyInc": [
+            "1TMR"
+        ],
+        "familyIncAll": false,
+        "familyExc": [
+        ],
+        "familyExcAll": false,
+        "nameLit": "",
+        "nameInc": [
+        ],
+        "nameIncAll": false,
+        "nameExc": [
+        ],
+        "nameExcAll": false
+    },
+    "lenses-slr-mf-tamron-canon": {
+        "minors": [
+            "8006"
+        ],
+        "minorsAll": false,
+        "familyInc": [
+            "1TMR"
+        ],
+        "familyIncAll": false,
+        "familyExc": [
+        ],
+        "familyExcAll": false,
+        "nameLit": "",
+        "nameInc": [
+            "canon"
+        ],
+        "nameIncAll": false,
+        "nameExc": [
+        ],
+        "nameExcAll": false
+    },
+    "lenses-slr-mf-tamron-nikon": {
+        "minors": [
+            "8006"
+        ],
+        "minorsAll": false,
+        "familyInc": [
+            "1TMR"
+        ],
+        "familyIncAll": false,
+        "familyExc": [
+        ],
+        "familyExcAll": false,
+        "nameLit": "",
+        "nameInc": [
+            "nikon"
+        ],
+        "nameIncAll": false,
+        "nameExc": [
+        ],
+        "nameExcAll": false
+    },
+    "lenses-slr-mf-tamron-sony": {
+        "minors": [
+            "8006"
+        ],
+        "minorsAll": false,
+        "familyInc": [
+            "1TMR"
+        ],
+        "familyIncAll": false,
+        "familyExc": [
+        ],
+        "familyExcAll": false,
+        "nameLit": "",
+        "nameInc": [
+            "sony"
+        ],
+        "nameIncAll": false,
+        "nameExc": [
+        ],
+        "nameExcAll": false
+    },
+    "lenses-slr-mf-tamron-sa": {
+        "minors": [
+            "8006"
+        ],
+        "minorsAll": false,
+        "familyInc": [
+            "1TMR"
+        ],
+        "familyIncAll": false,
+        "familyExc": [
+        ],
+        "familyExcAll": false,
+        "nameLit": "",
+        "nameInc": [
+            " sa "
+        ],
+        "nameIncAll": false,
+        "nameExc": [
+        ],
+        "nameExcAll": false
+    },
+    "lenses-slr-mf-tamron-pentax": {
+        "minors": [
+            "8006"
+        ],
+        "minorsAll": false,
+        "familyInc": [
+            "1TMR"
+        ],
+        "familyIncAll": false,
+        "familyExc": [
+        ],
+        "familyExcAll": false,
+        "nameLit": "",
+        "nameInc": [
+            "pentax"
+        ],
+        "nameIncAll": false,
+        "nameExc": [
+        ],
+        "nameExcAll": false
+    },
+    "lenses-slr-mf-tamron-other": {
+        "minors": [
+            "8006"
+        ],
+        "minorsAll": false,
+        "familyInc": [
+            "1TMR"
+        ],
+        "familyIncAll": false,
+        "familyExc": [
+        ],
+        "familyExcAll": false,
+        "nameLit": "",
+        "nameInc": [
+        ],
+        "nameIncAll": false,
+        "nameExc": [
+            "canon",
+            "nikon",
+            "sony",
+            " sa ",
+            "pentax"
+        ],
+        "nameExcAll": false
+    },
+    "lenses-slr-mf-tokina": {
+        "minors": [
+            "8006"
+        ],
+        "minorsAll": false,
+        "familyInc": [
+            "1THK"
+        ],
+        "familyIncAll": false,
+        "familyExc": [
+        ],
+        "familyExcAll": false,
+        "nameLit": "",
+        "nameInc": [
+        ],
+        "nameIncAll": false,
+        "nameExc": [
+        ],
+        "nameExcAll": false
+    },
+    "lenses-slr-mf-tokina-canon": {
+        "minors": [
+            "8006"
+        ],
+        "minorsAll": false,
+        "familyInc": [
+            "1THK"
+        ],
+        "familyIncAll": false,
+        "familyExc": [
+        ],
+        "familyExcAll": false,
+        "nameLit": "",
+        "nameInc": [
+            "canon"
+        ],
+        "nameIncAll": false,
+        "nameExc": [
+        ],
+        "nameExcAll": false
+    },
+    "lenses-slr-mf-tokina-nikon": {
+        "minors": [
+            "8006"
+        ],
+        "minorsAll": false,
+        "familyInc": [
+            "1THK"
+        ],
+        "familyIncAll": false,
+        "familyExc": [
+        ],
+        "familyExcAll": false,
+        "nameLit": "",
+        "nameInc": [
+            "nikon"
+        ],
+        "nameIncAll": false,
+        "nameExc": [
+        ],
+        "nameExcAll": false
+    },
+    "lenses-slr-mf-tokina-sony": {
+        "minors": [
+            "8006"
+        ],
+        "minorsAll": false,
+        "familyInc": [
+            "1THK"
+        ],
+        "familyIncAll": false,
+        "familyExc": [
+        ],
+        "familyExcAll": false,
+        "nameLit": "",
+        "nameInc": [
+            "sony"
+        ],
+        "nameIncAll": false,
+        "nameExc": [
+        ],
+        "nameExcAll": false
+    },
+    "lenses-slr-mf-tokina-sa": {
+        "minors": [
+            "8006"
+        ],
+        "minorsAll": false,
+        "familyInc": [
+            "1THK"
+        ],
+        "familyIncAll": false,
+        "familyExc": [
+        ],
+        "familyExcAll": false,
+        "nameLit": "",
+        "nameInc": [
+            " sa "
+        ],
+        "nameIncAll": false,
+        "nameExc": [
+        ],
+        "nameExcAll": false
+    },
+    "lenses-slr-mf-tokina-pentax": {
+        "minors": [
+            "8006"
+        ],
+        "minorsAll": false,
+        "familyInc": [
+            "1THK"
+        ],
+        "familyIncAll": false,
+        "familyExc": [
+        ],
+        "familyExcAll": false,
+        "nameLit": "",
+        "nameInc": [
+            "pentax"
+        ],
+        "nameIncAll": false,
+        "nameExc": [
+        ],
+        "nameExcAll": false
+    },
+    "lenses-slr-mf-tokina-other": {
+        "minors": [
+            "8006"
+        ],
+        "minorsAll": false,
+        "familyInc": [
+            "1THK"
+        ],
+        "familyIncAll": false,
+        "familyExc": [
+        ],
+        "familyExcAll": false,
+        "nameLit": "",
+        "nameInc": [
+        ],
+        "nameIncAll": false,
+        "nameExc": [
+            "canon",
+            "nikon",
+            "sony",
+            " sa ",
+            "pentax"
+        ],
+        "nameExcAll": false
+    },
+    "lenses-slr-mf-minolta": {
+        "minors": [
+            "8006"
+        ],
+        "minorsAll": false,
+        "familyInc": [
+            "1MIN"
+        ],
+        "familyIncAll": false,
+        "familyExc": [
+        ],
+        "familyExcAll": false,
+        "nameLit": "",
+        "nameInc": [
+        ],
+        "nameIncAll": false,
+        "nameExc": [
+        ],
+        "nameExcAll": false
+    },
+    "lenses-slr-mf-minolta-zoom": {
+        "minors": [
+            "8006"
+        ],
+        "minorsAll": false,
+        "familyInc": [
+            "1MIN"
+        ],
+        "familyIncAll": false,
+        "familyExc": [
+        ],
+        "familyExcAll": false,
+        "nameLit": "",
+        "nameInc": [
+            "00-",
+            " 8-",
+            "10-",
+            "11-",
+            "12-",
+            "15-",
+            "16-",
+            "17-",
+            "18-",
+            "20-",
+            "22-",
+            "24-",
+            "28-",
+            "35-",
+            "-200",
+            "-210",
+            "-250",
+            "-300",
+            "-350",
+            "-400",
+            "-500",
+            "-600"
+        ],
+        "nameIncAll": false,
+        "nameExc": [
+        ],
+        "nameExcAll": false
+    },
+    "lenses-slr-mf-minolta-zoom-wide": {
+        "minors": [
+            "8006"
+        ],
+        "minorsAll": false,
+        "familyInc": [
+            "1MIN"
+        ],
+        "familyIncAll": false,
+        "familyExc": [
+        ],
+        "familyExcAll": false,
+        "nameLit": "",
+        "nameInc": [
+            " 8-",
+            "10-",
+            "11-",
+            "12-",
+            "-24"
+        ],
+        "nameIncAll": false,
+        "nameExc": [
+        ],
+        "nameExcAll": false
+    },
+    "lenses-slr-mf-minolta-zoom-med": {
+        "minors": [
+            "8006"
+        ],
+        "minorsAll": false,
+        "familyInc": [
+            "1MIN"
+        ],
+        "familyIncAll": false,
+        "familyExc": [
+        ],
+        "familyExcAll": false,
+        "nameLit": "",
+        "nameInc": [
+            "-10",
+            "-13",
+            "15-",
+            "16-",
+            "17-",
+            "18-",
+            "20-",
+            "22-",
+            "24-",
+            "28-",
+            "35-"
+        ],
+        "nameIncAll": false,
+        "nameExc": [
+            "-200",
+            "-210",
+            "-250",
+            "-300",
+            "-350",
+            "-400"
+        ],
+        "nameExcAll": false
+    },
+    "lenses-slr-mf-minolta-zoom-tele": {
+        "minors": [
+            "8006"
+        ],
+        "minorsAll": false,
+        "familyInc": [
+            "1MIN"
+        ],
+        "familyIncAll": false,
+        "familyExc": [
+        ],
+        "familyExcAll": false,
+        "nameLit": "",
+        "nameInc": [
+            "-200",
+            "-210",
+            "-250",
+            "-300",
+            "-350",
+            "-400",
+            "-500",
+            "-600"
+        ],
+        "nameIncAll": false,
+        "nameExc": [
+        ],
+        "nameExcAll": false
+    },
+    "lenses-slr-mf-minolta-prime": {
+        "minors": [
+            "8006"
+        ],
+        "minorsAll": false,
+        "familyInc": [
+            "1MIN"
+        ],
+        "familyIncAll": false,
+        "familyExc": [
+        ],
+        "familyExcAll": false,
+        "nameLit": "",
+        "nameInc": [
+        ],
+        "nameIncAll": false,
+        "nameExc": [
+            "00-",
+            " 8-",
+            "10-",
+            "11-",
+            "12-",
+            "15-",
+            "16-",
+            "17-",
+            "18-",
+            "20-",
+            "22-",
+            "24-",
+            "28-",
+            "35-",
+            "-200",
+            "-210",
+            "-250",
+            "-300",
+            "-350",
+            "-400",
+            "-500",
+            "-600",
+            "extender"
+        ],
+        "nameExcAll": false
+    },
+    "lenses-slr-mf-minolta-prime-wide": {
+        "minors": [
+            "8006"
+        ],
+        "minorsAll": false,
+        "familyInc": [
+            "1MIN"
+        ],
+        "familyIncAll": false,
+        "familyExc": [
+        ],
+        "familyExcAll": false,
+        "nameLit": "",
+        "nameInc": [
+            " 12mm",
+            " 13mm",
+            " 14mm",
+            " 15mm",
+            " 16mm",
+            " 17mm",
+            " 18mm",
+            " 20mm",
+            " 24mm",
+            " 28mm"
+        ],
+        "nameIncAll": false,
+        "nameExc": [
+            "00-",
+            " 8-",
+            "10-",
+            "11-",
+            "12-",
+            "15-",
+            "16-",
+            "17-",
+            "18-",
+            "20-",
+            "22-",
+            "24-",
+            "28-",
+            "35-",
+            "-200",
+            "-210",
+            "-250",
+            "-300",
+            "-350",
+            "-400",
+            "-500",
+            "-600",
+            "extender"
+        ],
+        "nameExcAll": false
+    },
+    "lenses-slr-mf-minolta-prime-med": {
+        "minors": [
+            "8006"
+        ],
+        "minorsAll": false,
+        "familyInc": [
+            "1MIN"
+        ],
+        "familyIncAll": false,
+        "familyExc": [
+        ],
+        "familyExcAll": false,
+        "nameLit": "",
+        "nameInc": [
+            " 30mm",
+            " 35mm",
+            " 40mm",
+            " 45mm",
+            " 50mm",
+            " 55mm",
+            " 60mm",
+            " 70mm",
+            " 80mm",
+            " 85mm"
+        ],
+        "nameIncAll": false,
+        "nameExc": [
+            "00-",
+            " 8-",
+            "10-",
+            "11-",
+            "12-",
+            "15-",
+            "16-",
+            "17-",
+            "18-",
+            "20-",
+            "22-",
+            "24-",
+            "28-",
+            "35-",
+            "-200",
+            "-210",
+            "-250",
+            "-300",
+            "-350",
+            "-400",
+            "-500",
+            "-600",
+            "extender"
+        ],
+        "nameExcAll": false
+    },
+    "lenses-slr-mf-minolta-prime-tele": {
+        "minors": [
+            "8006"
+        ],
+        "minorsAll": false,
+        "familyInc": [
+            "1MIN"
+        ],
+        "familyIncAll": false,
+        "familyExc": [
+        ],
+        "familyExcAll": false,
+        "nameLit": "",
+        "nameInc": [
+            " 90mm",
+            " 100mm",
+            " 135mm",
+            " 180mm",
+            " 200mm",
+            " 300mm",
+            " 400mm",
+            " 500mm",
+            " 600mm",
+            " 800mm"
+        ],
+        "nameIncAll": false,
+        "nameExc": [
+            "00-",
+            " 8-",
+            "10-",
+            "11-",
+            "12-",
+            "15-",
+            "16-",
+            "17-",
+            "18-",
+            "20-",
+            "22-",
+            "24-",
+            "28-",
+            "35-",
+            "-200",
+            "-210",
+            "-250",
+            "-300",
+            "-350",
+            "-400",
+            "-500",
+            "-600",
+            "extender"
+        ],
+        "nameExcAll": false
+    },
+    "lenses-slr-mf-minolta-extenders": {
+        "minors": [
+            "8006"
+        ],
+        "minorsAll": false,
+        "familyInc": [
+            "1MIN"
+        ],
+        "familyIncAll": false,
+        "familyExc": [
+        ],
+        "familyExcAll": false,
+        "nameLit": "",
+        "nameInc": [
+            "extender"
+        ],
+        "nameIncAll": false,
+        "nameExc": [
+        ],
+        "nameExcAll": false
+    },
+    "lenses-slr-mf-olympus": {
+        "minors": [
+            "8006"
+        ],
+        "minorsAll": false,
+        "familyInc": [
+            "1OLY"
+        ],
+        "familyIncAll": false,
+        "familyExc": [
+        ],
+        "familyExcAll": false,
+        "nameLit": "",
+        "nameInc": [
+        ],
+        "nameIncAll": false,
+        "nameExc": [
+        ],
+        "nameExcAll": false
+    },
+    "lenses-slr-mf-olympus-zoom": {
+        "minors": [
+            "8006"
+        ],
+        "minorsAll": false,
+        "familyInc": [
+            "1OLY"
+        ],
+        "familyIncAll": false,
+        "familyExc": [
+        ],
+        "familyExcAll": false,
+        "nameLit": "",
+        "nameInc": [
+            "00-",
+            " 8-",
+            "10-",
+            "11-",
+            "12-",
+            "15-",
+            "16-",
+            "17-",
+            "18-",
+            "20-",
+            "22-",
+            "24-",
+            "28-",
+            "35-",
+            "-200",
+            "-210",
+            "-250",
+            "-300",
+            "-350",
+            "-400",
+            "-500",
+            "-600"
+        ],
+        "nameIncAll": false,
+        "nameExc": [
+        ],
+        "nameExcAll": false
+    },
+    "lenses-slr-mf-olympus-zoom-wide": {
+        "minors": [
+            "8006"
+        ],
+        "minorsAll": false,
+        "familyInc": [
+            "1OLY"
+        ],
+        "familyIncAll": false,
+        "familyExc": [
+        ],
+        "familyExcAll": false,
+        "nameLit": "",
+        "nameInc": [
+            " 8-",
+            "10-",
+            "11-",
+            "12-",
+            "-24"
+        ],
+        "nameIncAll": false,
+        "nameExc": [
+        ],
+        "nameExcAll": false
+    },
+    "lenses-slr-mf-olympus-zoom-med": {
+        "minors": [
+            "8006"
+        ],
+        "minorsAll": false,
+        "familyInc": [
+            "1OLY"
+        ],
+        "familyIncAll": false,
+        "familyExc": [
+        ],
+        "familyExcAll": false,
+        "nameLit": "",
+        "nameInc": [
+            "-10",
+            "-13",
+            "15-",
+            "16-",
+            "17-",
+            "18-",
+            "20-",
+            "22-",
+            "24-",
+            "28-",
+            "35-"
+        ],
+        "nameIncAll": false,
+        "nameExc": [
+            "-200",
+            "-210",
+            "-250",
+            "-300",
+            "-350",
+            "-400"
+        ],
+        "nameExcAll": false
+    },
+    "lenses-slr-mf-olympus-zoom-tele": {
+        "minors": [
+            "8006"
+        ],
+        "minorsAll": false,
+        "familyInc": [
+            "1OLY"
+        ],
+        "familyIncAll": false,
+        "familyExc": [
+        ],
+        "familyExcAll": false,
+        "nameLit": "",
+        "nameInc": [
+            "-200",
+            "-210",
+            "-250",
+            "-300",
+            "-350",
+            "-400",
+            "-500",
+            "-600"
+        ],
+        "nameIncAll": false,
+        "nameExc": [
+        ],
+        "nameExcAll": false
+    },
+    "lenses-slr-mf-olympus-prime": {
+        "minors": [
+            "8006"
+        ],
+        "minorsAll": false,
+        "familyInc": [
+            "1OLY"
+        ],
+        "familyIncAll": false,
+        "familyExc": [
+        ],
+        "familyExcAll": false,
+        "nameLit": "",
+        "nameInc": [
+        ],
+        "nameIncAll": false,
+        "nameExc": [
+            "00-",
+            " 8-",
+            "10-",
+            "11-",
+            "12-",
+            "15-",
+            "16-",
+            "17-",
+            "18-",
+            "20-",
+            "22-",
+            "24-",
+            "28-",
+            "35-",
+            "-200",
+            "-210",
+            "-250",
+            "-300",
+            "-350",
+            "-400",
+            "-500",
+            "-600",
+            "extender"
+        ],
+        "nameExcAll": false
+    },
+    "lenses-slr-mf-olympus-prime-wide": {
+        "minors": [
+            "8006"
+        ],
+        "minorsAll": false,
+        "familyInc": [
+            "1OLY"
+        ],
+        "familyIncAll": false,
+        "familyExc": [
+        ],
+        "familyExcAll": false,
+        "nameLit": "",
+        "nameInc": [
+            " 12mm",
+            " 13mm",
+            " 14mm",
+            " 15mm",
+            " 16mm",
+            " 17mm",
+            " 18mm",
+            " 20mm",
+            " 24mm",
+            " 28mm"
+        ],
+        "nameIncAll": false,
+        "nameExc": [
+            "00-",
+            " 8-",
+            "10-",
+            "11-",
+            "12-",
+            "15-",
+            "16-",
+            "17-",
+            "18-",
+            "20-",
+            "22-",
+            "24-",
+            "28-",
+            "35-",
+            "-200",
+            "-210",
+            "-250",
+            "-300",
+            "-350",
+            "-400",
+            "-500",
+            "-600",
+            "extender"
+        ],
+        "nameExcAll": false
+    },
+    "lenses-slr-mf-olympus-prime-med": {
+        "minors": [
+            "8006"
+        ],
+        "minorsAll": false,
+        "familyInc": [
+            "1OLY"
+        ],
+        "familyIncAll": false,
+        "familyExc": [
+        ],
+        "familyExcAll": false,
+        "nameLit": "",
+        "nameInc": [
+            " 30mm",
+            " 35mm",
+            " 40mm",
+            " 45mm",
+            " 50mm",
+            " 55mm",
+            " 60mm",
+            " 70mm",
+            " 80mm",
+            " 85mm"
+        ],
+        "nameIncAll": false,
+        "nameExc": [
+            "00-",
+            " 8-",
+            "10-",
+            "11-",
+            "12-",
+            "15-",
+            "16-",
+            "17-",
+            "18-",
+            "20-",
+            "22-",
+            "24-",
+            "28-",
+            "35-",
+            "-200",
+            "-210",
+            "-250",
+            "-300",
+            "-350",
+            "-400",
+            "-500",
+            "-600",
+            "extender"
+        ],
+        "nameExcAll": false
+    },
+    "lenses-slr-mf-olympus-prime-tele": {
+        "minors": [
+            "8006"
+        ],
+        "minorsAll": false,
+        "familyInc": [
+            "1OLY"
+        ],
+        "familyIncAll": false,
+        "familyExc": [
+        ],
+        "familyExcAll": false,
+        "nameLit": "",
+        "nameInc": [
+            " 90mm",
+            " 100mm",
+            " 135mm",
+            " 180mm",
+            " 200mm",
+            " 300mm",
+            " 400mm",
+            " 500mm",
+            " 600mm",
+            " 800mm"
+        ],
+        "nameIncAll": false,
+        "nameExc": [
+            "00-",
+            " 8-",
+            "10-",
+            "11-",
+            "12-",
+            "15-",
+            "16-",
+            "17-",
+            "18-",
+            "20-",
+            "22-",
+            "24-",
+            "28-",
+            "35-",
+            "-200",
+            "-210",
+            "-250",
+            "-300",
+            "-350",
+            "-400",
+            "-500",
+            "-600",
+            "extender"
+        ],
+        "nameExcAll": false
+    },
+    "lenses-slr-mf-olympus-extenders": {
+        "minors": [
+            "8006"
+        ],
+        "minorsAll": false,
+        "familyInc": [
+            "1OLY"
+        ],
+        "familyIncAll": false,
+        "familyExc": [
+        ],
+        "familyExcAll": false,
+        "nameLit": "",
+        "nameInc": [
+            "extender"
+        ],
+        "nameIncAll": false,
+        "nameExc": [
+        ],
+        "nameExcAll": false
+    },
+    "lenses-slr-mf-other": {
+        "minors": [
+            "8006"
+        ],
+        "minorsAll": false,
+        "familyInc": [
+        ],
+        "familyIncAll": false,
+        "familyExc": [
+            "1CAN",
+            "1NIK",
+            "1SIG",
+            "1TMR",
+            "1THK",
+            "1MIN",
+            "1SNY",
+            "1OLY"
+        ],
+        "familyExcAll": false,
+        "nameLit": "",
+        "nameInc": [
+        ],
+        "nameIncAll": false,
+        "nameExc": [
+        ],
+        "nameExcAll": false
+    },
+    "lenses-mirrorless": {
+        "minors": [
+            "8007"
+        ],
+        "minorsAll": false,
+        "familyInc": [
+        ],
+        "familyIncAll": false,
+        "familyExc": [
+        ],
+        "familyExcAll": false,
+        "nameLit": "",
+        "nameInc": [
+        ],
+        "nameIncAll": false,
+        "nameExc": [
+        ],
+        "nameExcAll": false
+    },
+    "lenses-mirrorless-canon": {
+        "minors": [
+            "8007"
+        ],
+        "minorsAll": false,
+        "familyInc": [
+            "1CAN"
+        ],
+        "familyIncAll": false,
+        "familyExc": [
+        ],
+        "familyExcAll": false,
+        "nameLit": "",
+        "nameInc": [
+        ],
+        "nameIncAll": false,
+        "nameExc": [
+        ],
+        "nameExcAll": false
+    },
+    "lenses-mirrorless-nikon": {
+        "minors": [
+            "8007"
+        ],
+        "minorsAll": false,
+        "familyInc": [
+            "1NIK"
+        ],
+        "familyIncAll": false,
+        "familyExc": [
+        ],
+        "familyExcAll": false,
+        "nameLit": "",
+        "nameInc": [
+        ],
+        "nameIncAll": false,
+        "nameExc": [
+        ],
+        "nameExcAll": false
+    },
+    "lenses-mirrorless-sigma": {
+        "minors": [
+            "8007"
+        ],
+        "minorsAll": false,
+        "familyInc": [
+            "1SIG"
+        ],
+        "familyIncAll": false,
+        "familyExc": [
+        ],
+        "familyExcAll": false,
+        "nameLit": "",
+        "nameInc": [
+        ],
+        "nameIncAll": false,
+        "nameExc": [
+        ],
+        "nameExcAll": false
+    },
+    "lenses-mirrorless-sony": {
+        "minors": [
+            "8007"
+        ],
+        "minorsAll": false,
+        "familyInc": [
+            "1SNY"
+        ],
+        "familyIncAll": false,
+        "familyExc": [
+        ],
+        "familyExcAll": false,
+        "nameLit": "",
+        "nameInc": [
+        ],
+        "nameIncAll": false,
+        "nameExc": [
+        ],
+        "nameExcAll": false
+    },
+    "lenses-mirrorless-fuji": {
+        "minors": [
+            "8007"
+        ],
+        "minorsAll": false,
+        "familyInc": [
+            "1FUJ"
+        ],
+        "familyIncAll": false,
+        "familyExc": [
+        ],
+        "familyExcAll": false,
+        "nameLit": "",
+        "nameInc": [
+        ],
+        "nameIncAll": false,
+        "nameExc": [
+        ],
+        "nameExcAll": false
+    },
+    "lenses-mirrorless-olympus": {
+        "minors": [
+            "8007"
+        ],
+        "minorsAll": false,
+        "familyInc": [
+            "1OLY"
+        ],
+        "familyIncAll": false,
+        "familyExc": [
+        ],
+        "familyExcAll": false,
+        "nameLit": "",
+        "nameInc": [
+        ],
+        "nameIncAll": false,
+        "nameExc": [
+        ],
+        "nameExcAll": false
+    },
+    "lenses-mirrorless-panasonic": {
+        "minors": [
+            "8007"
+        ],
+        "minorsAll": false,
+        "familyInc": [
+            "1PAN"
+        ],
+        "familyIncAll": false,
+        "familyExc": [
+        ],
+        "familyExcAll": false,
+        "nameLit": "",
+        "nameInc": [
+        ],
+        "nameIncAll": false,
+        "nameExc": [
+        ],
+        "nameExcAll": false
+    },
+    "lenses-mirrorless-other": {
+        "minors": [
+            "8007"
+        ],
+        "minorsAll": false,
+        "familyInc": [
+        ],
+        "familyIncAll": false,
+        "familyExc": [
+            "1PAN",
+            "1FUJ",
+            "1OLY",
+            "1FUJ",
+            "1SNY",
+            "1SIG",
+            "1NIK",
+            "1CAN"
+        ],
+        "familyExcAll": false,
+        "nameLit": "",
+        "nameInc": [
+        ],
+        "nameIncAll": false,
+        "nameExc": [
+        ],
+        "nameExcAll": false
+    },
+    "lenses-other": {
+        "minors": [
+            "8020",
+            "8030",
+            "8060"
+        ],
+        "minorsAll": false,
+        "familyInc": [
+        ],
+        "familyIncAll": false,
+        "familyExc": [
+        ],
+        "familyExcAll": false,
+        "nameLit": "",
+        "nameInc": [
+        ],
+        "nameIncAll": false,
+        "nameExc": [
+        ],
+        "nameExcAll": false
+    },
+    "lenses-other-rangefinder": {
+        "minors": [
+            "8020"
+        ],
+        "minorsAll": false,
+        "familyInc": [
+        ],
+        "familyIncAll": false,
+        "familyExc": [
+        ],
+        "familyExcAll": false,
+        "nameLit": "",
+        "nameInc": [
+        ],
+        "nameIncAll": false,
+        "nameExc": [
+        ],
+        "nameExcAll": false
+    },
+    "lenses-other-rangefinder-21": {
+        "minors": [
+            "8020"
+        ],
+        "minorsAll": false,
+        "familyInc": [
+        ],
+        "familyIncAll": false,
+        "familyExc": [
+        ],
+        "familyExcAll": false,
+        "nameLit": "",
+        "nameInc": [
+            "21mm"
+        ],
+        "nameIncAll": false,
+        "nameExc": [
+        ],
+        "nameExcAll": false
+    },
+    "lenses-other-rangefinder-24": {
+        "minors": [
+            "8020"
+        ],
+        "minorsAll": false,
+        "familyInc": [
+        ],
+        "familyIncAll": false,
+        "familyExc": [
+        ],
+        "familyExcAll": false,
+        "nameLit": "",
+        "nameInc": [
+            "24mm"
+        ],
+        "nameIncAll": false,
+        "nameExc": [
+        ],
+        "nameExcAll": false
+    },
+    "lenses-other-rangefinder-28": {
+        "minors": [
+            "8020"
+        ],
+        "minorsAll": false,
+        "familyInc": [
+        ],
+        "familyIncAll": false,
+        "familyExc": [
+        ],
+        "familyExcAll": false,
+        "nameLit": "",
+        "nameInc": [
+            "28mm"
+        ],
+        "nameIncAll": false,
+        "nameExc": [
+        ],
+        "nameExcAll": false
+    },
+    "lenses-other-rangefinder-35": {
+        "minors": [
+            "8020"
+        ],
+        "minorsAll": false,
+        "familyInc": [
+        ],
+        "familyIncAll": false,
+        "familyExc": [
+        ],
+        "familyExcAll": false,
+        "nameLit": "",
+        "nameInc": [
+            "35mm"
+        ],
+        "nameIncAll": false,
+        "nameExc": [
+        ],
+        "nameExcAll": false
+    },
+    "lenses-other-rangefinder-45": {
+        "minors": [
+            "8020"
+        ],
+        "minorsAll": false,
+        "familyInc": [
+        ],
+        "familyIncAll": false,
+        "familyExc": [
+        ],
+        "familyExcAll": false,
+        "nameLit": "",
+        "nameInc": [
+            "45mm"
+        ],
+        "nameIncAll": false,
+        "nameExc": [
+        ],
+        "nameExcAll": false
+    },
+    "lenses-other-rangefinder-50": {
+        "minors": [
+            "8020"
+        ],
+        "minorsAll": false,
+        "familyInc": [
+        ],
+        "familyIncAll": false,
+        "familyExc": [
+        ],
+        "familyExcAll": false,
+        "nameLit": "",
+        "nameInc": [
+            "50mm"
+        ],
+        "nameIncAll": false,
+        "nameExc": [
+        ],
+        "nameExcAll": false
+    },
+    "lenses-other-rangefinder-75": {
+        "minors": [
+            "8020"
+        ],
+        "minorsAll": false,
+        "familyInc": [
+        ],
+        "familyIncAll": false,
+        "familyExc": [
+        ],
+        "familyExcAll": false,
+        "nameLit": "",
+        "nameInc": [
+            "75mm"
+        ],
+        "nameIncAll": false,
+        "nameExc": [
+        ],
+        "nameExcAll": false
+    },
+    "lenses-other-rangefinder-90": {
+        "minors": [
+            "8020"
+        ],
+        "minorsAll": false,
+        "familyInc": [
+        ],
+        "familyIncAll": false,
+        "familyExc": [
+        ],
+        "familyExcAll": false,
+        "nameLit": "",
+        "nameInc": [
+            "90mm"
+        ],
+        "nameIncAll": false,
+        "nameExc": [
+        ],
+        "nameExcAll": false
+    },
+    "lenses-other-rangefinder-other": {
+        "minors": [
+            "8020"
+        ],
+        "minorsAll": false,
+        "familyInc": [
+        ],
+        "familyIncAll": false,
+        "familyExc": [
+        ],
+        "familyExcAll": false,
+        "nameLit": "",
+        "nameInc": [
+        ],
+        "nameIncAll": false,
+        "nameExc": [
+            "21mm",
+            "24mm",
+            "28mm",
+            "35mm",
+            "45mm",
+            "50mm",
+            "75mm",
+            "90mm"
+        ],
+        "nameExcAll": false
+    },
+    "lenses-other-medium-format": {
+        "minors": [
+            "8030"
+        ],
+        "minorsAll": false,
+        "familyInc": [
+        ],
+        "familyIncAll": false,
+        "familyExc": [
+        ],
+        "familyExcAll": false,
+        "nameLit": "",
+        "nameInc": [
+        ],
+        "nameIncAll": false,
+        "nameExc": [
+        ],
+        "nameExcAll": false
+    },
+    "lenses-other-medium-hasselblad": {
+        "minors": [
+            "8030"
+        ],
+        "minorsAll": false,
+        "familyInc": [
+            "1HAS"
+        ],
+        "familyIncAll": false,
+        "familyExc": [
+        ],
+        "familyExcAll": false,
+        "nameLit": "",
+        "nameInc": [
+        ],
+        "nameIncAll": false,
+        "nameExc": [
+        ],
+        "nameExcAll": false
+    },
+    "lenses-other-medium-mamiya": {
+        "minors": [
+            "8030"
+        ],
+        "minorsAll": false,
+        "familyInc": [
+            "1MAM"
+        ],
+        "familyIncAll": false,
+        "familyExc": [
+        ],
+        "familyExcAll": false,
+        "nameLit": "",
+        "nameInc": [
+        ],
+        "nameIncAll": false,
+        "nameExc": [
+        ],
+        "nameExcAll": false
+    },
+    "lenses-other-medium-bronica": {
+        "minors": [
+            "8030"
+        ],
+        "minorsAll": false,
+        "familyInc": [
+        ],
+        "familyIncAll": false,
+        "familyExc": [
+        ],
+        "familyExcAll": false,
+        "nameLit": "",
+        "nameInc": [
+            "bronica"
+        ],
+        "nameIncAll": false,
+        "nameExc": [
+        ],
+        "nameExcAll": false
+    },
+    "lenses-other-medium-other": {
+        "minors": [
+            "8030"
+        ],
+        "minorsAll": false,
+        "familyInc": [
+        ],
+        "familyIncAll": false,
+        "familyExc": [
+            "1HAS",
+            "1MAM"
+        ],
+        "familyExcAll": false,
+        "nameLit": "",
+        "nameInc": [
+        ],
+        "nameIncAll": false,
+        "nameExc": [
+            "bronica"
+        ],
+        "nameExcAll": false
+    },
+    "lenses-other-large-format": {
+        "minors": [
+            "8060"
+        ],
+        "minorsAll": false,
+        "familyInc": [
+        ],
+        "familyIncAll": false,
+        "familyExc": [
+        ],
+        "familyExcAll": false,
+        "nameLit": "",
+        "nameInc": [
+        ],
+        "nameIncAll": false,
+        "nameExc": [
+        ],
+        "nameExcAll": false
+    },
+    "lighting": {
+        "minors": [
+            "8070",
+            "8075",
+            "8095"
+        ],
+        "minorsAll": false,
+        "familyInc": [
+        ],
+        "familyIncAll": false,
+        "familyExc": [
+        ],
+        "familyExcAll": false,
+        "nameLit": "",
+        "nameInc": [
+        ],
+        "nameIncAll": false,
+        "nameExc": [
+        ],
+        "nameExcAll": false
+    },
+    "lighting-flash": {
+        "minors": [
+            "8070"
+        ],
+        "minorsAll": false,
+        "familyInc": [
+        ],
+        "familyIncAll": false,
+        "familyExc": [
+        ],
+        "familyExcAll": false,
+        "nameLit": "",
+        "nameInc": [
+        ],
+        "nameIncAll": false,
+        "nameExc": [
+        ],
+        "nameExcAll": false
+    },
+    "lighting-flash-canon": {
+        "minors": [
+            "8070"
+        ],
+        "minorsAll": false,
+        "familyInc": [
+            "1CAN"
+        ],
+        "familyIncAll": false,
+        "familyExc": [
+        ],
+        "familyExcAll": false,
+        "nameLit": "",
+        "nameInc": [
+        ],
+        "nameIncAll": false,
+        "nameExc": [
+        ],
+        "nameExcAll": false
+    },
+    "lighting-flash-nikon": {
+        "minors": [
+            "8070"
+        ],
+        "minorsAll": false,
+        "familyInc": [
+            "1NIK"
+        ],
+        "familyIncAll": false,
+        "familyExc": [
+        ],
+        "familyExcAll": false,
+        "nameLit": "",
+        "nameInc": [
+        ],
+        "nameIncAll": false,
+        "nameExc": [
+        ],
+        "nameExcAll": false
+    },
+    "lighting-flash-nissin": {
+        "minors": [
+            "8070"
+        ],
+        "minorsAll": false,
+        "familyInc": [
+            "1EDI"
+        ],
+        "familyIncAll": false,
+        "familyExc": [
+        ],
+        "familyExcAll": false,
+        "nameLit": "",
+        "nameInc": [
+        ],
+        "nameIncAll": false,
+        "nameExc": [
+        ],
+        "nameExcAll": false
+    },
+    "lighting-flash-sony": {
+        "minors": [
+            "8070"
+        ],
+        "minorsAll": false,
+        "familyInc": [
+            "1SNY"
+        ],
+        "familyIncAll": false,
+        "familyExc": [
+        ],
+        "familyExcAll": false,
+        "nameLit": "",
+        "nameInc": [
+        ],
+        "nameIncAll": false,
+        "nameExc": [
+        ],
+        "nameExcAll": false
+    },
+    "lighting-flash-other": {
+        "minors": [
+            "8070"
+        ],
+        "minorsAll": false,
+        "familyInc": [
+        ],
+        "familyIncAll": false,
+        "familyExc": [
+            "1SNY",
+            "1CAN",
+            "1NIK",
+            "1EDI"
+        ],
+        "familyExcAll": false,
+        "nameLit": "",
+        "nameInc": [
+        ],
+        "nameIncAll": false,
+        "nameExc": [
+        ],
+        "nameExcAll": false
+    },
+    "lighting-pro": {
+        "minors": [
+            "8075"
+        ],
+        "minorsAll": true,
+        "familyInc": [
+        ],
+        "familyIncAll": false,
+        "familyExc": [
+        ],
+        "familyExcAll": false,
+        "nameLit": "",
+        "nameInc": [
+        ],
+        "nameIncAll": false,
+        "nameExc": [
+        ],
+        "nameExcAll": false
+    },
+    "lighting-meter": {
+        "minors": [
+            "8095"
+        ],
+        "minorsAll": true,
+        "familyInc": [
+        ],
+        "familyIncAll": false,
+        "familyExc": [
+        ],
+        "familyExcAll": false,
+        "nameLit": "",
+        "nameInc": [
+        ],
+        "nameIncAll": false,
+        "nameExc": [
+        ],
+        "nameExcAll": false
+    },
+    "accessories": {
+        "minors": [
+            "8040",
+            "8065",
+            "8085",
+            "8090",
+            "8045",
+            "8047",
+            "8050"
+        ],
+        "minorsAll": false,
+        "familyInc": [
+        ],
+        "familyIncAll": false,
+        "familyExc": [
+        ],
+        "familyExcAll": false,
+        "nameLit": "",
+        "nameInc": [
+        ],
+        "nameIncAll": false,
+        "nameExc": [
+        ],
+        "nameExcAll": false
+    },
+    "accessories-photo": {
+        "minors": [
+            "8040"
+        ],
+        "minorsAll": false,
+        "familyInc": [
+        ],
+        "familyIncAll": false,
+        "familyExc": [
+        ],
+        "familyExcAll": false,
+        "nameLit": "",
+        "nameInc": [
+        ],
+        "nameIncAll": false,
+        "nameExc": [
+        ],
+        "nameExcAll": false
+    },
+    "accessories-photo-canon": {
+        "minors": [
+            "8040"
+        ],
+        "minorsAll": false,
+        "familyInc": [
+            "1CAN"
+        ],
+        "familyIncAll": false,
+        "familyExc": [
+        ],
+        "familyExcAll": false,
+        "nameLit": "",
+        "nameInc": [
+        ],
+        "nameIncAll": false,
+        "nameExc": [
+        ],
+        "nameExcAll": false
+    },
+    "accessories-photo-nikon": {
+        "minors": [
+            "8040"
+        ],
+        "minorsAll": false,
+        "familyInc": [
+            "1NIK"
+        ],
+        "familyIncAll": false,
+        "familyExc": [
+        ],
+        "familyExcAll": false,
+        "nameLit": "",
+        "nameInc": [
+        ],
+        "nameIncAll": false,
+        "nameExc": [
+        ],
+        "nameExcAll": false
+    },
+    "accessories-photo-sony": {
+        "minors": [
+            "8040"
+        ],
+        "minorsAll": false,
+        "familyInc": [
+            "1SNY"
+        ],
+        "familyIncAll": false,
+        "familyExc": [
+        ],
+        "familyExcAll": false,
+        "nameLit": "",
+        "nameInc": [
+        ],
+        "nameIncAll": false,
+        "nameExc": [
+        ],
+        "nameExcAll": false
+    },
+    "accessories-photo-other": {
+        "minors": [
+            "8040"
+        ],
+        "minorsAll": false,
+        "familyInc": [
+        ],
+        "familyIncAll": false,
+        "familyExc": [
+            "1CAN",
+            "1NIK",
+            "1SNY"
+        ],
+        "familyExcAll": false,
+        "nameLit": "",
+        "nameInc": [
+        ],
+        "nameIncAll": false,
+        "nameExc": [
+        ],
+        "nameExcAll": false
+    },
+    "accessories-medium-format": {
+        "minors": [
+            "8045",
+            "8047",
+            "8050"
+        ],
+        "minorsAll": false,
+        "familyInc": [
+        ],
+        "familyIncAll": false,
+        "familyExc": [
+        ],
+        "familyExcAll": false,
+        "nameLit": "",
+        "nameInc": [
+        ],
+        "nameIncAll": false,
+        "nameExc": [
+        ],
+        "nameExcAll": false
+    },
+    "accessories-large-format": {
+        "minors": [
+            "8065"
+        ],
+        "minorsAll": false,
+        "familyInc": [
+        ],
+        "familyIncAll": false,
+        "familyExc": [
+        ],
+        "familyExcAll": false,
+        "nameLit": "",
+        "nameInc": [
+        ],
+        "nameIncAll": false,
+        "nameExc": [
+        ],
+        "nameExcAll": false
+    },
+    "accessories-tripods": {
+        "minors": [
+            "8085"
+        ],
+        "minorsAll": false,
+        "familyInc": [
+        ],
+        "familyIncAll": false,
+        "familyExc": [
+        ],
+        "familyExcAll": false,
+        "nameLit": "",
+        "nameInc": [
+        ],
+        "nameIncAll": false,
+        "nameExc": [
+        ],
+        "nameExcAll": false
+    },
+    "accessories-cases": {
+        "minors": [
+            "8090"
+        ],
+        "minorsAll": false,
+        "familyInc": [
+        ],
+        "familyIncAll": false,
+        "familyExc": [
+        ],
+        "familyExcAll": false,
+        "nameLit": "",
+        "nameInc": [
+        ],
+        "nameIncAll": false,
+        "nameExc": [
+        ],
+        "nameExcAll": false
+    },
+    "miscellaneous": {
+        "minors": [
+            "8200",
+            "8205",
+            "8220",
+            "8210",
+            "8215",
+            "8300",
+            "8100",
+            "8105",
+            "8115",
+            "8400"
+        ],
+        "minorsAll": false,
+        "familyInc": [
+        ],
+        "familyIncAll": false,
+        "familyExc": [
+        ],
+        "familyExcAll": false,
+        "nameLit": "",
+        "nameInc": [
+        ],
+        "nameIncAll": false,
+        "nameExc": [
+        ],
+        "nameExcAll": false
+    },
+    "miscellaneous-optics": {
+        "minors": [
+            "8200",
+            "8205",
+            "8220",
+            "8210",
+            "8215"
+        ],
+        "minorsAll": false,
+        "familyInc": [
+        ],
+        "familyIncAll": false,
+        "familyExc": [
+        ],
+        "familyExcAll": false,
+        "nameLit": "",
+        "nameInc": [
+        ],
+        "nameIncAll": false,
+        "nameExc": [
+        ],
+        "nameExcAll": false
+    },
+    "miscellaneous-darkroom": {
+        "minors": [
+            "8300"
+        ],
+        "minorsAll": false,
+        "familyInc": [
+        ],
+        "familyIncAll": false,
+        "familyExc": [
+        ],
+        "familyExcAll": false,
+        "nameLit": "",
+        "nameInc": [
+        ],
+        "nameIncAll": false,
+        "nameExc": [
+        ],
+        "nameExcAll": false
+    },
+    "miscellaneous-av": {
+        "minors": [
+            "8100",
+            "8105",
+            "8115"
+        ],
+        "minorsAll": false,
+        "familyInc": [
+        ],
+        "familyIncAll": false,
+        "familyExc": [
+        ],
+        "familyExcAll": false,
+        "nameLit": "",
+        "nameInc": [
+        ],
+        "nameIncAll": false,
+        "nameExc": [
+        ],
+        "nameExcAll": false
+    },
+    "miscellaneous-other": {
+        "minors": [
+            "8400"
+        ],
+        "minorsAll": false,
+        "familyInc": [
+        ],
+        "familyIncAll": false,
+        "familyExc": [
+        ],
+        "familyExcAll": false,
+        "nameLit": "",
+        "nameInc": [
+        ],
+        "nameIncAll": false,
+        "nameExc": [
+        ],
+        "nameExcAll": false
+    },
+    "lost": {
+        "minors": [
+            "none"
+        ],
+        "minorsAll": false,
+        "familyInc": [
+        ],
+        "familyIncAll": false,
+        "familyExc": [
+        ],
+        "familyExcAll": false,
+        "nameLit": "",
+        "nameInc": [
+        ],
+        "nameIncAll": false,
+        "nameExc": [
+        ],
+        "nameExcAll": false
+    }
+}

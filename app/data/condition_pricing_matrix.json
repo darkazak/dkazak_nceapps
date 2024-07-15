@@ -1,0 +1,89 @@
+{
+    "8082": {
+        "factor": 0,
+        "trade": 0,
+        "purchase": 0,
+        "cosmetic": {
+            "mint": 0,
+        "near-mint": 0,
+        "excellent": 0,
+        "very-good": 0,
+        "average": 0,
+        "fair": 0,
+        "poor": 0
+    },
+        "optical": {
+            "mint": 0,
+            "near-mint": 0,
+            "excellent": 0,
+            "very-good": 0,
+            "average": 0,
+            "fair": 0,
+            "poor": 0
+        },
+        "mechanical": {
+            "operational": 0,
+            "minor-defect": 0,
+            "major-defect": 0,
+            "parts-only": 0
+        }
+    },
+    "8080": {
+        "factor": 0.05,
+        "trade": 20,
+        "purchase": 30,
+        "cosmetic": {
+            "mint": 1.01,
+            "near-mint": 0.98,
+            "excellent": 1,
+            "very-good": 0.9,
+            "average": 0.85,
+            "fair": 0.74,
+            "poor": 0.54
+        },
+        "optical": {
+            "mint": 0,
+            "near-mint": 0,
+            "excellent": 0,
+            "very-good": 0,
+            "average": 0,
+            "fair": 0,
+            "poor": 0
+        },
+        "mechanical": {
+            "operational": 1,
+            "minor-defect": 0.65,
+            "major-defect": 0.2,
+            "parts-only": 0.05
+        }
+    },
+    "8005": {
+        "factor": 0.05,
+        "trade": 20,
+        "purchase": 30,
+        "cosmetic": {
+            "mint": 1.01,
+            "near-mint": 0.98,
+            "excellent": 1,
+            "very-good": 0.9,
+            "average": 0.85,
+            "fair": 0.74,
+            "poor": 0.54
+        },
+        "optical": {
+            "mint": 0,
+            "near-mint": 0,
+            "excellent": 0,
+            "very-good": 0,
+            "average": 0,
+            "fair": 0,
+            "poor": 0
+        },
+        "mechanical": {
+            "operational": 1,
+            "minor-defect": 0.65,
+            "major-defect": 0.2,
+            "parts-only": 0.05
+        }
+    }
+}

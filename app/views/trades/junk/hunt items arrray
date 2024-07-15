@@ -1,0 +1,161 @@
+<!-- Hunt Level 1 -->
+                        <div id="hunt_L1" class="hunt-page row mt-3">
+                            <div class="container">
+                                <div class="row">
+                                    <div class="col">
+                                        <a class="btn btn-success mt-3 me-2" onclick="showHuntResult('cameras')">Cameras</a>
+                                        <a class="btn btn-success mt-3 me-2" onclick="showHuntResult('allLenses')">Lenses</a>
+                                        <br>
+                                        <a class="btn btn-success mt-3 me-2" onclick="showHuntResult('accessories')">Accessories</a>
+                                        <a class="btn btn-success mt-3 me-2" onclick="showHuntResult('lighting')">Lighting</a>
+                                        <a class="btn btn-success mt-3 me-2" onclick="showHuntResult('other')">Other</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- Hunt Level 1 -->
+                        <!-- Camera Types hunt_camera_types -->
+                        <div id="hunt_camera_types" class="hunt-page row mt-3 visually-hidden">
+                            <div class="container">
+                                <div class="row">
+                                    <div class="col">
+                                        <a class="btn btn-success mt-3 me-2" onclick="showHuntResult('film-slr')">Film SLR</a>
+                                        <a class="btn btn-success mt-3 me-2" onclick="showHuntResult('digital-slr')">Digital SLR</a>
+                                        <a class="btn btn-success mt-3 me-2" onclick="showHuntResult('rangefinder')">Rangefinder</a>
+                                        <a class="btn btn-success mt-3 me-2" onclick="showHuntResult('point-shoot')">Point and Shoot</a>
+                                        <a class="btn btn-success mt-3 me-2" onclick="showHuntResult('medium-format')">Medium Format</a>
+                                        <a class="btn btn-success mt-3 me-2" onclick="showHuntResult('large-format')">Large Format</a>
+                                        <a class="btn btn-success mt-3 me-2" onclick="showHuntResult('mirrorless')">Mirrorless &lpar;NEX, M4/3, DL&rpar;</a>
+                                        <a class="btn btn-success mt-3 me-2" onclick="showHuntResult('camcorder')">Camcorder</a>
+
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- Camera Types hunt_camera_types -->
+                        <!-- Camera Types hunt_camera_point_shoot -->
+                        <div id="hunt_camera_point_shoot" class="hunt-page row mt-3 visually-hidden">
+                            <div class="container">
+                                <div class="row">
+                                    <div class="col">
+                                        <a class="btn btn-success mt-3 me-2" onclick="showHuntResult('point-shoot-film')">Film Point and Shoot</a>
+                                        <a class="btn btn-success mt-3 me-2" onclick="showHuntResult('point-shoot-digital')">Digital Point and Shoot</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- Camera Types hunt_camera_point_shoot -->
+                        <!-- Camera Types hunt_camera_point_shoot-film-family -->
+                        <div id="hunt_camera_point_shoot_film_family" class="hunt-page row mt-3 visually-hidden">
+                            <div class="container"> 
+                                <div class="row">
+                                    <div class="col">
+                                        <a class="btn btn-success mt-3 me-2" onclick="showHuntResult('film-point-shoot-canon')">Canon</a>
+                                        <a class="btn btn-success mt-3 me-2" onclick="showHuntResult('film-point-shoot-nikon')">Nikon</a>
+                                        <a class="btn btn-success mt-3 me-2" onclick="showHuntResult('film-point-shoot-olympus')">Olympus</a>
+                                        <a class="btn btn-success mt-3 me-2" onclick="showHuntResult('film-point-shoot-minolta')">Minolta</a>
+                                        <a class="btn btn-success mt-3 me-2" onclick="showHuntResult('film-point-shoot-Pentax')">Pentax</a>
+                                        <a class="btn btn-success mt-3 me-2" onclick="showHuntResult('film-point-shoot-other')">Other</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- Camera Types hunt_camera_point_shoot-film-family -->
+                        <!-- Camera Types hunt_camera_point_shoot-digital-family -->
+
+                        Canon
+                        fuji
+                        Lecia
+                        Nikon
+                        Olympus
+
+                        Panasonic
+                        Sony
+                        Other
+                        <div id="hunt_camera_point_shoot_film_family" class="hunt-page row mt-3 visually-hidden">
+                            <div class="container">
+                                <div class="row">
+                                    <div class="col">
+                                        <a class="btn btn-success mt-3 me-2" onclick="showHuntResult('film-point-shoot-canon')">Canon</a>
+                                        <a class="btn btn-success mt-3 me-2" onclick="showHuntResult('film-point-shoot-nikon')">Nikon</a>
+                                        <a class="btn btn-success mt-3 me-2" onclick="showHuntResult('film-point-shoot-sony')">Sony</a>
+                                        <a class="btn btn-success mt-3 me-2" onclick="showHuntResult('film-point-shoot-olympus')">Olympus</a>
+                                        <a class="btn btn-success mt-3 me-2" onclick="showHuntResult('film-point-shoot-fuji')">Fuji</a>
+                                        <a class="btn btn-success mt-3 me-2" onclick="showHuntResult('film-point-shoot-lecia')">Lecia</a>
+                                        <a class="btn btn-success mt-3 me-2" onclick="showHuntResult('film-point-shoot-panasonic')">Panasonic</a>
+                                        <a class="btn btn-success mt-3 me-2" onclick="showHuntResult('film-point-shoot-other')">Other</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- Camera Types hunt_camera_point_shoot-digital-family -->
+
+
+                        <!-- hunt_film_slr_family -->
+                        <div id="hunt_film_slr_family" class="hunt-page row mt-3 visually-hidden">
+                            <div class="container">
+                                <div class="row">
+                                    <div class="col">
+                                        <a class="btn btn-success mt-3 me-2" onclick="showHuntResult('film-slr-canon')">Canon</a>
+                                        <a class="btn btn-success mt-3 me-2" onclick="showHuntResult('film-slr-nikon')">Nikon</a>
+                                        <a class="btn btn-success mt-3 me-2" onclick="showHuntResult('film-slr-olympus')">Olympus</a>
+                                        <a class="btn btn-success mt-3 me-2" onclick="showHuntResult('film-slr-minolta')">Minolta</a>
+                                        <a class="btn btn-success mt-3 me-2" onclick="showHuntResult('film-slr-lecia')">Lecia</a>
+                                        <a class="btn btn-success mt-3 me-2" onclick="showHuntResult('film-slr-pentax')">Pentax</a>
+                                        <a class="btn btn-success mt-3 me-2" onclick="showHuntResult('film-slr-other')">Other</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- hunt_film_slr_family -->
+                        <!-- hunt_film_slr_canon -->
+                        <div id="hunt_film_slr_canon" class="hunt-page row mt-3 visually-hidden">
+                            <div class="container">
+                                <div class="row">
+                                    <div class="col">
+                                        <a class="btn btn-success mt-3 me-2" onclick="showHuntResult('film-slr-eos-canon')">EOS</a>
+                                        <a class="btn btn-success mt-3 me-2" onclick="showHuntResult('film-slr-other-canon')">Other</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- hunt_film_slr_canon -->
+
+
+
+                        <!-- Lenses -->
+                        <div id="hunt_lens_types_2" class="hunt-page row mt-3 visually-hidden">
+                            <div class="container">
+                                <div class="row">
+                                    <div class="col">
+                                        <a class="btn btn-success mt-3 me-2" onclick="showHuntResult('xxxx')">SLR Auto Focus</a>
+                                        <a class="btn btn-success mt-3 me-2" onclick="showHuntResult('xxxx')">SLR Manual Focus</a>
+                                        <a class="btn btn-success mt-3 me-2" onclick="showHuntResult('xxxx')">Mirrorless</a>
+                                        <a class="btn btn-success mt-3 me-2" onclick="showHuntResult('xxxx')">Rangefinder</a>
+                                        <a class="btn btn-success mt-3 me-2" onclick="showHuntResult('xxxx')">Medium Format</a>
+                                        <a class="btn btn-success mt-3 me-2" onclick="showHuntResult('xxxx')">Large Format</a>
+                                        <a class="btn btn-success mt-3 me-2" onclick="showHuntResult('xxxx')">Other</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- Lenses -->
+
+                        <!-- xxxx -->
+                        <div id="xxxx" class="hunt-page row mt-3 visually-hidden">
+                            <div class="container">
+                                <div class="row">
+                                    <div class="col">
+                                        <a class="btn btn-success mt-3 me-2" onclick="showHuntResult('xxxx')">xxxxx</a>
+                                        <a class="btn btn-success mt-3 me-2" onclick="showHuntResult('xxxx')">xxxxx</a>
+                                        <a class="btn btn-success mt-3 me-2" onclick="showHuntResult('xxxx')">xxxxx</a>
+                                        <a class="btn btn-success mt-3 me-2" onclick="showHuntResult('xxxx')">xxxxx</a>
+                                        <a class="btn btn-success mt-3 me-2" onclick="showHuntResult('xxxx')">xxxxx</a>
+                                        <a class="btn btn-success mt-3 me-2" onclick="showHuntResult('xxxx')">xxxxx</a>
+                                        <a class="btn btn-success mt-3 me-2" onclick="showHuntResult('xxxx')">xxxxx</a>
+                                        <a class="btn btn-success mt-3 me-2" onclick="showHuntResult('xxxx')">xxxxx</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- xxxx -->

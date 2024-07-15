@@ -1,0 +1,1566 @@
+{
+    "base": {
+        "minors": [
+        ],
+        "minorsAny": false,
+        "familyInc": [
+        ],
+        "familyIncAny": false,
+        "familyExc": [
+        ],
+        "familyExcAny": false,
+        "nameLit": "nothing",
+        "nameInc": [
+        ],
+        "nameIncAny": false,
+        "nameExc": [
+        ],
+        "nameExcAny": false
+    },
+    "cameras": {
+        "minors": [
+            "8000",
+            "8010",
+            "8015",
+            "8025",
+            "8035",
+            "8035",
+            "8080",
+            "8082",
+            "8110"
+        ],
+        "minorsAny": false,
+        "familyInc": [
+        ],
+        "familyIncAny": false,
+        "familyExc": [
+        ],
+        "familyExcAny": false,
+        "nameLit": "",
+        "nameInc": [
+        ],
+        "nameIncAny": false,
+        "nameExc": [
+        ],
+        "nameExcAny": false
+    },
+    "slr-film": {
+        "minors": [
+            "8000"
+        ],
+        "minorsAny": true,
+        "familyInc": [
+        ],
+        "familyIncAny": true,
+        "familyExc": [
+        ],
+        "familyExcAny": true,
+        "nameLit": "",
+        "nameInc": [
+        ],
+        "nameIncAny": true,
+        "nameExc": [
+        ],
+        "nameExcAny": true
+    },
+    "slr-film-canon": {
+        "minors": [
+            "8000"
+        ],
+        "minorsAny": true,
+        "familyInc": [
+            "1CAN"
+        ],
+        "familyIncAny": true,
+        "familyExc": [
+        ],
+        "familyExcAny": true,
+        "nameLit": "",
+        "nameInc": [
+        ],
+        "nameIncAny": true,
+        "nameExc": [
+        ],
+        "nameExcAny": true
+    },
+    "slr-film-canon-eos": {
+        "minors": [
+            "8000"
+        ],
+        "minorsAny": true,
+        "familyInc": [
+            "1CAN"
+        ],
+        "familyIncAny": true,
+        "familyExc": [
+        ],
+        "familyExcAny": true,
+        "nameLit": "",
+        "nameInc": [
+            "EOS"
+        ],
+        "nameIncAny": true,
+        "nameExc": [
+        ],
+        "nameExcAny": true
+    },
+    "slr-film-canon-eos-rebel": {
+        "minors": [
+            "8000"
+        ],
+        "minorsAny": true,
+        "familyInc": [
+            "1CAN"
+        ],
+        "familyIncAny": true,
+        "familyExc": [
+        ],
+        "familyExcAny": true,
+        "nameLit": "",
+        "nameInc": [
+            "EOS",
+            "REBEL"
+        ],
+        "nameIncAny": true,
+        "nameExc": [
+        ],
+        "nameExcAny": true
+    },
+    "slr-film-canon-eos-other": {
+        "minors": [
+            "8000"
+        ],
+        "minorsAny": true,
+        "familyInc": [
+            "1CAN"
+        ],
+        "familyIncAny": true,
+        "familyExc": [
+        ],
+        "familyExcAny": true,
+        "nameLit": "",
+        "nameInc": [
+            "EOS"
+        ],
+        "nameIncAny": true,
+        "nameExc": [
+            "REBEL"
+        ],
+        "nameExcAny": true
+    },
+    "slr-film-canon-non-eos": {
+        "minors": [
+            "8000"
+        ],
+        "minorsAny": true,
+        "familyInc": [
+            "1CAN"
+        ],
+        "familyIncAny": true,
+        "familyExc": [
+        ],
+        "familyExcAny": true,
+        "nameLit": "",
+        "nameInc": [
+        ],
+        "nameIncAny": true,
+        "nameExc": [
+            "EOS"
+        ],
+        "nameExcAny": true
+    },
+    "slr-film-nikon": {
+        "minors": [
+            "8000"
+        ],
+        "minorsAny": true,
+        "familyInc": [
+            "1NIK"
+        ],
+        "familyIncAny": true,
+        "familyExc": [
+        ],
+        "familyExcAny": true,
+        "nameLit": "",
+        "nameInc": [
+        ],
+        "nameIncAny": true,
+        "nameExc": [
+        ],
+        "nameExcAny": true
+    },
+    "slr-film-nikon-f": {
+        "minors": [
+            "8000"
+        ],
+        "minorsAny": true,
+        "familyInc": [
+            "1NIK"
+        ],
+        "familyIncAny": true,
+        "familyExc": [
+        ],
+        "familyExcAny": true,
+        "nameLit": "",
+        "nameInc": [
+            "f "
+        ],
+        "nameIncAny": true,
+        "nameExc": [
+        ],
+        "nameExcAny": true
+    },
+    "slr-film-nikon-fm": {
+        "minors": [
+            "8000"
+        ],
+        "minorsAny": true,
+        "familyInc": [
+            "1NIK"
+        ],
+        "familyIncAny": true,
+        "familyExc": [
+        ],
+        "familyExcAny": true,
+        "nameLit": "",
+        "nameInc": [
+            "fm"
+        ],
+        "nameIncAny": true,
+        "nameExc": [
+        ],
+        "nameExcAny": true
+    },
+    "slr-film-nikon-fnum": {
+        "minors": [
+            "8000"
+        ],
+        "minorsAny": true,
+        "familyInc": [
+            "1NIK"
+        ],
+        "familyIncAny": true,
+        "familyExc": [
+        ],
+        "familyExcAny": true,
+        "nameLit": "",
+        "nameInc": [
+            "f-",
+            "f1",
+            "f2",
+            "f3",
+            "f4",
+            "f5",
+            "f6",
+            "f7",
+            "f8",
+            "f9"
+        ],
+        "nameIncAny": false,
+        "nameExc": [
+        ],
+        "nameExcAny": true
+    },
+    "slr-film-nikon-nikkormat": {
+        "minors": [
+            "8000"
+        ],
+        "minorsAny": true,
+        "familyInc": [
+            "1NIK"
+        ],
+        "familyIncAny": true,
+        "familyExc": [
+        ],
+        "familyExcAny": true,
+        "nameLit": "",
+        "nameInc": [
+            "nikkormat"
+        ],
+        "nameIncAny": false,
+        "nameExc": [
+        ],
+        "nameExcAny": true
+    },
+    "slr-film-nikon-n": {
+        "minors": [
+            "8000"
+        ],
+        "minorsAny": true,
+        "familyInc": [
+            "1NIK"
+        ],
+        "familyIncAny": true,
+        "familyExc": [
+        ],
+        "familyExcAny": true,
+        "nameLit": "",
+        "nameInc": [
+            " n"
+        ],
+        "nameIncAny": true,
+        "nameExc": [
+        ],
+        "nameExcAny": true
+    },
+    "slr-film-nikon-other": {
+        "minors": [
+            "8000"
+        ],
+        "minorsAny": true,
+        "familyInc": [
+            "1NIK"
+        ],
+        "familyIncAny": true,
+        "familyExc": [
+        ],
+        "familyExcAny": true,
+        "nameLit": "",
+        "nameInc": [
+        ],
+        "nameIncAny": true,
+        "nameExc": [
+            " n",
+            "nikkormat",
+            "fm",
+            "f ",
+            "f-",
+            "f1",
+            "f2",
+            "f3",
+            "f4",
+            "f5",
+            "f6",
+            "f7",
+            "f8",
+            "f9"
+        ],
+        "nameExcAny": false
+    },
+    "slr-film-olympus": {
+        "minors": [
+            "8000"
+        ],
+        "minorsAny": true,
+        "familyInc": [
+            "1OLY"
+        ],
+        "familyIncAny": true,
+        "familyExc": [
+        ],
+        "familyExcAny": true,
+        "nameLit": "",
+        "nameInc": [
+        ],
+        "nameIncAny": true,
+        "nameExc": [
+        ],
+        "nameExcAny": true
+    },
+    "slr-film-minolta": {
+        "minors": [
+            "8000"
+        ],
+        "minorsAny": true,
+        "familyInc": [
+            "1MIN"
+        ],
+        "familyIncAny": true,
+        "familyExc": [
+        ],
+        "familyExcAny": true,
+        "nameLit": "",
+        "nameInc": [
+        ],
+        "nameIncAny": true,
+        "nameExc": [
+        ],
+        "nameExcAny": true
+    },
+    "slr-film-lecia": {
+        "minors": [
+            "8000"
+        ],
+        "minorsAny": true,
+        "familyInc": [
+            "1LEI"
+        ],
+        "familyIncAny": true,
+        "familyExc": [
+        ],
+        "familyExcAny": true,
+        "nameLit": "",
+        "nameInc": [
+        ],
+        "nameIncAny": true,
+        "nameExc": [
+        ],
+        "nameExcAny": true
+    },
+    "slr-film-pentax": {
+        "minors": [
+            "8000"
+        ],
+        "minorsAny": true,
+        "familyInc": [
+            "1PEN"
+        ],
+        "familyIncAny": true,
+        "familyExc": [
+        ],
+        "familyExcAny": true,
+        "nameLit": "",
+        "nameInc": [
+        ],
+        "nameIncAny": true,
+        "nameExc": [
+        ],
+        "nameExcAny": true
+    },
+    "slr-film-other": {
+        "minors": [
+            "8000"
+        ],
+        "minorsAny": true,
+        "familyInc": [
+        ],
+        "familyIncAny": true,
+        "familyExc": [
+            "1CAN",
+            "1NIK",
+            "1OLY",
+            "1MIN",
+            "1LEI",
+            "1PEN"
+        ],
+        "familyExcAny": false,
+        "nameLit": "",
+        "nameInc": [
+        ],
+        "nameIncAny": true,
+        "nameExc": [
+        ],
+        "nameExcAny": true
+    },
+    "slr-digital": {
+        "minors": [
+            "8080"
+        ],
+        "minorsAny": true,
+        "familyInc": [
+        ],
+        "familyIncAny": true,
+        "familyExc": [
+        ],
+        "familyExcAny": true,
+        "nameLit": "",
+        "nameInc": [
+        ],
+        "nameIncAny": true,
+        "nameExc": [
+        ],
+        "nameExcAny": true
+    },
+    "slr-digital-canon": {
+        "minors": [
+            "8080"
+        ],
+        "minorsAny": true,
+        "familyInc": [
+            "1CAN"
+        ],
+        "familyIncAny": true,
+        "familyExc": [
+        ],
+        "familyExcAny": true,
+        "nameLit": "",
+        "nameInc": [
+        ],
+        "nameIncAny": true,
+        "nameExc": [
+        ],
+        "nameExcAny": true
+    },
+    "slr-digital-canon-standard": {
+        "minors": [
+            "8080"
+        ],
+        "minorsAny": true,
+        "familyInc": [
+            "1CAN"
+        ],
+        "familyIncAny": true,
+        "familyExc": [
+        ],
+        "familyExcAny": true,
+        "nameLit": "",
+        "nameInc": [
+        ],
+        "nameIncAny": true,
+        "nameExc": [
+            "rebel"
+        ],
+        "nameExcAny": true
+    },
+    "slr-digital-canon-rebel": {
+        "minors": [
+            "8080"
+        ],
+        "minorsAny": true,
+        "familyInc": [
+            "1CAN"
+        ],
+        "familyIncAny": true,
+        "familyExc": [
+        ],
+        "familyExcAny": true,
+        "nameLit": "",
+        "nameInc": [
+            "rebel"
+        ],
+        "nameIncAny": true,
+        "nameExc": [
+        ],
+        "nameExcAny": true
+    },
+    "slr-digital-nikon": {
+        "minors": [
+            "8080"
+        ],
+        "minorsAny": true,
+        "familyInc": [
+            "1NIK"
+        ],
+        "familyIncAny": true,
+        "familyExc": [
+        ],
+        "familyExcAny": true,
+        "nameLit": "",
+        "nameInc": [
+        ],
+        "nameIncAny": true,
+        "nameExc": [
+        ],
+        "nameExcAny": true
+    },
+    "slr-digital-nikon-dx-d2": {
+        "minors": [
+            "8080"
+        ],
+        "minorsAny": true,
+        "familyInc": [
+            "1NIK"
+        ],
+        "familyIncAny": true,
+        "familyExc": [
+        ],
+        "familyExcAny": true,
+        "nameLit": "",
+        "nameInc": [
+            " DF",
+    " D1",
+            " D2"
+        ],
+        "nameIncAny": false,
+        "nameExc": [
+        ],
+        "nameExcAny": true
+    },
+    "slr-digital-nikon-d3": {
+        "minors": [
+            "8080"
+        ],
+        "minorsAny": true,
+        "familyInc": [
+            "1NIK"
+        ],
+        "familyIncAny": true,
+        "familyExc": [
+        ],
+        "familyExcAny": true,
+        "nameLit": "",
+        "nameInc": [
+            "D3"
+        ],
+        "nameIncAny": false,
+        "nameExc": [
+        ],
+        "nameExcAny": true
+    },
+    "slr-digital-nikon-d4": {
+        "minors": [
+            "8080"
+        ],
+        "minorsAny": true,
+        "familyInc": [
+            "1NIK"
+        ],
+        "familyIncAny": true,
+        "familyExc": [
+        ],
+        "familyExcAny": true,
+        "nameLit": "",
+        "nameInc": [
+            "D4"
+        ],
+        "nameIncAny": true,
+        "nameExc": [
+        ],
+        "nameExcAny": true
+    },
+    "slr-digital-nikon-d5": {
+        "minors": [
+            "8080"
+        ],
+        "minorsAny": true,
+        "familyInc": [
+            "1NIK"
+        ],
+        "familyIncAny": true,
+        "familyExc": [
+        ],
+        "familyExcAny": true,
+        "nameLit": "",
+        "nameInc": [
+            "D5"
+        ],
+        "nameIncAny": true,
+        "nameExc": [
+        ],
+        "nameExcAny": true
+    },
+    "slr-digital-nikon-d6-d7": {
+        "minors": [
+            "8080"
+        ],
+        "minorsAny": true,
+        "familyInc": [
+            "1NIK"
+        ],
+        "familyIncAny": true,
+        "familyExc": [
+        ],
+        "familyExcAny": true,
+        "nameLit": "",
+        "nameInc": [
+            "D6",
+            "D7"
+        ],
+        "nameIncAny": false,
+        "nameExc": [
+        ],
+        "nameExcAny": true
+    },
+    "slr-digital-nikon-d8-d9": {
+        "minors": [
+            "8080"
+        ],
+        "minorsAny": true,
+        "familyInc": [
+            "1NIK"
+        ],
+        "familyIncAny": true,
+        "familyExc": [
+        ],
+        "familyExcAny": true,
+        "nameLit": "",
+        "nameInc": [
+            "D8",
+            "D9"
+        ],
+        "nameIncAny": false,
+        "nameExc": [
+        ],
+        "nameExcAny": true
+    },
+    "slr-digital-sony": {
+        "minors": [
+            "8080"
+        ],
+        "minorsAny": true,
+        "familyInc": [
+            "1SNY"
+        ],
+        "familyIncAny": true,
+        "familyExc": [
+        ],
+        "familyExcAny": true,
+        "nameLit": "",
+        "nameInc": [
+        ],
+        "nameIncAny": true,
+        "nameExc": [
+        ],
+        "nameExcAny": true
+    },
+    "slr-digital-other": {
+        "minors": [
+            "8080"
+        ],
+        "minorsAny": true,
+        "familyInc": [
+        ],
+        "familyIncAny": true,
+        "familyExc": [
+            "1CAN",
+            "1SNY",
+            "1NIK"
+        ],
+        "familyExcAny": false,
+        "nameLit": "",
+        "nameInc": [
+        ],
+        "nameIncAny": true,
+        "nameExc": [
+        ],
+        "nameExcAny": true
+    },
+    "rangefinder": {
+        "minors": [
+            "8015"
+        ],
+        "minorsAny": false,
+        "familyInc": [
+        ],
+        "familyIncAny": false,
+        "familyExc": [
+        ],
+        "familyExcAny": false,
+        "nameLit": "",
+        "nameInc": [
+        ],
+        "nameIncAny": false,
+        "nameExc": [
+        ],
+        "nameExcAny": false
+    },
+    "rangefinder-lecia": {
+        "minors": [
+            "8015"
+        ],
+        "minorsAny": true,
+        "familyInc": [
+            "1LEI"
+        ],
+        "familyIncAny": true,
+        "familyExc": [
+        ],
+        "familyExcAny": true,
+        "nameLit": "",
+        "nameInc": [
+        ],
+        "nameIncAny": true,
+        "nameExc": [
+        ],
+        "nameExcAny": true
+    },
+    "rangefinder-other": {
+        "minors": [
+            "8015"
+        ],
+        "minorsAny": true,
+        "familyInc": [
+        ],
+        "familyIncAny": true,
+        "familyExc": [
+            "1LEI"
+        ],
+        "familyExcAny": false,
+        "nameLit": "",
+        "nameInc": [
+        ],
+        "nameIncAny": true,
+        "nameExc": [
+        ],
+        "nameExcAny": true
+    },
+    "point-shoot": {
+        "minors": [
+            "8010",
+            "8035"
+        ],
+        "minorsAny": false,
+        "familyInc": [
+        ],
+        "familyIncAny": true,
+        "familyExc": [
+        ],
+        "familyExcAny": true,
+        "nameLit": "",
+        "nameInc": [
+        ],
+        "nameIncAny": true,
+        "nameExc": [
+        ],
+        "nameExcAny": true
+    },
+    "point-shoot-film": {
+        "minors": [
+            "8010"
+        ],
+        "minorsAny": true,
+        "familyInc": [
+        ],
+        "familyIncAny": true,
+        "familyExc": [
+        ],
+        "familyExcAny": true,
+        "nameLit": "",
+        "nameInc": [
+        ],
+        "nameIncAny": true,
+        "nameExc": [
+        ],
+        "nameExcAny": true
+    },
+    "point-shoot-film-canon": {
+        "minors": [
+            "8010"
+        ],
+        "minorsAny": true,
+        "familyInc": [
+            "1CAN"
+        ],
+        "familyIncAny": true,
+        "familyExc": [
+        ],
+        "familyExcAny": true,
+        "nameLit": "",
+        "nameInc": [
+        ],
+        "nameIncAny": true,
+        "nameExc": [
+        ],
+        "nameExcAny": true
+    },
+    "point-shoot-film-nikon": {
+        "minors": [
+            "8010"
+        ],
+        "minorsAny": true,
+        "familyInc": [
+            "1NIK"
+        ],
+        "familyIncAny": true,
+        "familyExc": [
+        ],
+        "familyExcAny": true,
+        "nameLit": "",
+        "nameInc": [
+        ],
+        "nameIncAny": true,
+        "nameExc": [
+        ],
+        "nameExcAny": true
+    },
+    "point-shoot-film-olympus": {
+        "minors": [
+            "8010"
+        ],
+        "minorsAny": true,
+        "familyInc": [
+            "1OLY"
+        ],
+        "familyIncAny": true,
+        "familyExc": [
+        ],
+        "familyExcAny": true,
+        "nameLit": "",
+        "nameInc": [
+        ],
+        "nameIncAny": true,
+        "nameExc": [
+        ],
+        "nameExcAny": true
+    },
+    "point-shoot-film-olympus-stylus": {
+        "minors": [
+            "8010"
+        ],
+        "minorsAny": true,
+        "familyInc": [
+            "1OLY"
+        ],
+        "familyIncAny": true,
+        "familyExc": [
+        ],
+        "familyExcAny": true,
+        "nameLit": "",
+        "nameInc": [
+            "stylus"
+        ],
+        "nameIncAny": true,
+        "nameExc": [
+        ],
+        "nameExcAny": true
+    },
+    "point-shoot-film-olympus-other": {
+        "minors": [
+            "8010"
+        ],
+        "minorsAny": true,
+        "familyInc": [
+            "1OLY"
+        ],
+        "familyIncAny": true,
+        "familyExc": [
+        ],
+        "familyExcAny": true,
+        "nameLit": "",
+        "nameInc": [
+        ],
+        "nameIncAny": true,
+        "nameExc": [
+            "stylus"
+        ],
+        "nameExcAny": true
+    },
+    "point-shoot-film-minolta": {
+        "minors": [
+            "8010"
+        ],
+        "minorsAny": true,
+        "familyInc": [
+            "1MIN"
+        ],
+        "familyIncAny": true,
+        "familyExc": [
+        ],
+        "familyExcAny": true,
+        "nameLit": "",
+        "nameInc": [
+        ],
+        "nameIncAny": true,
+        "nameExc": [
+        ],
+        "nameExcAny": true
+    },
+    "point-shoot-film-pentax": {
+        "minors": [
+            "8010"
+        ],
+        "minorsAny": true,
+        "familyInc": [
+            "1PEN"
+        ],
+        "familyIncAny": true,
+        "familyExc": [
+        ],
+        "familyExcAny": true,
+        "nameLit": "",
+        "nameInc": [
+        ],
+        "nameIncAny": true,
+        "nameExc": [
+        ],
+        "nameExcAny": true
+    },
+    "point-shoot-film-other": {
+        "minors": [
+            "8010"
+        ],
+        "minorsAny": true,
+        "familyInc": [
+        ],
+        "familyIncAny": true,
+        "familyExc": [
+            "1OLY",
+            "1CAN",
+            "1NIK",
+            "1MIN",
+            "1PEN"
+        ],
+        "familyExcAny": false,
+        "nameLit": "",
+        "nameInc": [
+        ],
+        "nameIncAny": true,
+        "nameExc": [
+        ],
+        "nameExcAny": true
+    },
+    "point-shoot-digital": {
+        "minors": [
+            "8035"
+        ],
+        "minorsAny": true,
+        "familyInc": [
+        ],
+        "familyIncAny": true,
+        "familyExc": [
+        ],
+        "familyExcAny": true,
+        "nameLit": "",
+        "nameInc": [
+        ],
+        "nameIncAny": true,
+        "nameExc": [
+        ],
+        "nameExcAny": true
+    },
+    "point-shoot-digital-canon": {
+        "minors": [
+            "8035"
+        ],
+        "minorsAny": true,
+        "familyInc": [
+            "1CAN"
+        ],
+        "familyIncAny": true,
+        "familyExc": [
+        ],
+        "familyExcAny": true,
+        "nameLit": "",
+        "nameInc": [
+        ],
+        "nameIncAny": true,
+        "nameExc": [
+        ],
+        "nameExcAny": true
+    },
+    "point-shoot-digital-canon-sd": {
+        "minors": [
+            "8035"
+        ],
+        "minorsAny": true,
+        "familyInc": [
+            "1CAN"
+        ],
+        "familyIncAny": true,
+        "familyExc": [
+        ],
+        "familyExcAny": true,
+        "nameLit": "",
+        "nameInc": [
+            "sd"
+        ],
+        "nameIncAny": true,
+        "nameExc": [
+        ],
+        "nameExcAny": true
+    },
+    "point-shoot-digital-canon-sx": {
+        "minors": [
+            "8035"
+        ],
+        "minorsAny": true,
+        "familyInc": [
+            "1CAN"
+        ],
+        "familyIncAny": true,
+        "familyExc": [
+        ],
+        "familyExcAny": true,
+        "nameLit": "",
+        "nameInc": [
+            "sx"
+        ],
+        "nameIncAny": true,
+        "nameExc": [
+        ],
+        "nameExcAny": true
+    },
+    "point-shoot-digital-canon-g": {
+        "minors": [
+            "8035"
+        ],
+        "minorsAny": true,
+        "familyInc": [
+            "1CAN"
+        ],
+        "familyIncAny": true,
+        "familyExc": [
+        ],
+        "familyExcAny": true,
+        "nameLit": "",
+        "nameInc": [
+            " g"
+        ],
+        "nameIncAny": true,
+        "nameExc": [
+        ],
+        "nameExcAny": true
+    },
+    "point-shoot-digital-canon-elph": {
+        "minors": [
+            "8035"
+        ],
+        "minorsAny": true,
+        "familyInc": [
+            "1CAN"
+        ],
+        "familyIncAny": true,
+        "familyExc": [
+        ],
+        "familyExcAny": true,
+        "nameLit": "",
+        "nameInc": [
+            "elph"
+        ],
+        "nameIncAny": true,
+        "nameExc": [
+        ],
+        "nameExcAny": true
+    },
+    "point-shoot-digital-canon-other": {
+        "minors": [
+            "8035"
+        ],
+        "minorsAny": true,
+        "familyInc": [
+            "1CAN"
+        ],
+        "familyIncAny": true,
+        "familyExc": [
+        ],
+        "familyExcAny": true,
+        "nameLit": "",
+        "nameInc": [
+        ],
+        "nameIncAny": true,
+        "nameExc": [
+            " g",
+            "sd",
+            "sx",
+            "elph"
+        ],
+        "nameExcAny": false
+    },
+    "point-shoot-digital-nikon": {
+        "minors": [
+            "8035"
+        ],
+        "minorsAny": true,
+        "familyInc": [
+            "1NIK"
+        ],
+        "familyIncAny": true,
+        "familyExc": [
+        ],
+        "familyExcAny": true,
+        "nameLit": "",
+        "nameInc": [
+        ],
+        "nameIncAny": true,
+        "nameExc": [
+        ],
+        "nameExcAny": true
+    },
+    "point-shoot-digital-nikon-p": {
+        "minors": [
+            "8035"
+        ],
+        "minorsAny": true,
+        "familyInc": [
+            "1NIK"
+        ],
+        "familyIncAny": true,
+        "familyExc": [
+        ],
+        "familyExcAny": true,
+        "nameLit": "",
+        "nameInc": [
+            " p"
+        ],
+        "nameIncAny": true,
+        "nameExc": [
+        ],
+        "nameExcAny": true
+    },
+    "point-shoot-digital-nikon-s": {
+        "minors": [
+            "8035"
+        ],
+        "minorsAny": true,
+        "familyInc": [
+            "1NIK"
+        ],
+        "familyIncAny": true,
+        "familyExc": [
+        ],
+        "familyExcAny": true,
+        "nameLit": "",
+        "nameInc": [
+            " s"
+        ],
+        "nameIncAny": true,
+        "nameExc": [
+        ],
+        "nameExcAny": true
+    },
+    "point-shoot-digital-nikon-other": {
+        "minors": [
+            "8035"
+        ],
+        "minorsAny": true,
+        "familyInc": [
+            "1NIK"
+        ],
+        "familyIncAny": true,
+        "familyExc": [
+        ],
+        "familyExcAny": true,
+        "nameLit": "",
+        "nameInc": [
+        ],
+        "nameIncAny": true,
+        "nameExc": [
+            " p",
+            " s"
+        ],
+        "nameExcAny": false
+    },
+    "point-shoot-digital-sony": {
+        "minors": [
+            "8035"
+        ],
+        "minorsAny": true,
+        "familyInc": [
+            "1SNY"
+        ],
+        "familyIncAny": true,
+        "familyExc": [
+        ],
+        "familyExcAny": true,
+        "nameLit": "",
+        "nameInc": [
+        ],
+        "nameIncAny": true,
+        "nameExc": [
+        ],
+        "nameExcAny": true
+    },
+    "point-shoot-digital-sony-w": {
+        "minors": [
+            "8035"
+        ],
+        "minorsAny": true,
+        "familyInc": [
+            "1SNY"
+        ],
+        "familyIncAny": true,
+        "familyExc": [
+        ],
+        "familyExcAny": true,
+        "nameLit": "",
+        "nameInc": [
+            "CYBER-SHOT DSC-W"
+        ],
+        "nameIncAny": true,
+        "nameExc": [
+        ],
+        "nameExcAny": true
+    },
+    "point-shoot-digital-sony-h": {
+        "minors": [
+            "8035"
+        ],
+        "minorsAny": true,
+        "familyInc": [
+            "1SNY"
+        ],
+        "familyIncAny": true,
+        "familyExc": [
+        ],
+        "familyExcAny": true,
+        "nameLit": "",
+        "nameInc": [
+            "CYBER-SHOT DSC-H"
+        ],
+        "nameIncAny": true,
+        "nameExc": [
+        ],
+        "nameExcAny": true
+    },
+    "point-shoot-digital-sony-rx": {
+        "minors": [
+            "8035"
+        ],
+        "minorsAny": true,
+        "familyInc": [
+            "1SNY"
+        ],
+        "familyIncAny": true,
+        "familyExc": [
+        ],
+        "familyExcAny": true,
+        "nameLit": "",
+        "nameInc": [
+            "DSC-RX"
+        ],
+        "nameIncAny": true,
+        "nameExc": [
+        ],
+        "nameExcAny": true
+    },
+    "point-shoot-digital-sony-other": {
+        "minors": [
+            "8035"
+        ],
+        "minorsAny": true,
+        "familyInc": [
+            "1SNY"
+        ],
+        "familyIncAny": true,
+        "familyExc": [
+        ],
+        "familyExcAny": true,
+        "nameLit": "",
+        "nameInc": [
+        ],
+        "nameIncAny": true,
+        "nameExc": [
+            "CYBER-SHOT DSC-W",
+            "CYBER-SHOT DSC-H",
+            "DSC-RX"
+        ],
+        "nameExcAny": false
+    },
+    "point-shoot-digital-fuji": {
+        "minors": [
+            "8035"
+        ],
+        "minorsAny": true,
+        "familyInc": [
+            "1FUJ"
+        ],
+        "familyIncAny": true,
+        "familyExc": [
+        ],
+        "familyExcAny": true,
+        "nameLit": "",
+        "nameInc": [
+        ],
+        "nameIncAny": true,
+        "nameExc": [
+        ],
+        "nameExcAny": true
+    },
+    "point-shoot-digital-olympus": {
+        "minors": [
+            "8035"
+        ],
+        "minorsAny": true,
+        "familyInc": [
+            "1OLY"
+        ],
+        "familyIncAny": true,
+        "familyExc": [
+        ],
+        "familyExcAny": true,
+        "nameLit": "",
+        "nameInc": [
+        ],
+        "nameIncAny": true,
+        "nameExc": [
+        ],
+        "nameExcAny": true
+    },
+    "point-shoot-digital-lecia": {
+        "minors": [
+            "8035"
+        ],
+        "minorsAny": true,
+        "familyInc": [
+            "1LEI"
+        ],
+        "familyIncAny": true,
+        "familyExc": [
+        ],
+        "familyExcAny": true,
+        "nameLit": "",
+        "nameInc": [
+        ],
+        "nameIncAny": true,
+        "nameExc": [
+        ],
+        "nameExcAny": true
+    },
+    "point-shoot-digital-panasonic": {
+        "minors": [
+            "8035"
+        ],
+        "minorsAny": true,
+        "familyInc": [
+            "1PAN"
+        ],
+        "familyIncAny": true,
+        "familyExc": [
+        ],
+        "familyExcAny": true,
+        "nameLit": "",
+        "nameInc": [
+        ],
+        "nameIncAny": true,
+        "nameExc": [
+        ],
+        "nameExcAny": true
+    },
+    "point-shoot-digital-other": {
+        "minors": [
+            "8035"
+        ],
+        "minorsAny": true,
+        "familyInc": [
+        ],
+        "familyIncAny": true,
+        "familyExc": [
+            "1CAN",
+            "1NIK",
+            "1SNY",
+            "1FUJ",
+            "1OLY",
+            "1LEI",
+            "1PAN"
+        ],
+        "familyExcAny": false,
+        "nameLit": "",
+        "nameInc": [
+        ],
+        "nameIncAny": true,
+        "nameExc": [
+        ],
+        "nameExcAny": true
+    },
+    "medium-format": {
+        "minors": [
+            "8025"
+        ],
+        "minorsAny": true,
+        "familyInc": [
+        ],
+        "familyIncAny": true,
+        "familyExc": [
+        ],
+        "familyExcAny": true,
+        "nameLit": "",
+        "nameInc": [
+        ],
+        "nameIncAny": true,
+        "nameExc": [
+        ],
+        "nameExcAny": true
+    },
+    "medium-format-bronica": {
+        "minors": [
+            "8025"
+        ],
+        "minorsAny": true,
+        "familyInc": [
+        ],
+        "familyIncAny": true,
+        "familyExc": [
+        ],
+        "familyExcAny": true,
+        "nameLit": "",
+        "nameInc": [
+            "bronica"
+        ],
+        "nameIncAny": true,
+        "nameExc": [
+        ],
+        "nameExcAny": true
+    },
+    "medium-format-hasselblad": {
+        "minors": [
+            "8025"
+        ],
+        "minorsAny": true,
+        "familyInc": [
+            "1HAS"
+        ],
+        "familyIncAny": true,
+        "familyExc": [
+        ],
+        "familyExcAny": true,
+        "nameLit": "",
+        "nameInc": [
+        ],
+        "nameIncAny": true,
+        "nameExc": [
+        ],
+        "nameExcAny": true
+    },
+    "medium-format-mamiya": {
+        "minors": [
+            "8025"
+        ],
+        "minorsAny": true,
+        "familyInc": [
+            "1MAM"
+        ],
+        "familyIncAny": true,
+        "familyExc": [
+        ],
+        "familyExcAny": true,
+        "nameLit": "",
+        "nameInc": [
+        ],
+        "nameIncAny": true,
+        "nameExc": [
+        ],
+        "nameExcAny": true
+    },
+    "medium-format-pentax": {
+        "minors": [
+            "8025"
+        ],
+        "minorsAny": true,
+        "familyInc": [
+            "1PEN"
+        ],
+        "familyIncAny": true,
+        "familyExc": [
+        ],
+        "familyExcAny": true,
+        "nameLit": "",
+        "nameInc": [
+        ],
+        "nameIncAny": true,
+        "nameExc": [
+        ],
+        "nameExcAny": true
+    },
+    "medium-format-other": {
+        "minors": [
+            "8025"
+        ],
+        "minorsAny": true,
+        "familyInc": [
+        ],
+        "familyIncAny": true,
+        "familyExc": [
+            "1PEN",
+            "1HAS",
+            "1MAM"
+        ],
+        "familyExcAny": false,
+        "nameLit": "",
+        "nameInc": [
+        ],
+        "nameIncAny": true,
+        "nameExc": [
+            "bronica"
+        ],
+        "nameExcAny": true
+    },
+    "large-format": {
+        "minors": [
+            "8055"
+        ],
+        "minorsAny": true,
+        "familyInc": [
+        ],
+        "familyIncAny": true,
+        "familyExc": [
+        ],
+        "familyExcAny": true,
+        "nameLit": "",
+        "nameInc": [
+        ],
+        "nameIncAny": true,
+        "nameExc": [
+        ],
+        "nameExcAny": true
+    }
+}

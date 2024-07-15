@@ -1,0 +1,366 @@
+{
+    "base": {
+        "terminal": false,
+        "headline": "Hunt for an Item",
+        "clear": true,
+        "backTarget": "",
+        "buttons": [
+            [
+                "primary",
+                "cameras",
+                "Cameras"
+            ],
+            [
+                "primary",
+                "lenses",
+                "Lenses"
+            ],
+            [
+                "break"
+            ],
+            [
+                "primary",
+                "lighting",
+                "Lighting"
+            ],
+            [
+                "primary",
+                "accessories",
+                "Accessories"
+            ],
+            [
+                "primary",
+                "other",
+                "Other"
+            ]
+        ]
+    },
+    "cameras": {
+        "terminal": false,
+        "headline": "Hunt for a Camera",
+        "clear": true,
+        "backTarget": "base",
+        "buttons": [
+            [
+                "success",
+                "slr-film",
+                "Film SLR"
+            ],
+            [
+                "success",
+                "slr-digital",
+                "Digital SRL"
+            ],
+            [
+                "break"
+            ],
+            [
+                "success",
+                "rangefinder",
+                "Rangefinder"
+            ],
+            [
+                "success",
+                "point-shoot",
+                "Point and Shoot"
+            ],
+            [
+                "break"
+            ],
+            [
+                "success",
+                "medium-format",
+                "Medium Format"
+            ],
+            [
+                "success",
+                "large-format",
+                "Large Format"
+            ],
+            [
+                "success",
+                "mirrorless",
+                "Mirrorless &lpar;NEX, M4&sol;3, DL&rpar;"
+            ],
+            [
+                "break"
+            ],
+            [
+                "success",
+                "camcorder",
+                "Camcorder"
+            ]
+        ]
+    },
+    "slr-film": {
+        "terminal": false,
+        "headline": "Hunt for an SLR Film Camera",
+        "clear": true,
+        "backTarget": "cameras",
+        "buttons": [
+            [
+                "success",
+                "slr-film-canon",
+                "Canon"
+            ],
+            [
+                "success",
+                "film-slr-nikon",
+                "NIkon"
+            ],
+            [
+                "success",
+                "film-slr-olympus",
+                "Olympus"
+            ],
+            [
+                "success",
+                "film-slr-minolta",
+                "Minolta"
+            ],
+            [
+                "success",
+                "film-slr-lecia",
+                "Lecia"
+            ],
+            [
+                "success",
+                "film-slr-pentax",
+                "Olympus"
+            ],
+            [
+                "success",
+                "film-slr-other",
+                "Other"
+            ]
+        ]
+    },
+    "slr-film-canon": {
+        "terminal": false,
+        "headline": "Hunt for a Canon SLR Film Camera",
+        "clear": true,
+        "backTarget": "cameras",
+        "buttons": [
+            [
+                "success",
+                "slr-film-canon-eos",
+                "EOS"
+            ],
+            [
+                "success",
+                "slr-film-canon-non-eos",
+                "Non-EOS"
+            ]
+        ]
+    },
+    "slr-film-canon-eos": {
+        "terminal": true,
+        "headline": "Hunt for a Canon EOS SLR Film Camera",
+        "clear": true,
+        "backTarget": "slr-film-canon",
+        "buttons": [
+            [
+                "success",
+                "slr-film-canon-eos-rebel",
+                "EOS Rebel"
+            ],
+            [
+                "success",
+                "slr-film-canon-eos-other",
+                "Non Rebel EOS"
+            ]
+        ]
+    },
+    "slr-film-canon-eos-rebel": {
+        "terminal": true,
+        "headline": "Hunt for a Canon EOS Rebel SLR Film Camera",
+        "clear": true,
+        "backTarget": "slr-film-canon",
+        "buttons": []
+    },
+    "slr-film-canon-eos-other": {
+        "terminal": true,
+        "headline": "Hunt for a Canon Non-Rebel EOS SLR Film Camera",
+        "clear": true,
+        "backTarget": "slr-film-canon",
+        "buttons": []
+    },
+    "slr-film-canon-non-eos": {
+        "terminal": true,
+        "headline": "Hunt for Non EOS Canon SLR Film Camera",
+        "clear": true,
+        "backTarget": "slr-film-canon",
+        "buttons": [
+        ]
+    },
+    "slr-digital": {
+        "terminal": false,
+        "headline": "Hunt for a Digital SLR Camera",
+        "clear": true,
+        "backTarget": "cameras",
+        "buttons": [
+            [
+                "success",
+                "slr-digital-canon",
+                "Canon SLR"
+            ],
+            [
+                "success",
+                "slr-digital-nikon",
+                "NIkon SLR"
+            ],
+            [
+                "success",
+                "slr-digital-sony",
+                "Sony SLR"
+            ],
+            [
+                "success",
+                "slr-digital-other",
+                "Other SLR"
+            ]
+        ]
+    },
+    "slr-digital-canon": {
+        "terminal": true,
+        "headline": "Hunt for a Canon DSLR Camera",
+        "clear": true,
+        "backTarget": "slr-digital",
+        "buttons": [
+            [
+                "success",
+                "slr-digital-canon-standard",
+                "Standard"
+            ],
+            [
+                "success",
+                "slr-digital-canon-rebel",
+                "Rebel"
+            ]
+        ]
+    },
+    "slr-digital-canon-standard": {
+        "terminal": true,
+        "headline": "Hunt for a Canon DSLR Camera",
+        "clear": true,
+        "backTarget": "slr-digital-canon",
+        "buttons": [
+        ]
+    },
+    "slr-digital-canon-rebel": {
+        "terminal": true,
+        "headline": "Hunt for a Canon Rebel SLR Camera",
+        "clear": true,
+        "backTarget": "slr-digital-canon",
+        "buttons": [
+        ]
+    },
+    "point-shoot": {
+        "terminal": false,
+        "headline": "Hunt for a Point and Shoot Camera",
+        "clear": true,
+        "backTarget": "cameras",
+        "buttons": [
+            [
+                "success",
+                "point-shoot-film",
+                "Film Point and Shoot"
+            ],
+            [
+                "success",
+                "point-shoot-digital",
+                "Digital Point and Shoot"
+            ]
+        ]
+    },
+    "point-shoot-film": {
+        "terminal": false,
+        "headline": "Hunt for a Film Point and Shoot Camera",
+        "clear": true,
+        "backTarget": "point-shoot",
+        "buttons": [
+            [
+                "success",
+                "film-point-shoot-canon",
+                "Canon"
+            ],
+            [
+                "success",
+                "film-point-shoot-nikon",
+                "Nikon"
+            ],
+            [
+                "success",
+                "film-point-shoot-olympus",
+                "Olympus"
+            ],
+            [
+                "success",
+                "film-point-shoot-minolta",
+                "Minolta"
+            ],
+            [
+                "success",
+                "film-point-shoot-pentax",
+                "Pentax"
+            ],
+            [
+                "success",
+                "film-point-shoot-other",
+                "Other"
+            ]
+        ]
+    },
+    "point-shoot-digital": {
+        "terminal": false,
+        "headline": "Hunt for a Point and Shoot Digital Camera",
+        "clear": true,
+        "backTarget": "point-shoot",
+        "buttons": [
+            [
+                "success",
+                "digital-point-shoot-canon",
+                "Canon"
+            ],
+            [
+                "success",
+                "digital-point-shoot-nikon",
+                "Nikon"
+            ],
+            [
+                "success",
+                "digital-point-shoot-Sony",
+                "Sony"
+            ],
+            [
+                "success",
+                "digital-point-shoot-fuji",
+                "Fuji"
+            ],
+            [
+                "success",
+                "break"
+            ],
+            [
+                "success",
+                "digital-point-shoot-olympus",
+                "Olympus"
+            ],
+            [
+                "success",
+                "digital-point-shoot-lecia",
+                "Lecia"
+            ],
+            [
+                "success",
+                "digital-point-shoot-panasonic",
+                "Panasonic"
+            ],
+            [
+                "success",
+                "digital-point-shoot-other",
+                "Other"
+            ]
+        ]
+    }
+}
